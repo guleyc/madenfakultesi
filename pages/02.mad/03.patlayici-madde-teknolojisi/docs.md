@@ -1,5 +1,5 @@
 ---
-title: 'Patlayıcı Madde Teknolojisi ve Uygulaması'
+title: 'Patlayıcı Madde Teknolojisi'
 taxonomy:
     category:
         - docs

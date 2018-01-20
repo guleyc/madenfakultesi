@@ -6,4 +6,4 @@ taxonomy:
 child_type: docs
 ---
 
-Jeoloji
+<p>Jeoloji<sup>2</sup></p>

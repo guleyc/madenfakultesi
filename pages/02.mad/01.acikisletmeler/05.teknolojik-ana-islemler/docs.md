@@ -1,0 +1,4 @@
+---
+title: 'Teknolojik Ana İşlemler'
+---
+

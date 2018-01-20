@@ -1,12 +1,9 @@
 ---
-title: Basics
+title: 'Maden Mühendisliği'
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
-### Chapter 1
-
-# Basics
-
-Discover the **basic** principles
+Maden Mühendisliği

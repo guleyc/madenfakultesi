@@ -6,4 +6,4 @@ taxonomy:
 child_type: docs
 ---
 
-Maden Mühendisliği
+<h2 id="mcetoc_1c49suqeb0">Web Tabanlı Maden M&uuml;hendisliği El Kitabı</h2>

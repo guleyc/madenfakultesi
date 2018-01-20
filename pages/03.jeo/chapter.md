@@ -8,5 +8,4 @@ mathjax:
 child_type: docs
 ---
 
-<p>Jeoloji</p>
-<p>$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</p>
+<h1 id="mcetoc_1c49std1f0">Web Tabanlı Jeoloji M&uuml;hendisliği El Kitabı</h1>

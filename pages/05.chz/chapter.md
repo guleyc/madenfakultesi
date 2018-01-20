@@ -1,0 +1,4 @@
+---
+title: 'Cevher Hazırlama Mühendisliği'
+---
+

@@ -1,4 +1,4 @@
 ---
-title: Petrografi
+title: 'Yeraltı Maden İşletmeciliği'
 ---
 

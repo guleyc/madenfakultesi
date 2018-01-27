@@ -1,2 +1,2 @@
 # madenfakultesi
-Web Tabanlı Maden Mühendisliği El Kitabı
+Web Tabanlı Yerbilimleri El Kitabı

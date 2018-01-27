@@ -9,6 +9,7 @@ title: Anasayfa
 <li>Konu i&ccedil;eriklerinde bulunan form&uuml;ller hesaplama i&ccedil;in script,</li>
 <li>Kenar &ccedil;ubuğunda
 <ul>
+<li>Men&uuml; </li>
 <li>Detaylı arama,</li>
 <li>ATOM ve RSS,</li>
 <li>Bağış ve İletişim</li>

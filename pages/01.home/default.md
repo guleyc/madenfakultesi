@@ -2,4 +2,6 @@
 title: Anasayfa
 ---
 
-<p>Bilgi uygulama yapılmadığı m&uuml;ddet&ccedil;e unutulacaktır. Maden Fak&uuml;ltesi projesi, ezberlenmeye dayatılan &ouml;ğretileri tek &ccedil;atı altında toplayıp eğitim alanına farklı bir pencere a&ccedil;mak amacıyla kurulmuştur. Her bir sayfa tarafınızca d&uuml;zeltilebilir &ouml;zelliğini barındırmaktadır. Konu başlıklarının altında bulunan i&ccedil;eriklerde bulunan form&uuml;llerde kolayca hesaplama yapabilmeniz i&ccedil;in hesaplama scriptinin bağlantısı da bulunmaktadır. Zamanla t&uuml;m yerbilimlerinin m&uuml;hendislik dallarını i&ccedil;erecek bu internet sitesine katkıda bulunmak i&ccedil;in bağış yapabilir ya da ders notlarınızı iletişim b&ouml;l&uuml;m&uuml;nden tarafımıza ulaştırabilirsiniz.</p>
+<p>Maden Fak&uuml;ltesi projesi, ezberlenmeye dayatılan &ouml;ğretileri tek &ccedil;atı altında toplayıp eğitim alanına farklı bir pencere a&ccedil;mak amacıyla kurulmuştur.</p>
+<p>Her bir sayfa tarafınızca d&uuml;zeltilebilir &ouml;zelliğini barındırmaktadır. Konu başlıklarının altında bulunan i&ccedil;eriklerde bulunan form&uuml;llerde kolayca hesaplama yapabilmeniz i&ccedil;in hesaplama scriptinin bağlantısı da bulunmaktadır.</p>
+<p>Zamanla t&uuml;m yerbilimlerinin m&uuml;hendislik dallarını i&ccedil;erecek bu internet sitesine katkıda bulunmak i&ccedil;in bağış yapabilir ya da ders notlarınızı iletişim b&ouml;l&uuml;m&uuml;nden tarafımıza ulaştırabilirsiniz.</p>

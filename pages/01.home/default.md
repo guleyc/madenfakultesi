@@ -1,5 +1,6 @@
 ---
 title: Anasayfa
+visible: false
 ---
 
 <p><img src="home/madenlogo.png" alt="Maden Fak&uuml;ltesi" width="441" height="350" /></p>
@@ -9,7 +10,7 @@ title: Anasayfa
 <li>Konu i&ccedil;eriklerinde bulunan form&uuml;ller hesaplama i&ccedil;in script,</li>
 <li>Kenar &ccedil;ubuğunda
 <ul>
-<li>Men&uuml; </li>
+<li>Men&uuml;</li>
 <li>Detaylı arama,</li>
 <li>ATOM ve RSS,</li>
 <li>Bağış ve İletişim</li>

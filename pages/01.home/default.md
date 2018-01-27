@@ -15,5 +15,5 @@ title: Anasayfa
 </ul>
 </li>
 </ul>
-<p>&ouml;zellikleri bulunmaktadır.</p>
+<p>gibi &ouml;zellikleri bulunmaktadır.</p>
 <p>Zamanla t&uuml;m yerbilimlerinin m&uuml;hendislik dallarını i&ccedil;erecek bu internet sitesine katkıda bulunmak i&ccedil;in bağış yapabilir ya da ders notlarınızı iletişim b&ouml;l&uuml;m&uuml;nden tarafımıza ulaştırabilirsiniz.</p>

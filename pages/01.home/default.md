@@ -1,6 +1,5 @@
 ---
 title: Anasayfa
-media_order: madenlogo.png
 ---
 
 <p><img src="home/madenlogo.png" alt="Maden Fak&uuml;ltesi" width="441" height="350" /></p>

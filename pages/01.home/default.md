@@ -13,7 +13,7 @@ visible: false
 <p>gibi &ouml;zellikleri bulunuyor ve s&uuml;rekli geliştirilmeye devam edilecek elbette. Şayet yerbilimlerinin m&uuml;hendislik dallarını i&ccedil;erecek bu internet sitesine katkıda bulunmak isterseniz bize hız kazandırmak i&ccedil;in bağış yapabilir ya da ders notlarınızı iletişim b&ouml;l&uuml;m&uuml;nden tarafımıza ulaştırabilirsiniz.</p>
 <p>Bir sonraki geliştirme i&ccedil;in pathfinder</p>
 <ul>
-<li>Logo <cite class="_Rm">✔</cite></li>
+<li>Logo ✔</li>
 <li>Makaleler &ouml;zelliği</li>
 <li>&Uuml;yelik sistemi</li>
 <li>Pratik bağış sistemi</li>

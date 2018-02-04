@@ -1,6 +1,7 @@
 ---
 title: Anasayfa
 media_order: logomaden.png
+cache_enable: true
 visible: false
 ---
 

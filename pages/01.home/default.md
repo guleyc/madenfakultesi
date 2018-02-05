@@ -1,11 +1,9 @@
 ---
 title: Anasayfa
-media_order: logomaden.png
 cache_enable: true
 visible: false
 ---
 
-<p><img src="home/logomaden.png" alt="Maden Fak&uuml;ltesi" width="400" height="264" /></p>
 <p>Maden Fak&uuml;ltesi projesini ezber temelli eğitim sistemimizdeki &ouml;ğretilerin tamamını &ouml;m&uuml;r boyu &uuml;cretsiz olarak tek &ccedil;atı altında toplayıp bilgiye daha pratik ulaşabilmek amacıyla kurduk. Web tabanlı yerbilimleri el kitabı projesinde şimdilik;</p>
 <ul>
 <li>Github tabanlı her bir sayfa tarafınızca d&uuml;zeltilebilir, konu hakkında tartışılabilir &ouml;zelliği,</li>

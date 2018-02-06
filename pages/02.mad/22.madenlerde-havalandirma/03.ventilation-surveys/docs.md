@@ -7,7 +7,6 @@ media_order: '1.jpg,2.png,3.png'
 <p><img src="ventilation-surveys/2.png" alt="" width="924" height="534" /></p>
 <p>A ventilation survey is an organized procedure of acquiring data that quantify the distributions of airflow, pressure and air quality throughout the main flowpaths of a ventilation system.</p>
 <p>Measurements of airflow should be taken in all underground facilities at times and places that may be prescribed by law. Even in the absence of mandatory requirements, a prudent regard for safety indicates that sufficient routine measurements of airflow be taken.</p>
-<p>&nbsp;</p>
 <ol>
 <li>to ensure that all working places in the mine receive their required airflows in an efficient and effective manner,</li>
 <li>that ventilation plans are kept up to date and</li>

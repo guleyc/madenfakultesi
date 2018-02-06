@@ -1,5 +1,5 @@
 ---
-title: Anasayfa
+title: 'Maden Fakültesi'
 cache_enable: true
 visible: false
 ---

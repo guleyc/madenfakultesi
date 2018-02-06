@@ -1,5 +1,6 @@
 ---
 title: 'Air Quantity Survey'
+media_order: '2.png,3.png,4.png'
 ---
 
 <p>The volume of air, Q, passing any fixed point in an airway or duct every second is normally determined as the product of the mean velocity of the air, V, and the cross-sectional area of the airway or duct, A</p>
@@ -15,7 +16,7 @@ title: 'Air Quantity Survey'
 </ul>
 <h4 id="mcetoc_1c5l99drq0">Vane Anemometer</h4>
 <p>The instrument consists simply of a light impeller that rotates at a speed dependent on flow rate. The impeller rotational speed is converted into an air velocity reading using either electronic or mechanical means. Most anemometers used in mine&nbsp; ventilation survey work are capable of measuring velocities in the range of 0.2 to 25 m/s, with an absolute accuracy of &plusmn; 0.5 m/s, or better. They are ideally suited to conducting primary ventilation surveys and for routine determination of air velocity.</p>
-<p>&nbsp;</p>
+<p><img src="air-quantity-survey/2.png" alt="" width="424" height="314" /><img src="air-quantity-survey/3.png" alt="" width="420" height="316" /></p>
 <p>Air velocities below 0.2 m/s should be measured with another technique such as a smoke tube or hot wire anemometer.</p>
 <p>In order to obtain a reliable measure of the mean air velocity in an underground airway, it is important that a recommended technique of using the anemometer is employed.</p>
 <p>The anemometer should be attached to a rod of at least 1.5 m in length, or greater for high airways. The attachment mechanism should permit the options of allowing the anemometer to hang vertically or to be fixed at a constant angle with respect to the rod. A rotating vane anemometer is fairly insensitive to yaw and will give results that do not vary by more than &plusmn;5 per cent for angles deviating by up to 30&deg; from the direction of the airstream. Hence, for most</p>
@@ -37,3 +38,4 @@ title: 'Air Quantity Survey'
 <li>The velocity should be between 3m/s and 70m/s.</li>
 </ol>
 <p>The pitot-static tube can be used to measure static, total and velocity pressure when connected to a manometer.</p>
+<p><img src="air-quantity-survey/4.png" alt="" width="1072" height="379" /></p>

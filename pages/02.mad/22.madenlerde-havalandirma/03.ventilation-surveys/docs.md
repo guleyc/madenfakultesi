@@ -1,6 +1,6 @@
 ---
 title: 'Ventilation Surveys'
-media_order: '1.jpg,2.png'
+media_order: '1.jpg,2.png,3.png'
 ---
 
 <p><img src="ventilation-surveys/1.jpg" alt="" width="794" height="531" /></p>
@@ -24,4 +24,4 @@ media_order: '1.jpg,2.png'
 <li>friction factors</li>
 </ul>
 <p>While observations of airflow and pressure differentials are concerned with the distribution and magnitudes of air volume flow, other measurements may be taken either separately or as an integral part of a pressure/volume survey in order to indicate the quality of the air. These measurements may include wet and dry bulb temperatures, barometric pressures, dust levels and concentrations of gaseous pollutants.</p>
-<p>&nbsp;</p>
+<p>&nbsp;<img src="ventilation-surveys/3.png" alt="" width="608" height="514" /></p>

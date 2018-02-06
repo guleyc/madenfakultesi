@@ -1,0 +1,4 @@
+---
+title: 'Kimyasal Özellikleri'
+---
+

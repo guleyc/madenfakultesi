@@ -2,23 +2,10 @@
 title: 'Kömürün Tanımı ve Özellikleri'
 ---
 
-<p><strong>Neden K&ouml;m&uuml;r?</strong></p>
-<p><strong>Enerji g&uuml;venliği:</strong> Hızlı end&uuml;strileşme, gelişen ekonomiler ve n&uuml;f&uuml;z artışı dolayısıyla artan enerji ihyitacı i&ccedil;in enerji g&uuml;venliği gerekli. Ekonomik b&uuml;y&uuml;mede/gelişmede devamlılığı sağlamak ve ekonomik b&uuml;y&uuml;me performansının aynı seviyelerde tutulması i&ccedil;in m&uuml;mk&uuml;n, karşılanabilir (affordable) ve g&uuml;venilir enerji kaynakları gerekmektedir. Toplum refahı i&ccedil;in enerjide kesintinin olmaması gerekmektedir.</p>
-<ul>
-<li>K&ouml;m&uuml;r g&uuml;venilir bir enerji hammaddesidir.</li>
-<li>K&ouml;m&uuml;r rezervleri olduk&ccedil;a boldur ve d&uuml;nya da hemen hemen her &uuml;lkede bulunur. D&uuml;nyada 50 den fazla &uuml;lke k&ouml;m&uuml;r ticareti yapabilecek seviyede rezervlere sahiptir.</li>
-<li>K&ouml;m&uuml;r en ekonomik fosil yakıttır.</li>
-<li>K&ouml;m&uuml;r diğer fosil yakıtlara g&ouml;re daha uzun rezerv &ouml;mr&uuml;ne sahiptir. K&ouml;m&uuml;r, petrol ve doğalgaz rezerv &ouml;m&uuml;rleri 109, 52 ve 57 yıldır.</li>
-<li>K&ouml;m&uuml;r fiyatları yıllar bazında &ccedil;ok fazla değişiklik g&ouml;stermez. Petrol ve doğalgaza g&ouml;re daha stabil fiyatlara sahiptir.</li>
-<li>K&ouml;m&uuml;r arama faaliyetleri diğer fosil yakıtlara g&ouml;re daha d&uuml;ş&uuml;k maliyetlere sahiptir.</li>
-<li>K&ouml;m&uuml;re dayalı elektrik &uuml;retimi oturmuş bir sistemdir ve g&uuml;venilirdir. % 41&rsquo;in &uuml;zerinde &uuml;retilen elektrik enerjisi k&ouml;m&uuml;r tarafından sağlanmıştır.</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>K&ouml;m&uuml;r Nedir?</strong></p>
-<p>K&ouml;m&uuml;r 200-300 milyon yıl &ouml;nce, Carboniferous ve Permian jeolojik &ccedil;ağlarına ait yetişmiş o d&ouml;neme ait olan bitkilerin bataklık alanlarda yığın oluşturması ve &uuml;zerine gelen başka malzeme katmanlarınca sıkıştırılması, artan basın&ccedil; ve sıcaklık sebebiyle metamorfizmaya uğramış ve kaya&ccedil; haline d&ouml;n&uuml;şm&uuml;ş yanabilir bir yapıdır.</p>
-<ul>
-<li>&Ccedil;ok sayıda katı organik mineralin farklı kompozisyonlarını ve &ouml;zelliklerini i&ccedil;ermektedir.</li>
-<li>T&uuml;m k&ouml;m&uuml;rler karbonca zengin ve genellikle siyah olmak &uuml;zere koyu renklidir.</li>
-<li>Karbon bilindiği &uuml;zere, temel enerji hammaddesi olarak hayatın vazge&ccedil;ilmez unsurlarından biridir.</li>
-<li>K&ouml;m&uuml;r de d&uuml;nyada karbon ihtiva eden &ouml;nemli hammaddelerden birini oluşturmaktadır.</li>
-</ul>
+<p>Yeterli miktarlarda yanıcı ve organik bileşikler i&ccedil;eren, doğal halde veya bazı değişimlerden sonra yakacak olarak kullanılabilen kaya&ccedil;lara "mineral yakıtlar" adı verilir. B&uuml;t&uuml;n yanabilen mineraller yakıtlar sınıfına dahil edilemez. Oksijen i&ccedil;eren bir ortamda yanabilmesine rağmen, yakıt olarak kullanılmayan k&uuml;k&uuml;rt gibi minerallerin de mevcut olduğunu unutmamak gerekir. Mineral yakıtların ortak &ouml;zellikleri organik k&ouml;kenli olamaları, belirli oranlarda C, H, O ve N i&ccedil;ermeleridir. Mineral yakıtlar genel olarak &uuml;&ccedil; b&uuml;y&uuml;k grupta toplanırlar;</p>
+<p>1. K&ouml;m&uuml;rler</p>
+<p>K&ouml;m&uuml;r, organik bir kaya olarak tariflenmiştir. Genellikle kuru olarak %50 oranında yanabilen madde i&ccedil;eren kaya&ccedil;lar k&ouml;m&uuml;r olarak kabul edilirler. K&ouml;m&uuml;r organik malzemenin yanısıra, inorganik malzeme ve nem i&ccedil;ermektedir.</p>
+<p>2. Bit&uuml;ml&uuml; Şistler</p>
+<p>K&ouml;m&uuml;rlere g&ouml;re karbon miktarı az, fakat i&ccedil;erdikleri mineral maddeleri &ccedil;ok daha fazla olan bit&uuml;ml&uuml; şistler, genellikle killi bir ana kayaca emprenye olmuş organik maddelerden ibarettir. Genellikle kahverengidirler. &Ccedil;ok nadir olarak bitki artığı i&ccedil;erir. K&ouml;m&uuml;rlerle bit&uuml;ml&uuml; şistler arasında bir&ccedil;ok ge&ccedil;iş tipi mevcuttur.</p>
+<p>3. Petroller</p>
+<p>Gaz, sıvı veya katı halde bulunabilen hidrokarb&uuml;rler olup, bir depo kayaca kolayca enjekte edilmişlerdir. Sıvı hidrokarb&uuml;rler ekonomik y&ouml;nden en &ouml;nemlileridir. K&ouml;m&uuml;r&uuml;n ve bit&uuml;ml&uuml; şistlerin az &ccedil;ok d&uuml;zenli sedimanter tabakalar halinde bulunmalarına karşılık, petroller, şekilleri depo kayaca uyan, &ouml;zel ve d&uuml;zensiz yataklar oluştururlar.</p>

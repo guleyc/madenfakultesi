@@ -1,4 +1,0 @@
----
-title: 'Hazırlık İşleri'
----
-

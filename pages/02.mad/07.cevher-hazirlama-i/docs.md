@@ -1,4 +1,0 @@
----
-title: 'Cevher Hazırlama I'
----
-

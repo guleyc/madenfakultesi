@@ -1,4 +1,0 @@
----
-title: 'Fiziksel Özellikleri'
----
-

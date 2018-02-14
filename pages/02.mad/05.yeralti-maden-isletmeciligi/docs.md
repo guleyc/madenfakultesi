@@ -1,4 +1,0 @@
----
-title: 'Yeraltı Maden İşletmeciliği'
----
-

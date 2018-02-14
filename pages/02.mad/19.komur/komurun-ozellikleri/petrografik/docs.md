@@ -1,4 +1,0 @@
----
-title: 'Petrografik Özellikleri'
----
-

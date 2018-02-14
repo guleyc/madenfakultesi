@@ -1,4 +1,0 @@
----
-title: 'Mining and Environment'
----
-

@@ -1,4 +1,0 @@
----
-title: 'Teknolojik Ana İşlemler'
----
-

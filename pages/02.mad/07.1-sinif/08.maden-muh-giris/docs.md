@@ -1,4 +1,4 @@
 ---
-title: Giriş
+title: 'Maden Mühendisliğine Giriş'
 ---
 

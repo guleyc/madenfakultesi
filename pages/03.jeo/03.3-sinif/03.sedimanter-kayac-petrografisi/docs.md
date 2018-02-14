@@ -1,0 +1,4 @@
+---
+title: 'Sedimanter Kayaç Petrografisi'
+---
+

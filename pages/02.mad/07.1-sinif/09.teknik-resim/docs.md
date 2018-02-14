@@ -1,0 +1,4 @@
+---
+title: 'Teknik Resim'
+---
+

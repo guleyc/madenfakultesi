@@ -1,5 +1,0 @@
----
-title: Arama
-creator: guleyc
----
-

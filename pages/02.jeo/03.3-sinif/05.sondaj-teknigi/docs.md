@@ -1,4 +1,0 @@
----
-title: 'Sondaj Tekniği'
----
-

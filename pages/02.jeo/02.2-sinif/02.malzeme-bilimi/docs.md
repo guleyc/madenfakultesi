@@ -1,4 +1,0 @@
----
-title: 'Malzeme Bilimi'
----
-

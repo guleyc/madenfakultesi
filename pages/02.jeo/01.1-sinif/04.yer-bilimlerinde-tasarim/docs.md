@@ -1,4 +1,0 @@
----
-title: 'Yer Bilimlerinde Tasarım'
----
-

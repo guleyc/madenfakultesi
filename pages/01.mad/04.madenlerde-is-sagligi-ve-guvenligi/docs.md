@@ -1,4 +1,4 @@
 ---
-title: 'Madenlerde İş Sağlığı & Güvenliği'
+title: 'Madenlerde İSG'
 ---
 

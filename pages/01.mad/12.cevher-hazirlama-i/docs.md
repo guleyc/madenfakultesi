@@ -4,7 +4,7 @@ title: 'Cevher Hazırlama I'
 
 <p><strong>Ders Programı</strong></p>
 <ol>
-<li>Cevher hazırlamaya giriş, tanımlar, boyut k&uuml;&ccedil;&uuml;ltmenin tanımı, ama&ccedil;ları, sınıflandırılması, boyut k&uuml;&ccedil;&uuml;ltme oranı ve harcanan enerji hesapları; Kırma, tanımı, kırıcıların sınıflandırılması,</li>
+<li>Cevher hazırlamaya giriş, tanımlar, boyut k&uuml;&ccedil;&uuml;ltmenin tanımı, ama&ccedil;ları, sınıflandırılması, boyut k&uuml;&ccedil;&uuml;ltme oranı ve harcanan enerji hesapları; kırma, tanımı, kırıcıların sınıflandırılması,</li>
 <li>&Ccedil;eneli (tek ve &ccedil;ift dayanak kollu) konili (kısa ve uzun başlıklı, symons), kırıcılar, &ouml;zellikleri, kullanım alanları,</li>
 <li>Merdaneli, &ccedil;eki&ccedil;li kırıcılar ve &ouml;zellikleri, kullanım alanları, kırma devrelerinin (a&ccedil;ık, kapalı) oluşturulması ve hesaplamalar,</li>
 <li>&Ouml;ğ&uuml;tme, değirmenlerin sınıflandırılması, otojen, yarı otojen, &ccedil;ubuklu, &ccedil;akıllı, bilyalı değirmenler ve &ouml;zellikleri</li>

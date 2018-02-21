@@ -9,4 +9,3 @@ mathjax:
 ---
 
 <h2 id="mcetoc_1c49std1f0">Web Tabanlı Jeoloji M&uuml;hendisliği El Kitabı</h2>
-<p>qweasdasqweasdasczxcaxdasqwe</p>

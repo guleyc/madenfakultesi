@@ -1,5 +1,6 @@
 ---
 title: Giriş
+media_order: Picture1.png
 visible: true
 ---
 
@@ -40,3 +41,35 @@ visible: true
 <p>Bu durumları &ouml;rnekler ile a&ccedil;ıklanacak olursa;</p>
 <p>Birinci duruma &ouml;rnek olarak; % 5 Pb i&ccedil;erikli kurşun cevheri verilebilir. Bu ten&ouml;rdeki bir cevheri izabe tesisine vererek metal kurşun elde etmek ekonomik olmamaktadır. Ancak Pb i&ccedil;eriğini % 60&rsquo;a &ccedil;ıkarılması durumunda ekonomik olmaktadır. Cevherin Pb i&ccedil;eriğinin y&uuml;kseltilmesi ekonomik bir zorunluluktur ve bu işlem Cevher Hazırlama ve Zenginleştirme y&ouml;ntemleri ile yapılabilmektedir.</p>
 <p>İkinci duruma &ouml;rnek olarak; % 50 civarında Fe i&ccedil;eren demir cevheri verilebilir, % 50 Fe i&ccedil;eriği aslında ekonomik a&ccedil;ıdan normal bir değerdir. Ancak fırın verimini artırmak ve ton başına masrafları d&uuml;ş&uuml;rmek anlamında, % 50 Fe demir i&ccedil;eriğinin % 52-53&rsquo;e &ccedil;ıkarılması ekonomik değerini logaritmik olarak artırmaktadır.</p>
+<h2 id="mcetoc_1c6skcctc0">Cevher Hazırlamada Kullanılan Terimler</h2>
+<p><strong>Mineral:</strong> Doğada bulunan ve belirli fiziksel, kimyasal yapıya sahip olan bileşiklere Mineral denilmektedir. Her mineralin belirli bir kristal yapısı bulunmaktadır.</p>
+<p><strong>Kıymetli Mineral:</strong> Belirli bir mineral topluluğu i&ccedil;erisinde, ekonomik değer taşıyan mineral veya minerallere Kıymetli Mineral denilmektedir.<br />&Ouml;rneğin: Krom cevheri i&ccedil;erisinde Kromit minerali (FeO Cr2O3) gibi</p>
+<p><strong>Kıymetsiz Mineral:</strong> Belirli bir mineral topluluğu i&ccedil;erisinde ekonomik değer taşımayan minerallere denilmektedir. Kıymetsiz minerallere Gang Mineralleri de denilmektedir. &Ouml;rneğin; krom cevheri i&ccedil;erisinde bulunan serpantin, olivin gibi, veya manyezit cevheri i&ccedil;erisinde bulunan kuvars gibi.</p>
+<p><strong>Cevher:</strong> Yerkabuğunda bulunan ve olduğu gibi veya bazı işlemler uygulanarak kullanılır halr getirilen kaya&ccedil;lara Cevher denilmektedir.<br />Cevherler genellikle birden fazla mineral i&ccedil;ermektedirler Yani aslında cevherler bir mineraller topluluğudur.<br />&Ouml;rneğin; bir kurşun cevherinde Galen (PbS), sfalerit (ZnS), arjantit (Ag2S), pirit (FeS2), kuvars (SiO2), Kalsit (CaCO3) vs bulunabilir.</p>
+<p><strong>T&uuml;venan Cevher:</strong> Ocaktan &ccedil;ıkarılmış ancak &uuml;zerinde herhangi bir işlem yapılmamış cevhere T&uuml;venan Cevher denmektedir.</p>
+<p><strong>Konsantre:</strong> Bir zenginleştirme işlemi sonucu elde edilen kıymetli mineral veya element i&ccedil;eren &uuml;r&uuml;ne Konsantre denilmektedir.</p>
+<p><strong>Artık (Gang):</strong> Bir zenginleştirme işlemi sonucunda elde edilen ve kıymetsiz &uuml;r&uuml;nlerden oluşan &uuml;r&uuml;ne Artık veya Gang denilmektedir.</p>
+<p><strong>Ten&ouml;r:</strong> Bir t&uuml;venan cevher, bir konsantre veya artıkta bulunan kıymetli mineral veya bileşik y&uuml;zdesine ten&ouml;r denmektedir.<br />&Ouml;rneğin:<br />Krom Konsantresi Ten&ouml;r&uuml;: % 48 Cr2O3<br />Krom artık ten&ouml;r&uuml;: % 10 Cr2O3 veya<br />Florit Konsantresi Ten&ouml;r&uuml;: % 85 CaF2<br />Bakır Konsantresi Ten&ouml;r&uuml;: % 22 Cu gibi</p>
+<p><strong>Serbest Tane:</strong> Tek bir mineral veya aynı mineralden oluşan bir grup halinde bulunan tanelere Serbest Tane denilmektedir.</p>
+<p><strong>Bağlı Tane (Bileşik Tane):</strong> Birbirlerinden ayrılması gereken ancak bir arada bulunan tanelere Bağlı Taneler denilmektedir.</p>
+<p><strong>Serbestleşme (Liberasyon):</strong> Bağlı tanelerin b&ouml;l&uuml;nerek serbest tane haline gelmesi durumuna Serbestleşme denilmektedir.</p>
+<p><strong>Kırma:</strong> Tane boyutunu k&uuml;&ccedil;&uuml;ltmek i&ccedil;in, en az 10 mm boyutlu tane elde edilinceye kadar yapılan boyut k&uuml;&ccedil;&uuml;ltme işlemine Kırma denilmektedir. Kırma, iri ve ince kırma olmak &uuml;zere ikiye ayrılmaktadır.</p>
+<p><em><strong>İri kırma:</strong> </em>10 cm den iri par&ccedil;aların kırılmasında<br /><em><strong>İnce kırma:</strong></em> 10 ile 0.5 cm arasındaki par&ccedil;aların kırılmasında kullanılmaktadır.</p>
+<p><strong>&Ouml;ğ&uuml;tme:</strong> 1 cm altında yapılan boyut k&uuml;&ccedil;&uuml;ltme işlemlerine, &ouml;ğ&uuml;tme denilmektedir. &Ouml;ğ&uuml;tme iri, ince ve mikronize &ouml;ğ&uuml;tme olmak &uuml;zere &uuml;&ccedil;e ayrılmaktadır.</p>
+<p><strong><em>İri &ouml;ğ&uuml;tme:</em></strong> 25 mm ile 1mm arasında yapılan &ouml;ğ&uuml;tme<br /><em><strong>İnce &ouml;ğ&uuml;tme:</strong></em> 1 mm ile 25 mikron arasında yapılan &ouml;ğ&uuml;tme<br /><strong><em>Mikronize &ouml;ğ&uuml;tme:</em></strong> 25 mikrondan daha k&uuml;&ccedil;&uuml;k boyutlara yapılan<br /> &ouml;ğ&uuml;tmedir.</p>
+<p><strong>Eleme:</strong> T&uuml;venan veya kırılmış &uuml;r&uuml;nlerin Elek kullanılarak boyuta g&ouml;re ayırma işlemidir.</p>
+<p><strong>Klasifikasyon:</strong> Şekil fakt&ouml;r&uuml; boyut ve &ouml;zg&uuml;l ağırlık farklarından yararlanılarak durgun veya hareketli akışkan ortam i&ccedil;inde tanelerin ayrılması işlemine klasifikasyon denilmektedir.</p>
+<p><strong>Zenginleştirme:</strong> Kıymetli veya kıymetsiz minerallerin, belli fiziksel ve kimyasal &ouml;zelliklerinden yararlanılarak ve belli aygıtlar kullanılarak ayrılması işlemine denilmektedir.</p>
+<p><strong>Konsantre Verimi (Randıman):</strong> Bir ayırma işlemi sonucunda elde edilen kıymetli &uuml;r&uuml;ndeki (konsantre) kıymetli element veya bileşik miktarının, zenginleştirme işlemine giren &uuml;r&uuml;ndeki kıymetli element veya bileşik miktarına oranıdır.</p>
+<p>(Boyut K&uuml;&ccedil;&uuml;ltme, Boyuta g&ouml;re sınıflandırma) enerji yoğun proses kademeleri olup, optimum hazırlama işlemleri i&ccedil;in optimum enerji t&uuml;ketiminin sağlanması gereklidir.</p>
+<p>Bu amaca y&ouml;nelik Optimum m&uuml;hendislik &ccedil;alışması i&ccedil;in;</p>
+<p>Cevher karakteristiklerinin (mineralojik, fiziksel) belirlenmesi,<br />En uygun makina te&ccedil;hizatın se&ccedil;ilmesi,<br />En uygun proses kademelerinin tasarımlandırılması gerekmektedir.</p>
+<p>Cevher hazırlama uygulanması ile bir takım ek giderler ve malzeme kayıpları oluşmaktadır. Buna karşılık bazı kazan&ccedil;lar ve t&uuml;ketimde kolaylılıklar s&ouml;z konusu olmaktadır.</p>
+<p>&Ouml;rneğin; <br />Bir yanda <br />1- Hazırlama ve Zenginleştirme Giderleri<br />2- Hazırlama ve Zenginleştirme Kayıpları</p>
+<p>&Ouml;te yanda<br />1- Nakliyeden Tasarruf<br />2- Bir sonraki işlemlerin kolaylaştırılması (&Ouml;rneğin izabe kayıplarını azalması, izabenin kolaylaşması, izabeye giren miktarda azalma, daha k&uuml;&ccedil;&uuml;k bir izabe tesisi)<br />3- T&uuml;ketim giderlerinin azaltılması ile elde edilen tasarruf.</p>
+<p>T&uuml;m bunları cevher &uuml;zerinde verilecek &ouml;rnekler ile a&ccedil;ıklamak gerekirse;</p>
+<p>&Ouml;rnek 1: Tonda 11 gram altın i&ccedil;eren bir altın cevherine ait bilgiler aşağıda verilmektedir.<br />1 ton cevherin ocak başı maliyeti : 55 $<br />1 ton cevherin hazırlama tesisine nakli : 2.5$<br />1 ton cevherin cevher hazırlama gideri : 21 $<br />1 ton cevherden zenginleştirme sonucu alınan altın : 9.9 gram<br />1 gram altının cari piyasa değeri : 12.5 $</p>
+<p>Bu verilerin ışığı altında 1 ton cevher i&ccedil;in:<br />Giderler Gelirler<br />&Uuml;retim 55 $ 9.9 x 12.5 = 123.75 $<br />Tesise Nakil 2.5$<br />Hazırlama 21$<br />Toplam 78.5 $</p>
+<p>1 ton cevherden elde edilen kar: 123.75-78.5 = 45.25 $<br />78.5/9.9 = 7.3 $ Başabaş noktası</p>
+<p>Gider ve Cevher &Ouml;zellikleri aynı kalmak koşuluyla, altın fiatlarındaki değişim şu şekilde olur.</p>
+<p><img src="giris/Picture1.png" alt="" width="1430" height="468" /></p>

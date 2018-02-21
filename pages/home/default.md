@@ -13,11 +13,7 @@ visible: false
 <p>Bir sonraki geliştirme i&ccedil;in pathfinder</p>
 <ul>
 <li>Logo ✔</li>
-<li>Makaleler &ouml;zelliği</li>
-<li>&Uuml;yelik sistemi</li>
 <li>Pratik bağış sistemi</li>
 <li>Pratik dosya g&ouml;nderme</li>
-<li>İş veren - iş arayan, ilan platformu</li>
 <li>Konu i&ccedil;erisindeki form&uuml;llerin hesaplama ara&ccedil;ları</li>
-<li>&Uuml;cretli &ouml;zel hesaplama ara&ccedil;ları</li>
 </ul>

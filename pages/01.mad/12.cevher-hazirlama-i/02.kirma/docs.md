@@ -1,6 +1,6 @@
 ---
 title: Kırma
-media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png'
+media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.png'
 ---
 
 <p><img src="kirma/cevherhazirlamadauygulananislemler.png" width="600" height="254" /></p>
@@ -57,3 +57,72 @@ media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png'
 <li><strong>Kick Teorisi:</strong> Bu teoriye g&ouml;re BKO i&ccedil;in gerekli enerjide d<sub>1</sub>/d<sub>2</sub> oranı esas alınmaktadır.</li>
 <li><strong>Bond Teorisi:</strong> Boyut k&uuml;&ccedil;&uuml;ltme i&ccedil;in gerekli enerji<br />[1/(k&ouml;kd<sub>2</sub>) - 1/(k&ouml;kd<sub>1</sub>)] ile doğru orantılıdır. G&uuml;n&uuml;m&uuml;zde boyut k&uuml;&ccedil;&uuml;ltme işlemlerinde harcanan enerjinin hesaplanmasında daha kesin sonu&ccedil; veren <strong><em>Bond </em></strong>eşitliği kullanılmaktadır.</li>
 </ol>
+<p><img src="kirma/bondornek.png" width="600" height="404" /></p>
+<h2 id="mcetoc_1c6smda1q0">Kırma</h2>
+<p>Kırma bir boyut k&uuml;&ccedil;&uuml;ltme işlemidir. 200cm ile 0.5mm arasındaki tane boyutlarına uygulanmaktadır. Kırma iki kısma ayrılmaktadır.</p>
+<ol style="list-style-type: lower-alpha;">
+<li>İri Kırma</li>
+<li>İnce Kırma</li>
+</ol>
+<p><strong>Kırma T&uuml;rleri</strong></p>
+<ul>
+<li>Elle kırma</li>
+<li>Mekanik ara&ccedil;lar yardımı ile kırma</li>
+</ul>
+<p><strong>Kırıcılar yapısal &ouml;zelliklerine g&ouml;re;</strong></p>
+<ul>
+<li>&Ccedil;eneli Kırıcılar</li>
+<li>Konili Kırıcılar</li>
+<li>Merdaneli Kırıcılar</li>
+<li>&Ccedil;eki&ccedil;li Kırıcılar</li>
+</ul>
+<p><strong>Kullanıldıkları yere g&ouml;re;</strong></p>
+<ul>
+<li>Primer (Birincil) Kırıcılar<br />
+<ul>
+<li>&Ccedil;eneli Kırıcılar</li>
+<li>D&ouml;ner (Grytory) Kırıcılar</li>
+<li>Darbeli (Impact) Kırıcılar</li>
+</ul>
+</li>
+<li>Sekonder (İkincil) Kırıcılar
+<ul>
+<li>Standart Konili Kırıcılar</li>
+<li>Symons Tipi Kırıcılar</li>
+</ul>
+</li>
+<li>Tersiyer (&Uuml;&ccedil;&uuml;nc&uuml;l) Kırıcılar
+<ul>
+<li>Kısa Bağlı (Short Head) Konili Kırıcılar</li>
+<li>Merdaneli Kırıcılar</li>
+</ul>
+</li>
+<li>Kuarterner (D&ouml;rd&uuml;nc&uuml;l) Kırıcılar
+<ul>
+<li>Diskli Kırıcılar</li>
+</ul>
+</li>
+</ul>
+<h4>&Ccedil;eneli Kırıcılar</h4>
+<p><img src="kirma/cenelikirici.png" width="500" height="327" /></p>
+<p>Hareketli &ccedil;enenin hareket sitemine g&ouml;re;</p>
+<ul>
+<li>&Uuml;stten Mafsallı (Blake Tip)
+<ul>
+<li>&Ccedil;ift İstinat Kollu &Ccedil;eneli Kırıcılar</li>
+<li>Tek İstinat Kollu &Ccedil;eneli Kırıcılar</li>
+<li>İstinat Kolsuz &Ccedil;eneli Kırıclar</li>
+</ul>
+</li>
+<li>Ortadan Mafsallı (Universal Tip)</li>
+<li>Boğazdan Mafsallı (Dodge Tip)</li>
+</ul>
+<p><strong>Tanımlar</strong></p>
+<p><strong>Ağız A&ccedil;ıklığı:</strong> Sabit ve hareketli &ccedil;ene arası a&ccedil;ıklığın &uuml;st kısmına verilen isimdir. Dikd&ouml;rtgen şeklinde olan bu a&ccedil;ıklığın b&uuml;y&uuml;kl&uuml;ğ&uuml; kısa uzun kenarın &ouml;l&ccedil;&uuml;leri ile verilmektedir. &Ouml;rneğin 460x610 mm denilince, k&uuml;&ccedil;&uuml;k rakam kısa kenarı vermektedir.</p>
+<p><strong>Boğaz A&ccedil;ıklığı:</strong> Sabit ve hareketli &ccedil;ene arası a&ccedil;ıklığın alt kısmına verilen isimdir. Dikd&ouml;rtgen şeklinde olan bu a&ccedil;ıklığın b&uuml;y&uuml;kl&uuml;ğ&uuml; kısa uzun kenarın &ouml;l&ccedil;&uuml;leri ile verilmektedir. &Ouml;rneğin 460x610 mm denilince, k&uuml;&ccedil;&uuml;k rakam kısa kenarı vermektedir.</p>
+<p><strong>Kırıcı Hızı:</strong> Hareketli &ccedil;enenin dakikada yaptığı salınım sayısıdır. Dev/dak. olarak tanımlanmaktadır.</p>
+<p><strong>&Ccedil;ene Genliği:</strong> Hareketli &ccedil;ene alt ucunun hareket ettiği mesafeye &ldquo;&ccedil;ene genliği&rdquo; denilmektedir. &Ccedil;İK &ccedil;eneli kırıcılarda bu değer 1-3 arasında değişmektedir.</p>
+<p><strong>Beslenecek Malzeme Boyutu:</strong> 150 mm ile 2 cm arasındaki boyut k&uuml;&ccedil;&uuml;ltme işlemlerinde kullanılmaktadır.</p>
+<p><strong>Boyut K&uuml;&ccedil;&uuml;ltme Oranı:</strong> Boyut k&uuml;&ccedil;&uuml;ltme oranı 4-7 arasında değişmektedir. Hareketli &ccedil;ene maksimum a&ccedil;ıklığında iken, ağız a&ccedil;ıklığının kısa kenarının boğaz a&ccedil;ıklığının kısa kenarına oranı şeklinde ifade edilmektedir .</p>
+<p><strong>Kavrama A&ccedil;ısı:</strong> Sabit &ccedil;ene ile hareketli &ccedil;ene arasındaki a&ccedil;ıya &ldquo;Kavrama A&ccedil;ısı&rdquo; denilmektedir. Bu a&ccedil;ı, par&ccedil;aların &ccedil;eneler arasında rahat kavranabilmesi i&ccedil;in 180 ile 240 arasında olması gerekmektedir.</p>
+<p><strong>Kırıcıya Beslenecek En İri Tane Boyutu:</strong> Ağız a&ccedil;ıklığı kısa kenarının % 80&rsquo;i ile % 90&rsquo;ı kadar olması gerekmektedir.</p>

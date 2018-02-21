@@ -4,7 +4,7 @@ media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.
 ---
 
 <p><img src="kirma/cevherhazirlamadauygulananislemler.png" width="600" height="254" /></p>
-<h1 id="mcetoc_1c6slg7g00">Boyut K&uuml;&ccedil;&uuml;ltme</h1>
+<h1 id="mcetoc_1c6slg7g00"><a id="boyutkucultme"></a>Boyut K&uuml;&ccedil;&uuml;ltme</h1>
 <p><strong>Boyut K&uuml;&ccedil;&uuml;ltme İşleminin Tanımı ve Ama&ccedil;ları</strong></p>
 <p>Bir cismin kendisinden k&uuml;&ccedil;&uuml;k par&ccedil;alara ayrılması işlemine boyut k&uuml;&ccedil;&uuml;ltme denilmektedir. Boyut k&uuml;&ccedil;&uuml;ltmenin ama&ccedil;ları ise;</p>
 <ul>
@@ -30,7 +30,7 @@ media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.
 </ul>
 </li>
 </ul>
-<h3 id="mcetoc_1c6slv0cb2"><strong>Tane Boyutu Kavramı</strong></h3>
+<h3 id="mcetoc_1c6slv0cb2"><strong><a id="taneboyutukavrami"></a>Tane Boyutu Kavramı</strong></h3>
 <p>Tane boyutunun belirlenmesinde aşağıdaki uygulamalar yapılmaktadır.</p>
 <ol>
 <li>Bir cevher tanesinin &ccedil;apının &ouml;zel olarak tanımlanmış teorik bir k&uuml;renin &ccedil;apına g&ouml;re tanımlanması. &Ouml;rneğin;
@@ -49,7 +49,7 @@ media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.
 </li>
 <li>Tanelerin &ouml;zel olarak hazırlanmış belli a&ccedil;ıklıklı eleklerden ge&ccedil;ip ge&ccedil;mediğine g&ouml;re</li>
 </ol>
-<h3 id="mcetoc_1c6sluto81">Boyut K&uuml;&ccedil;&uuml;ltme Oranı ve Boyut K&uuml;&ccedil;&uuml;ltme İşlemlerinde Harcanan Enerjinin Hesaplanması</h3>
+<h3 id="mcetoc_1c6sluto81"><a id="bko"></a>Boyut K&uuml;&ccedil;&uuml;ltme Oranı ve Boyut K&uuml;&ccedil;&uuml;ltme İşlemlerinde Harcanan Enerjinin Hesaplanması</h3>
 <p>Boyut K&uuml;&ccedil;&uuml;ltme Oranı: Boyut k&uuml;&ccedil;&uuml;ltme aracına beslenen malzeme boyutunun, boyut k&uuml;&ccedil;&uuml;ltme aracından &ccedil;ıkan malzeme boyutuna oranı demektir. &Ouml;rneğin; Giren malzeme 100cm, &Ccedil;ıkan malzeme 20cm ise Boyut K&uuml;&ccedil;&uuml;ltme Oranı (BKO): 100/20=5:1=5'dir.</p>
 <p>Harcanan enerjinin hesaplanmasında 3 ayrı teori bulunmaktadır. Bunlar</p>
 <ol style="list-style-type: lower-alpha;">
@@ -58,7 +58,7 @@ media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.
 <li><strong>Bond Teorisi:</strong> Boyut k&uuml;&ccedil;&uuml;ltme i&ccedil;in gerekli enerji<br />[1/(k&ouml;kd<sub>2</sub>) - 1/(k&ouml;kd<sub>1</sub>)] ile doğru orantılıdır. G&uuml;n&uuml;m&uuml;zde boyut k&uuml;&ccedil;&uuml;ltme işlemlerinde harcanan enerjinin hesaplanmasında daha kesin sonu&ccedil; veren <strong><em>Bond </em></strong>eşitliği kullanılmaktadır.</li>
 </ol>
 <p><img src="kirma/bondornek.png" width="600" height="404" /></p>
-<h2 id="mcetoc_1c6smda1q0">Kırma</h2>
+<h2 id="mcetoc_1c6smda1q0"><a id="kirma"></a>Kırma</h2>
 <p>Kırma bir boyut k&uuml;&ccedil;&uuml;ltme işlemidir. 200cm ile 0.5mm arasındaki tane boyutlarına uygulanmaktadır. Kırma iki kısma ayrılmaktadır.</p>
 <ol style="list-style-type: lower-alpha;">
 <li>İri Kırma</li>

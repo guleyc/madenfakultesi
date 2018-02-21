@@ -72,4 +72,4 @@ visible: true
 <p>Bu verilerin ışığı altında 1 ton cevher i&ccedil;in:<br />Giderler Gelirler<br />&Uuml;retim 55 $ 9.9 x 12.5 = 123.75 $<br />Tesise Nakil 2.5$<br />Hazırlama 21$<br />Toplam 78.5 $</p>
 <p>1 ton cevherden elde edilen kar: 123.75-78.5 = 45.25 $<br />78.5/9.9 = 7.3 $ Başabaş noktası</p>
 <p>Gider ve Cevher &Ouml;zellikleri aynı kalmak koşuluyla, altın fiatlarındaki değişim şu şekilde olur.</p>
-<p><img src="giris/Picture1.png" alt="" width="1430" height="468" /></p>
+<p><img src="giris/Picture1.png" width="600" height="196" /></p>

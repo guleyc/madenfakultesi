@@ -69,7 +69,7 @@ visible: true
 <p>&Ouml;te yanda<br />1- Nakliyeden Tasarruf<br />2- Bir sonraki işlemlerin kolaylaştırılması (&Ouml;rneğin izabe kayıplarını azalması, izabenin kolaylaşması, izabeye giren miktarda azalma, daha k&uuml;&ccedil;&uuml;k bir izabe tesisi)<br />3- T&uuml;ketim giderlerinin azaltılması ile elde edilen tasarruf.</p>
 <p>T&uuml;m bunları cevher &uuml;zerinde verilecek &ouml;rnekler ile a&ccedil;ıklamak gerekirse;</p>
 <p><strong>&Ouml;rnek 1:</strong> Tonda 11 gram altın i&ccedil;eren bir altın cevherine ait bilgiler aşağıda verilmektedir.<br />1 ton cevherin ocak başı maliyeti : 55 $<br />1 ton cevherin hazırlama tesisine nakli : 2.5$<br />1 ton cevherin cevher hazırlama gideri : 21 $<br />1 ton cevherden zenginleştirme sonucu alınan altın : 9.9 gram<br />1 gram altının cari piyasa değeri : 12.5 $</p>
-<p>Bu verilerin ışığı altında 1 ton cevher i&ccedil;in:<br />Giderler Gelirler<br />&Uuml;retim 55 $ 9.9 x 12.5 = 123.75 $<br />Tesise Nakil 2.5$<br />Hazırlama 21$<br />Toplam 78.5 $</p>
+<p>Bu verilerin ışığı altında 1 ton cevher i&ccedil;in:<br /><span style="text-decoration: underline;">Gelirler</span><br />&Uuml;retim 55 $ 9.9 x 12.5 = 123.75 $<br /><span style="text-decoration: underline;">Giderler</span><br />Tesise Nakil 2.5$<br />Hazırlama 21$<br />Toplam 78.5 $</p>
 <p>1 ton cevherden elde edilen kar: 123.75-78.5 = 45.25 $<br />78.5/9.9 = 7.3 $ Başabaş noktası</p>
 <p>Gider ve Cevher &Ouml;zellikleri aynı kalmak koşuluyla, altın fiatlarındaki değişim şu şekilde olur.</p>
 <p><img src="giris/Picture1.png" width="600" height="196" /></p>

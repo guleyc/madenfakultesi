@@ -4,7 +4,7 @@ media_order: Picture1.png
 visible: true
 ---
 
-<h2 id="mcetoc_1c6pfq56h0">Cevher Hazırlama Nedir?</h2>
+## Cevher Hazırlama Nedir?
 <p>Madencilik faaliyetleri ile &uuml;retilen doğal kaynakların; metalurji, demir-&ccedil;elik, cam, seramik, &ccedil;imento, inşaat malzemeleri, kimya end&uuml;strisi ve enerji &uuml;retimi gibi alanlarda kullanılabilmesi i&ccedil;in; genel olarak başta zenginleştirme, zararlı maddelerden arındırma ve boyutlandırma gibi konular &uuml;zerinde faaliyet g&ouml;steren bir bilim dalıdır.</p>
 <p>Bir cevheri oluşturan, teknolojik ve ekonomik olarak yararlanılması olanaklı mineral(ler)inin; kullanım amacına ve kullanım alanına en uygun hammadde haline getirilmesi &ldquo;Cevher Hazırlama + Cevher Zenginleştirme İşlemleri&rdquo; olarak tanımlanır. Yalnız başına &ldquo;Cevher Hazırlama&rdquo;; cevheri oluşturan kıymetli ve kıymetsiz minerallerin birbirinden ayrılması (zenginleştirilmesi) veya d&uuml;ş&uuml;k nitelikli cevherin niteliğinin arttırılması &ouml;ncesi yapılan işlemler dizisi olarak tanımlanır.</p>
 <p><strong>Hizmet verdiği alanlar;</strong></p>

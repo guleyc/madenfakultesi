@@ -3,7 +3,7 @@ title: Kırma
 media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.png,konilikiriciturleri.png'
 ---
 
-<p><a href="#"><img src="kirma/cevherhazirlamadauygulananislemler.png" alt="Cevher Hazırlama İşlemleri" width="600" height="254" /></a></p>
+<p><img src="kirma/cevherhazirlamadauygulananislemler.png" alt="Cevher Hazırlama İşlemleri" width="600" height="254" /></p>
 <h1 id="mcetoc_1c6slg7g00"><a id="boyutkucultme"></a>Boyut K&uuml;&ccedil;&uuml;ltme</h1>
 <p><strong>Boyut K&uuml;&ccedil;&uuml;ltme İşleminin Tanımı ve Ama&ccedil;ları</strong></p>
 <p>Bir cismin kendisinden k&uuml;&ccedil;&uuml;k par&ccedil;alara ayrılması işlemine boyut k&uuml;&ccedil;&uuml;ltme denilmektedir. Boyut k&uuml;&ccedil;&uuml;ltmenin ama&ccedil;ları ise;</p>

@@ -3,7 +3,7 @@ title: Kırma
 media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.png,konilikiriciturleri.png'
 ---
 
-<p><img src="kirma/cevherhazirlamadauygulananislemler.png" width="600" height="254" /></p>
+<p><a href="kirma/cevherhazirlamadauygulananislemler.png"><img src="kirma/cevherhazirlamadauygulananislemler.png" alt="Cevher Hazırlama İşlemleri" width="600" height="254" /></a></p>
 <h1 id="mcetoc_1c6slg7g00"><a id="boyutkucultme"></a>Boyut K&uuml;&ccedil;&uuml;ltme</h1>
 <p><strong>Boyut K&uuml;&ccedil;&uuml;ltme İşleminin Tanımı ve Ama&ccedil;ları</strong></p>
 <p>Bir cismin kendisinden k&uuml;&ccedil;&uuml;k par&ccedil;alara ayrılması işlemine boyut k&uuml;&ccedil;&uuml;ltme denilmektedir. Boyut k&uuml;&ccedil;&uuml;ltmenin ama&ccedil;ları ise;</p>
@@ -143,7 +143,7 @@ media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.
 <p><img src="kirma/konilikiriciturleri.png" width="500" height="166" /></p>
 <p>Konili kırıcılarda sabit koni y&uuml;zeyini oluşturan kısma &ldquo;&Uuml;st G&ouml;vde&rdquo; denir. Hareketli koni y&uuml;zeyini oluşturan ve &uuml;st g&ouml;vdenin i&ccedil;inde yer alan par&ccedil;aya ise &ldquo;G&ouml;bek&rdquo; adı verilmektedir. &Uuml;st g&ouml;vdenin i&ccedil; y&uuml;zeyi &ldquo;konkav&rdquo; adı verilen astarla kaplanmıştır. Konkavlar d&uuml;z veya kavisli olabilmektedirler.</p>
 <h4>Sabit Milli Konili Kırıcılar</h4>
-<p>Sabit milli konili kırıcılar orta kademe kırma işlemlerinde kullanılırlar Uygulandıkları tane boyutu 55 cm ile 2.5 cm arasındadır. BKO 4 ile 8 arasındadır. </p>
+<p>Sabit milli konili kırıcılar orta kademe kırma işlemlerinde kullanılırlar Uygulandıkları tane boyutu 55 cm ile 2.5 cm arasındadır. BKO 4 ile 8 arasındadır.</p>
 <h4>Oynar Milli Konili Kırıcı</h4>
 <p>G&ouml;bek mili ile dişli mili eksantrik olarak birbirine bağlandığından, dişli mili kendi ekseni etrafında d&ouml;nerken, g&ouml;bek mili de bir koni &ccedil;izecek şekilde d&ouml;nmektedir.<br />G&ouml;bek milinin bağlı olduğu g&ouml;bek de aynı hareketi yapmaktadır. <br />G&ouml;bek konkavların bir tarafına yaklaşırken diğer taraftan uzaklaşmaktadır.<br />G&ouml;beğin konkavlara yaklaşıp uzaklaşması s&uuml;rekli bir hareket olduğundan malzeme devamlı olarak kırılmaktadır. <br />Bilindiği gibi &ccedil;eneli kırıcılarda kırma işlemi &ccedil;ene hareketinin yarısında oluşmaktadır.</p>
 <p><strong>Konili Kırıcıların &Ouml;zellikleri</strong></p>

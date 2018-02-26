@@ -1,5 +1,7 @@
 ---
 title: Öğütme
+mathjax:
+    active: true
 ---
 
 <p>K&uuml;&ccedil;&uuml;k tane boyutlarında yapılan boyut k&uuml;&ccedil;&uuml;ltme işlemine &ldquo;&ouml;ğ&uuml;tme&rdquo; denilmektedir. &Ouml;ğ&uuml;tme işlemi genellikle 25 mm den daha k&uuml;&ccedil;&uuml;k boyutlardaki malzemelere uygulanmaktadır. &Ouml;ğ&uuml;tme işlemi yapan aygıtlara &ldquo; &ouml;ğ&uuml;t&uuml;c&uuml;&rdquo; veya &ldquo;değirmen&rdquo; adı verilmektedir. &Ouml;ğ&uuml;tme işlemi yaş veya kuru olarak yapılabilmektedir.</p>

@@ -1,5 +1,7 @@
 ---
 title: Öğütme
+mathjax:
+    active: true
 ---
 
 <p>K&uuml;&ccedil;&uuml;k tane boyutlarında yapılan boyut k&uuml;&ccedil;&uuml;ltme işlemine &ldquo;&ouml;ğ&uuml;tme&rdquo; denilmektedir. &Ouml;ğ&uuml;tme işlemi genellikle 25 mm den daha k&uuml;&ccedil;&uuml;k boyutlardaki malzemelere uygulanmaktadır. &Ouml;ğ&uuml;tme işlemi yapan aygıtlara &ldquo; &ouml;ğ&uuml;t&uuml;c&uuml;&rdquo; veya &ldquo;değirmen&rdquo; adı verilmektedir. &Ouml;ğ&uuml;tme işlemi yaş veya kuru olarak yapılabilmektedir.</p>
@@ -40,7 +42,7 @@ title: Öğütme
 <p>Değirmenlerde g&ouml;vdenin aşınmasını &ouml;nlemek i&ccedil;in astar adı verilen aşınmaya dayanıklı malzemeler ile g&ouml;vde kaplamaktadır. Bu bazen de seramik veya kau&ccedil;uk da olabilmektedir.</p>
 <p><strong>Değirmen D&ouml;n&uuml;ş Hızı</strong><br />Değirmenin d&ouml;n&uuml;ş hızı, değirmen i&ccedil;indeki malzemenin hareket şeklini etkilemektedir.</p>
 <p>Nk=420/sqrt(D)</p>
-<p>$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$<br />D: Değirmen i&ccedil; &ccedil;apı, cm<br />Nk: Değirmen hızı, devir/dak<br />Uygulamada değirmen hızı olarak kritik hızın %50 ile % 90&rsquo;ı alınır.</p>
+<p>D: Değirmen i&ccedil; &ccedil;apı, cm<br />Nk: Değirmen hızı, devir/dak<br />Uygulamada değirmen hızı olarak kritik hızın %50 ile % 90&rsquo;ı alınır./p&gt;</p>
 <p>Değirmenin &ccedil;ektiği g&uuml;&ccedil;te herhangi bir etkisi olmayan a&ccedil;ısal hız, astar aşınmalarında ve ortam aşınmalarında &ouml;nemli bir etkiye sahiptir. A&ccedil;ısal hızın, değirmen tasarımında dikkate alınması gerekmektedir. A&ccedil;ısal hız (m/dak olarak), şu şekilde tanımlanır;</p>
 <p>Mp=pi*D*N<br />Mp = A&ccedil;ısal Hız (m/dak)<br />D: değirmen i&ccedil; &ccedil;apı (m)<br />N: Değirmen hızı, dev/dak.</p>
 <p>Değirmen &ccedil;apı arttık&ccedil;a, kritik hız ile a&ccedil;ısal hız dengesini sağlamak i&ccedil;in tavsiye edilen ortalama hızlar &Ccedil;izelge&rsquo;de verilmektedir.</p>

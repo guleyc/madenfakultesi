@@ -5,6 +5,7 @@ mathjax:
 ---
 
 <p>K&uuml;&ccedil;&uuml;k tane boyutlarında yapılan boyut k&uuml;&ccedil;&uuml;ltme işlemine &ldquo;&ouml;ğ&uuml;tme&rdquo; denilmektedir. &Ouml;ğ&uuml;tme işlemi genellikle 25 mm den daha k&uuml;&ccedil;&uuml;k boyutlardaki malzemelere uygulanmaktadır. &Ouml;ğ&uuml;tme işlemi yapan aygıtlara &ldquo; &ouml;ğ&uuml;t&uuml;c&uuml;&rdquo; veya &ldquo;değirmen&rdquo; adı verilmektedir. &Ouml;ğ&uuml;tme işlemi yaş veya kuru olarak yapılabilmektedir.</p>
+<p>Nk=420/\sqrt D</p>
 <p><strong>&Ouml;ğ&uuml;tme Sistemleri</strong></p>
 <p>\[ R_{\mu \nu} - {1 \over 2} g_{\mu \nu}\,R + g_{\mu \nu} \Lambda = {8 \pi G \over c^4} T_{\mu \nu} \]</p>
 <ul>

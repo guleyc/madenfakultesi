@@ -41,7 +41,7 @@ mathjax:
 <p>&Ccedil;ubuklu değirmenlerde ise bu oran daha b&uuml;y&uuml;kt&uuml;r ve 3&rsquo;e kadar &ccedil;ıkabilmektedir.</p>
 <p>Değirmenlerde g&ouml;vdenin aşınmasını &ouml;nlemek i&ccedil;in astar adı verilen aşınmaya dayanıklı malzemeler ile g&ouml;vde kaplamaktadır. Bu bazen de seramik veya kau&ccedil;uk da olabilmektedir.</p>
 <p><strong>Değirmen D&ouml;n&uuml;ş Hızı</strong><br />Değirmenin d&ouml;n&uuml;ş hızı, değirmen i&ccedil;indeki malzemenin hareket şeklini etkilemektedir.</p>
-<p>$$ Nk=420/\sqrt D $$</p>
+<p style="text-align: left;">$$ Nk=420/\sqrt D $$</p>
 <p>D: Değirmen i&ccedil; &ccedil;apı, cm<br />Nk: Değirmen hızı, devir/dak<br />Uygulamada değirmen hızı olarak kritik hızın %50 ile % 90&rsquo;ı alınır./p&gt;</p>
 <p>Değirmenin &ccedil;ektiği g&uuml;&ccedil;te herhangi bir etkisi olmayan a&ccedil;ısal hız, astar aşınmalarında ve ortam aşınmalarında &ouml;nemli bir etkiye sahiptir. A&ccedil;ısal hızın, değirmen tasarımında dikkate alınması gerekmektedir. A&ccedil;ısal hız (m/dak olarak), şu şekilde tanımlanır;</p>
 <p>Mp=pi*D*N<br />Mp = A&ccedil;ısal Hız (m/dak)<br />D: değirmen i&ccedil; &ccedil;apı (m)<br />N: Değirmen hızı, dev/dak.</p>

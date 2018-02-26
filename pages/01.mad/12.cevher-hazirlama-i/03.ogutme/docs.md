@@ -10,7 +10,7 @@ title: Öğütme
 <li>D&ouml;nen disk sistemi</li>
 <li>Tokmakla d&ouml;vme sistemi</li>
 </ul>
-<p><strong>Aktarılan Ortam Sistemi</strong><br />Bu sistemde, cevher taneleri ile sert malzemeden oluşan ve &ouml;ğ&uuml;t&uuml;c&uuml; ortam olarak isimlendirilen cisimler arasında sıkışma ve s&uuml;rt&uuml;nme olayının ger&ccedil;ekleşmesi sağlanır. </p>
+<p><strong>Aktarılan Ortam Sistemi</strong><br />Bu sistemde, cevher taneleri ile sert malzemeden oluşan ve &ouml;ğ&uuml;t&uuml;c&uuml; ortam olarak isimlendirilen cisimler arasında sıkışma ve s&uuml;rt&uuml;nme olayının ger&ccedil;ekleşmesi sağlanır.</p>
 <p>&Ouml;ğ&uuml;t&uuml;c&uuml; ortam olarak; bilyalar, &ccedil;ubuklar, &ccedil;akıllar ve iri cevher par&ccedil;aları kullanılır.</p>
 <p>&Ouml;ğ&uuml;t&uuml;lecek cevher ve &ouml;ğ&uuml;t&uuml;c&uuml; ortamdan oluşan karışım, bir silindir kap i&ccedil;ine yerleştirilir ve bu silindir belli bir hızda d&ouml;nd&uuml;r&uuml;l&uuml;r. Silindir d&ouml;nerken, i&ccedil;indeki malzeme devamlı olarak aktarılır. Bu aktarma dolayısıyla bu tip değirmenlere &ldquo;Aktarılan Ortamla &Ccedil;alışan Değirmenler&rdquo; olarak da tanımlanır.</p>
 <h3 id="mcetoc_1c6uudvus0">Aktarılan Ortamla &Ccedil;alışan Değirmenlerin Ortam &Ccedil;eşitlerine G&ouml;re Sınıflandırılması</h3>
@@ -39,7 +39,8 @@ title: Öğütme
 <p>&Ccedil;ubuklu değirmenlerde ise bu oran daha b&uuml;y&uuml;kt&uuml;r ve 3&rsquo;e kadar &ccedil;ıkabilmektedir.</p>
 <p>Değirmenlerde g&ouml;vdenin aşınmasını &ouml;nlemek i&ccedil;in astar adı verilen aşınmaya dayanıklı malzemeler ile g&ouml;vde kaplamaktadır. Bu bazen de seramik veya kau&ccedil;uk da olabilmektedir.</p>
 <p><strong>Değirmen D&ouml;n&uuml;ş Hızı</strong><br />Değirmenin d&ouml;n&uuml;ş hızı, değirmen i&ccedil;indeki malzemenin hareket şeklini etkilemektedir.</p>
-<p>Nk=420/sqrt(D)<br />D: Değirmen i&ccedil; &ccedil;apı, cm<br />Nk: Değirmen hızı, devir/dak<br />Uygulamada değirmen hızı olarak kritik hızın %50 ile % 90&rsquo;ı alınır.</p>
+<p>Nk=420/sqrt(D)</p>
+<p>$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$<br />D: Değirmen i&ccedil; &ccedil;apı, cm<br />Nk: Değirmen hızı, devir/dak<br />Uygulamada değirmen hızı olarak kritik hızın %50 ile % 90&rsquo;ı alınır.</p>
 <p>Değirmenin &ccedil;ektiği g&uuml;&ccedil;te herhangi bir etkisi olmayan a&ccedil;ısal hız, astar aşınmalarında ve ortam aşınmalarında &ouml;nemli bir etkiye sahiptir. A&ccedil;ısal hızın, değirmen tasarımında dikkate alınması gerekmektedir. A&ccedil;ısal hız (m/dak olarak), şu şekilde tanımlanır;</p>
 <p>Mp=pi*D*N<br />Mp = A&ccedil;ısal Hız (m/dak)<br />D: değirmen i&ccedil; &ccedil;apı (m)<br />N: Değirmen hızı, dev/dak.</p>
 <p>Değirmen &ccedil;apı arttık&ccedil;a, kritik hız ile a&ccedil;ısal hız dengesini sağlamak i&ccedil;in tavsiye edilen ortalama hızlar &Ccedil;izelge&rsquo;de verilmektedir.</p>

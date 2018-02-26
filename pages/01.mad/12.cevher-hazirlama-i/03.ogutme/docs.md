@@ -41,10 +41,10 @@ mathjax:
 <p>&Ccedil;ubuklu değirmenlerde ise bu oran daha b&uuml;y&uuml;kt&uuml;r ve 3&rsquo;e kadar &ccedil;ıkabilmektedir.</p>
 <p>Değirmenlerde g&ouml;vdenin aşınmasını &ouml;nlemek i&ccedil;in astar adı verilen aşınmaya dayanıklı malzemeler ile g&ouml;vde kaplamaktadır. Bu bazen de seramik veya kau&ccedil;uk da olabilmektedir.</p>
 <p><strong>Değirmen D&ouml;n&uuml;ş Hızı</strong><br />Değirmenin d&ouml;n&uuml;ş hızı, değirmen i&ccedil;indeki malzemenin hareket şeklini etkilemektedir.</p>
-<p style="text-align: left;">$$ Nk=420/\sqrt D $$</p>
+<p style="text-align: left;">$$ Nk=420\div\sqrt{\mathrm D} $$</p>
 <p>D: Değirmen i&ccedil; &ccedil;apı, cm<br />Nk: Değirmen hızı, devir/dak<br />Uygulamada değirmen hızı olarak kritik hızın %50 ile % 90&rsquo;ı alınır./p&gt;</p>
 <p>Değirmenin &ccedil;ektiği g&uuml;&ccedil;te herhangi bir etkisi olmayan a&ccedil;ısal hız, astar aşınmalarında ve ortam aşınmalarında &ouml;nemli bir etkiye sahiptir. A&ccedil;ısal hızın, değirmen tasarımında dikkate alınması gerekmektedir. A&ccedil;ısal hız (m/dak olarak), şu şekilde tanımlanır;</p>
-<p>Mp=pi*D*N<br />Mp = A&ccedil;ısal Hız (m/dak)<br />D: değirmen i&ccedil; &ccedil;apı (m)<br />N: Değirmen hızı, dev/dak.</p>
+<p>$$ Mp=\mathrm\pi\times\mathrm D\times\mathrm N $$<br />Mp = A&ccedil;ısal Hız (m/dak)<br />D: değirmen i&ccedil; &ccedil;apı (m)<br />N: Değirmen hızı, dev/dak.</p>
 <p>Değirmen &ccedil;apı arttık&ccedil;a, kritik hız ile a&ccedil;ısal hız dengesini sağlamak i&ccedil;in tavsiye edilen ortalama hızlar &Ccedil;izelge&rsquo;de verilmektedir.</p>
 <p>Değirmenlerde Boyut K&uuml;&ccedil;&uuml;ltme Oranı<br />Kırıcılara oranla daha y&uuml;ksek BKO sağlanır. Tek kademede 100&rsquo;e kadar BKO sağlanabilir. Fakat genellikle ekonomik a&ccedil;ıdan BKO tek kademede değil de birka&ccedil; kademede yapılmaktadır.</p>
 <p>Kademeli &Ouml;ğ&uuml;tme İşlemi<br />1.Kademede : 6-10 arasında BKO uygulanır.<br />2.Kademede : 4-10 oranında BKO uygulanır.</p>
@@ -71,14 +71,14 @@ mathjax:
 <p>&Ouml;ğ&uuml;tme p&uuml;lp&uuml;n&uuml;n katı oranı ağırlık&ccedil;a %65-80 dolayındadır.</p>
 <p>&Ccedil;ubuklu değirmenlerde olduğu gibi, en yaygın boşaltma sistemi serbest taşmadır.</p>
 <p>Bilyalı değirmenler kritik d&ouml;nme hızının %60-90'ı kadar bir hızla &ccedil;alıştırılabilirler, ancak en yaygın hız kritik hızın %65- 75 kadardır.</p>
-<p>Kullanılan en b&uuml;y&uuml;k bilya &ccedil;apı birincil &ouml;ğ&uuml;tmelerde 5-10cm, ikincil &ouml;ğ&uuml;tmelerde ise 2-5cm olmakla birlikte aşağıdaki empirik eşitliği kullanarak bilya &uuml;st &ccedil;apı bulunabilir (Rowland, Jr., 1982):<br />&lt;!-- 4. Hafta 59.Slayt --&gt;<br />Burada; K hari&ccedil; diğerleri aynı. <br />K; 330-350 arasında alınır</p>
+<p>Kullanılan en b&uuml;y&uuml;k bilya &ccedil;apı birincil &ouml;ğ&uuml;tmelerde 5-10cm, ikincil &ouml;ğ&uuml;tmelerde ise 2-5cm olmakla birlikte aşağıdaki empirik eşitliği kullanarak bilya &uuml;st &ccedil;apı bulunabilir (Rowland, Jr., 1982):<br />$$ B=\left[\left(\sqrt{\frac FK}\right)\times\sqrt[3]{\frac{S_g\times W_i}{\left(\%C_s\right)\times\sqrt{3.281\times D}}}\right]\times25.4 $$<br />Burada; K hari&ccedil; diğerleri aynı. <br />K; 330-350 arasında alınır</p>
 <p>&Ouml;ğ&uuml;t&uuml;c&uuml; ortam olarak kullanılan bilyalar, d&ouml;ğme veya d&ouml;kme demir veya &ccedil;elikten yapılmaktadır. <br />En kaliteli bilyalar d&ouml;ğme &ccedil;elik bilyalardır. Bilyalar genellikle k&uuml;resel olmakla birlikte, bazen silindirik, konik ve şekilsiz olabilmektedir. <br />Bilya sertlikleri yumuşak bilyalar i&ccedil;in 350-400 brinel, sert bilyalar i&ccedil;in 700 Brinel&rsquo;in &uuml;zerindedir.</p>
 <p>Yaş &ouml;ğ&uuml;tme yapan bilyalı değirmenler i&ccedil;in g&uuml;&ccedil; hesaplama form&uuml;l&uuml;</p>
-<p>kWb= 4.879. D 0.3 &ndash; (3.2 &ndash; 3Vp) fCs( 1 &ndash; 0.1/2 9-10fCs ) + Ss</p>
+<p>$$ kW_b=\;4.879\times D^{0.3}-(3.2-3\times V_p)\times FC_s\times(1-0.1\div2^{9-10FC_s})+S_s $$</p>
 <p>Burada;<br />kWb: ton başına kilowat<br />D: astarlar arasındaki değirmen &ccedil;apı, m.<br />Vp: Bilya şarj oranı<br />FCs: Krtik hız oranı<br />Ss: Bilya boyutu fakt&ouml;r&uuml;</p>
 <p>3.3 m&rsquo;den daha b&uuml;y&uuml;k &ccedil;aplı bilyalı değirmenler i&ccedil;in kullanılacak bilyaların &uuml;st boyutu, değirmenin &ccedil;ektiği g&uuml;c&uuml; etkilemektedir.</p>
 <p>Bu &ldquo;Bilya Boyut Fakt&ouml;r&uuml;- Ss&rdquo; olarak tanımlanmaktadır.</p>
-<p>&lt;!-- 4. Hafta 62. Slayt --&gt;</p>
+<p>$$&nbsp;S_s=1.02\ast\frac{B-12.5\times D}{50.8} $$</p>
 <p>Burada;</p>
 <p>B: Bilya Boyutu, mm<br />D: Değirmen &ccedil;apı, m<br />Ss: Ton bilya başına kilowat<br />Yaş &ouml;ğ&uuml;tmede değirmenin &ccedil;ektiği g&uuml;c&uuml;n hesaplanması i&ccedil;in, ızgara deşarjlı değirmenlerde 1.16 x kWb, tam ızgara deşarjlı kuru değirmenlerde ise, 1.08 x kWb kadar g&uuml;&ccedil; gereksinimi vardır.</p>
 <p><strong>&Ccedil;akıllı Değirmenler</strong></p>

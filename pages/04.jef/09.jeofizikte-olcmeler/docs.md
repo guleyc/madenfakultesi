@@ -1,0 +1,4 @@
+---
+title: 'Jeofizikte Ölçmeler'
+---
+

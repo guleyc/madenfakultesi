@@ -1,0 +1,4 @@
+---
+title: 'Mineraloji ve Petrografi'
+---
+

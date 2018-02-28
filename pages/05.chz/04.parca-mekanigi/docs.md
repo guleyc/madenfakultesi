@@ -1,0 +1,4 @@
+---
+title: 'Parça Mekaniği'
+---
+

@@ -1,0 +1,4 @@
+---
+title: 'Proses Mineralojisi'
+---
+

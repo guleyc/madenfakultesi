@@ -15,5 +15,4 @@ visible: false
 <li>Pratik bağış sistemi</li>
 <li>Pratik dosya g&ouml;nderme</li>
 <li>Konu i&ccedil;erisindeki form&uuml;llerin hesaplama ara&ccedil;ları</li>
-<li>Anchors</li>
 </ul>

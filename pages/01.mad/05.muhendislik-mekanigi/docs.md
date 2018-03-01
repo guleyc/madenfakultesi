@@ -1,6 +1,5 @@
 ---
 title: 'Mühendislik Mekaniği'
-googletitle: 'Mühendislik Mekaniği - Web Tabanlı Yerbilimleri El Kitabı'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false

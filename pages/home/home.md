@@ -18,9 +18,6 @@ orga:
     logo: 'https://madenfakultesi.com/logo.png'
     ratingValue: 5
     reviewCount: 10
-    openingHours:
-        -
-            entry: 7/24
     foundingDate: '2018'
     email: iletisim@madenfakultesi.com
     founders:
@@ -37,6 +34,10 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookenable: true
+facebooktitle: 'Maden Fakültesi - Web Tabanlı Yerbilimleri El Kitabı'
+facebookdesc: 'Maden Fakültesi projesini ezber temelli eğitim sistemimizdeki öğretilerin tamamını ömür boyu ücretsiz olarak tek çatı altında toplayıp bilgiye daha pratik ulaşabilmek amacıyla kurduk.'
+facebookauthor: 'https://facebook.com/guleyc'
 ---
 
 <p>Maden Fak&uuml;ltesi projesini ezber temelli eğitim sistemimizdeki &ouml;ğretilerin tamamını &ouml;m&uuml;r boyu &uuml;cretsiz olarak tek &ccedil;atı altında toplayıp bilgiye daha pratik ulaşabilmek amacıyla kurduk. Web tabanlı yerbilimleri el kitabı projesinde şimdilik;</p>

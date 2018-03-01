@@ -1,6 +1,5 @@
 ---
 title: 'Maden Mühendisliğine Giriş'
-googletitle: 'Maden Mühendisliğine Giriş - Web Tabanlı Yerbilimleri El Kitabı'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false

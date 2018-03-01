@@ -2,7 +2,6 @@
 title: 'Maden Fakültesi'
 cache_enable: true
 visible: false
-googletitle: 'Maden Fakültesi - Web Tabanlı Yerbilimleri El Kitabı'
 googledesc: 'Maden Fakültesi projesini ezber temelli eğitim sistemimizdeki öğretilerin tamamını ömür boyu ücretsiz olarak tek çatı altında toplayıp bilgiye daha pratik ulaşabilmek amacıyla kurduk.'
 twitterenable: true
 twittercardoptions: summary

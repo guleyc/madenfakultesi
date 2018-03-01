@@ -27,6 +27,10 @@ orga:
     similar:
         -
             sameas: 'https://twitter.com/madenfakultesi'
+        -
+            sameas: 'https://minesfaculty.com'
+        -
+            sameas: 'https://madenfakultesi.com'
 orgaratingenabled: true
 eventenabled: false
 personenabled: false

@@ -21,3 +21,4 @@ restaurant:
     priceRange: $
 ---
 
+<p>Mineraloji</p>

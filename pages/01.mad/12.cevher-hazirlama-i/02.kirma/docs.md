@@ -1,10 +1,28 @@
 ---
 title: Kırma
 media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.png,konilikiriciturleri.png'
+twitterenable: true
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
 ---
 
-<img src="kirma/cevherhazirlamadauygulananislemler.png" alt="Cevher Hazırlama İşlemleri" width="600" height="254" />
-<h1 id="mcetoc_1c6slg7g00"><a id="boyutkucultme"></a>Boyut K&uuml;&ccedil;&uuml;ltme</h1>
+<p><img src="kirma/cevherhazirlamadauygulananislemler.png" alt="Cevher Hazırlama İşlemleri" width="600" height="254" /></p>
+<h1 id="mcetoc_1c7giq2dd5"><a id="boyutkucultme"></a>Boyut K&uuml;&ccedil;&uuml;ltme</h1>
 <p><strong>Boyut K&uuml;&ccedil;&uuml;ltme İşleminin Tanımı ve Ama&ccedil;ları</strong></p>
 <p>Bir cismin kendisinden k&uuml;&ccedil;&uuml;k par&ccedil;alara ayrılması işlemine boyut k&uuml;&ccedil;&uuml;ltme denilmektedir. Boyut k&uuml;&ccedil;&uuml;ltmenin ama&ccedil;ları ise;</p>
 <ul>
@@ -30,7 +48,7 @@ media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.
 </ul>
 </li>
 </ul>
-<h3 id="mcetoc_1c6slv0cb2"><strong><a id="taneboyutukavrami"></a>Tane Boyutu Kavramı</strong></h3>
+<h3 id="mcetoc_1c7giq2de6"><strong><a id="taneboyutukavrami"></a>Tane Boyutu Kavramı</strong></h3>
 <p>Tane boyutunun belirlenmesinde aşağıdaki uygulamalar yapılmaktadır.</p>
 <ol>
 <li>Bir cevher tanesinin &ccedil;apının &ouml;zel olarak tanımlanmış teorik bir k&uuml;renin &ccedil;apına g&ouml;re tanımlanması. &Ouml;rneğin;
@@ -49,7 +67,7 @@ media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.
 </li>
 <li>Tanelerin &ouml;zel olarak hazırlanmış belli a&ccedil;ıklıklı eleklerden ge&ccedil;ip ge&ccedil;mediğine g&ouml;re</li>
 </ol>
-<h3 id="mcetoc_1c6sluto81"><a id="bko"></a>Boyut K&uuml;&ccedil;&uuml;ltme Oranı ve Boyut K&uuml;&ccedil;&uuml;ltme İşlemlerinde Harcanan Enerjinin Hesaplanması</h3>
+<h3 id="mcetoc_1c7giq2de7"><a id="bko"></a>Boyut K&uuml;&ccedil;&uuml;ltme Oranı ve Boyut K&uuml;&ccedil;&uuml;ltme İşlemlerinde Harcanan Enerjinin Hesaplanması</h3>
 <p>Boyut K&uuml;&ccedil;&uuml;ltme Oranı: Boyut k&uuml;&ccedil;&uuml;ltme aracına beslenen malzeme boyutunun, boyut k&uuml;&ccedil;&uuml;ltme aracından &ccedil;ıkan malzeme boyutuna oranı demektir. &Ouml;rneğin; Giren malzeme 100cm, &Ccedil;ıkan malzeme 20cm ise Boyut K&uuml;&ccedil;&uuml;ltme Oranı (BKO): 100/20=5:1=5'dir.</p>
 <p>Harcanan enerjinin hesaplanmasında 3 ayrı teori bulunmaktadır. Bunlar</p>
 <ol style="list-style-type: lower-alpha;">
@@ -58,7 +76,7 @@ media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.
 <li><strong>Bond Teorisi:</strong> Boyut k&uuml;&ccedil;&uuml;ltme i&ccedil;in gerekli enerji<br />[1/(k&ouml;kd<sub>2</sub>) - 1/(k&ouml;kd<sub>1</sub>)] ile doğru orantılıdır. G&uuml;n&uuml;m&uuml;zde boyut k&uuml;&ccedil;&uuml;ltme işlemlerinde harcanan enerjinin hesaplanmasında daha kesin sonu&ccedil; veren <strong><em>Bond </em></strong>eşitliği kullanılmaktadır.</li>
 </ol>
 <p><img src="kirma/bondornek.png" width="600" height="404" /></p>
-<h2 id="mcetoc_1c6smda1q0"><a id="kirma"></a>Kırma</h2>
+<h2 id="mcetoc_1c7giq2de8"><a id="kirma"></a>Kırma</h2>
 <p>Kırma bir boyut k&uuml;&ccedil;&uuml;ltme işlemidir. 200cm ile 0.5mm arasındaki tane boyutlarına uygulanmaktadır. Kırma iki kısma ayrılmaktadır.</p>
 <ol style="list-style-type: lower-alpha;">
 <li>İri Kırma</li>
@@ -138,7 +156,7 @@ media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.
 <p>&Ccedil;ene hareketinin &ouml;zelliğinden dolayı &ccedil;enenin bir devir hareketi i&ccedil;inde daha fazla kırma işlemi yapar. &Ccedil;enenin eliptik hareketi nedeniyle, kırıcıya giren malzeme, kırıcıdan daha kısa s&uuml;rede &ccedil;ıkar.Ton başına kırma maliyeti daha d&uuml;ş&uuml;kt&uuml;r.</p>
 <h5>Dezavantajları</h5>
 <p>Besleme boyutu sınırlıdır (k&uuml;&ccedil;&uuml;kt&uuml;r). Kırılan malzemenin uyguladığı karşı kuvvetlere daha az dayanıklıdır.</p>
-<h4 id="mcetoc_1c6utu7sp0">Konili Kırıclar</h4>
+<h4>Konili Kırıclar</h4>
 <p>Konili kırıcı t&uuml;rleri yapılarına ve &ccedil;alışma şekillerine g&ouml;re iki ana gruba ayrılmaktadırlar. Bunlar;</p>
 <p><img src="kirma/konilikiriciturleri.png" width="500" height="166" /></p>
 <p>Konili kırıcılarda sabit koni y&uuml;zeyini oluşturan kısma &ldquo;&Uuml;st G&ouml;vde&rdquo; denir. Hareketli koni y&uuml;zeyini oluşturan ve &uuml;st g&ouml;vdenin i&ccedil;inde yer alan par&ccedil;aya ise &ldquo;G&ouml;bek&rdquo; adı verilmektedir. &Uuml;st g&ouml;vdenin i&ccedil; y&uuml;zeyi &ldquo;konkav&rdquo; adı verilen astarla kaplanmıştır. Konkavlar d&uuml;z veya kavisli olabilmektedirler.</p>
@@ -177,7 +195,7 @@ media_order: 'cevherhazirlamadauygulananislemler.png,bondornek.png,cenelikirici.
 <p>Darbeli kırıcılarda rotor hızı sabittir. Bu durumda etkin olan unsur, tanelerin kendi k&uuml;tleleridir. İri par&ccedil;alar, &ccedil;eki&ccedil;lerle &ccedil;eşitli kez karşılaşacaklarından k&uuml;&ccedil;&uuml;k par&ccedil;acıklara oranla &ccedil;ok hızlı bir şekilde boyut k&uuml;&ccedil;&uuml;ltmeye uğramaktadırlar.</p>
 <p>Primer kırıcı olarak darbeli kırıcılarla sıkıştırma esaslı kırıcılar arasında bir kıyaslama yapıldığında, darbeli kırıcıların ton başına ilk yatırım masrafları daha d&uuml;ş&uuml;k olmaktadır. Ayrıca &Ccedil;eneli ve Gyratory kırıcılara g&ouml;re kapasiteleri daha y&uuml;ksektir. Daha ince malzeme &uuml;rettikleri i&ccedil;inde sekonder kırıcı kullanma gereksinimi ortadan kalmaktadır. Operasyon maliyetleri d&uuml;ş&uuml;k, daha fizibil kırıcılardır.</p>
 <p>Ancak bakım-onarım masrafları diğer kırıcılara g&ouml;re g&ouml;receli olarak daha<br />y&uuml;ksektir. Bu y&uuml;zden de, abrasiv kaya&ccedil;ların kırılmasında daha uygun bir kırıcının se&ccedil;ilmesi gerekmektedir.</p>
-<h2 id="mcetoc_1c6uu5tk81">Kırma Devreleri</h2>
+<h2 id="mcetoc_1c7giq2de9">Kırma Devreleri</h2>
 <p>&Ccedil;eşitli kırıcı makine ve ara&ccedil;ların birbirine g&ouml;re yerleşme sırasını ve bunlardan ge&ccedil;en malzeme akış y&ouml;nlerini g&ouml;steren şemalara &ldquo; kırma devresi&rdquo; denmektedir. Herhangi bir kırıcıya besleme yapılmadan &ouml;nce, ocaktan &uuml;retilen cevherlerin elenerek, kırıcı &ccedil;ıkışı boyutlu malzemenin ayrılması gerekmektedir. Bu şekilde kırıcı kapasitesinden daha &ccedil;ok yararlanılması s&ouml;z konusu olmaktadır.</p>
 <p>Kırıcı &ccedil;ıkışı malzeme i&ccedil;inde az da olsa kırılmamış malzemenin bulunması doğaldır. Kırılmış &uuml;r&uuml;n&uuml;n belli bir boyutun altı olması isteniyorsa, kırılmış &uuml;r&uuml;n&uuml;n tekrar elenerek, elek &uuml;st&uuml; &uuml;r&uuml;n&uuml;n kırıcıya tekrar kırıcıya beslenmesi gerekir. Bu tip kırma işlemine &ldquo;Kapalı Devre-Closing Circuit&rdquo; kırma denilmektedir. Tekrar beslemenin yapılmadığı kırma devreleri ise &ldquo;A&ccedil;ık Devre- Open Circuit&rdquo; olarak tanımlanmaktadır.</p>
 <p><strong>A&ccedil;ık Kırma Devreleri:</strong><br />A&ccedil;ık kırma devreleri ikiye ayrılmaktadır;<br />a) Eleksiz A&ccedil;ık devre<br />b) Elekli A&ccedil;ık Devre</p>

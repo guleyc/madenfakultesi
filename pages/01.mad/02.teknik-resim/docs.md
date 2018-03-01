@@ -1,6 +1,5 @@
 ---
 title: 'Teknik Resim'
-googletitle: 'Teknik Resim - Web Tabanlı Yerbilimleri El Kitabı'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false

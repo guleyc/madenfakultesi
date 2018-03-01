@@ -2,6 +2,41 @@
 title: 'Maden Fakültesi'
 cache_enable: true
 visible: false
+googletitle: 'Maden Fakültesi - Web Tabanlı Yerbilimleri El Kitabı'
+googledesc: 'Maden Fakültesi projesini ezber temelli eğitim sistemimizdeki öğretilerin tamamını ömür boyu ücretsiz olarak tek çatı altında toplayıp bilgiye daha pratik ulaşabilmek amacıyla kurduk.'
+twitterenable: true
+twittercardoptions: summary
+twittertitle: 'Maden Fakültesi - Web Tabanlı Yerbilimleri El Kitabı'
+twitterdescription: 'Maden Fakültesi projesini ezber temelli eğitim sistemimizdeki öğretilerin tamamını ömür boyu ücretsiz olarak tek çatı altında toplayıp bilgiye daha pratik ulaşabilmek amacıyla kurduk.'
+articleenabled: false
+musiceventenabled: false
+orgaenabled: true
+orga:
+    name: 'Maden Fakültesi'
+    city: Istanbul
+    url: 'https://madenfakultesi.com'
+    logo: 'https://madenfakultesi.com/logo.png'
+    ratingValue: 5
+    reviewCount: 10
+    openingHours:
+        -
+            entry: 7/24
+    foundingDate: '2018'
+    email: iletisim@madenfakultesi.com
+    founders:
+        -
+            name: 'Çağatay Güley'
+orgaratingenabled: true
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
 ---
 
 <p>Maden Fak&uuml;ltesi projesini ezber temelli eğitim sistemimizdeki &ouml;ğretilerin tamamını &ouml;m&uuml;r boyu &uuml;cretsiz olarak tek &ccedil;atı altında toplayıp bilgiye daha pratik ulaşabilmek amacıyla kurduk. Web tabanlı yerbilimleri el kitabı projesinde şimdilik;</p>

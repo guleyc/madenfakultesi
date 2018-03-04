@@ -46,7 +46,7 @@ facebookauthor: 'https://facebook.com/guleyc'
 facebookimg: /home/logo.png
 ---
 
-<p>Maden Fak&uuml;ltesi projesini ezber temelli eğitim sistemimizdeki &ouml;ğretilerin tamamını &ouml;m&uuml;r boyu &uuml;cretsiz olarak tek &ccedil;atı altında toplayıp bilgiye daha pratik ulaşabilmek amacıyla kurduk. Web tabanlı yerbilimleri el kitabı projesinde şimdilik;</p>
+<p>Maden Fak&uuml;ltesi projesini ezber temelli eğitim sistemimizdeki &ouml;ğretilerin tamamını &ouml;m&uuml;r boyu &uuml;cretsiz olarak tek &ccedil;atı altında toplayıp bilgiye daha pratik ulaşabilmek amacıyla kurduk. Web tabanlı yerbilimleri el kitabı projesinin şimdilik;</p>
 <ul>
 <li>Github tabanlı her bir sayfa tarafınızca d&uuml;zeltilebilir, konu hakkında tartışılabilir &ouml;zelliği,</li>
 <li>Detaylı i&ccedil;erik arama</li>

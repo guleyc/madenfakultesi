@@ -46,3 +46,4 @@ facebookauthor: 'https://facebook.com/guleyc'
 facebookimg: /home/logo.png
 ---
 
+![](osxicon.png)

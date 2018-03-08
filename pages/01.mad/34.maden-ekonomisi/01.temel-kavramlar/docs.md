@@ -76,8 +76,8 @@ MG=Delta(TG)/Detla(n) = Delta(DG)/Delta(n)
 
 **Maliyet:** Birim üretim deüşen toplam gider (Ortalama Gider)
 
-Satış Fiyatı: Değişken Giderler, Satış Gideri, İşletme Sermayesi Gideri, Kar
+**_Satış Fiyatı:_** Değişken Giderler, Satış Gideri, İşletme Sermayesi Gideri, Kar
 
-Satış Maliyeti: Değişken Giderler, Satış Gideri, İşletme Sermayesi Gideri
+**_Satış Maliyeti:_** Değişken Giderler, Satış Gideri, İşletme Sermayesi Gideri
 
-Üretim Maliyeti: Değişken Giderler, Satış Gideri
+**_Üretim Maliyeti:_** Değişken Giderler, Satış Gideri

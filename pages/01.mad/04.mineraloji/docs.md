@@ -1,6 +1,5 @@
 ---
 title: Mineraloji
-googletitle: 'Mineraloji - Web Tabanlı Yerbilimleri El Kitabı'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false

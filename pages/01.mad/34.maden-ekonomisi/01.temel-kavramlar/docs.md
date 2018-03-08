@@ -61,3 +61,22 @@ restaurant:
 
 **Toplam Giderler:** Sabit ve değişken giderlerin toplamından oluşan ve üretim gerçekleştirilmesi sırasında meydana gelen tüm giderlerin toplanılmasından elde edilen giderdir.
 TG = SG + DG = SG + BDG.n (n=üretim miktarı)
+
+**Ortalama Sabit Gider:** Birim ürün başına düşen sabit giderlere denir.
+OSG=SG/n
+
+**Ortalama Değişken Gider:** Birim ürün başına düşen değişken giderlere denir.
+ODG=DG/n
+
+**Ortalama Toplam Gider:** Birim ürün başına düşen toplam giderlere denir.
+OTG=TG/n = OSG+ODG
+
+**Marjinal Gider:** Üretimdeki bir birimlik artışın toplam maliyette meydana getireceği artışa marjinal gider veya marjinal maliyet denir. Gerek DG gerekse TG'den hesaplanabilir.
+MG=Delta(TG)/Detla(n) = Delta(DG)/Delta(n)
+
+**Maliyet:** Birim üretim deüşen toplam gider (Ortalama Gider)
+			|Değişken giderler			|Üretim Maliyeti|
+			|Sabit Giderler				|				|Satış Maliyeti
+Satış Fiyatı|Satış Gideri								|
+			|İşletme Sermayesi Gideri					|
+            |Kar

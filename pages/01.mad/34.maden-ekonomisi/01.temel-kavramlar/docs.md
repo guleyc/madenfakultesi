@@ -75,8 +75,9 @@ OTG=TG/n = OSG+ODG
 MG=Delta(TG)/Detla(n) = Delta(DG)/Delta(n)
 
 **Maliyet:** Birim üretim deüşen toplam gider (Ortalama Gider)
-			|Değişken giderler			|Üretim Maliyeti|
-			|Sabit Giderler				|				|Satış Maliyeti
-Satış Fiyatı|Satış Gideri								|
-			|İşletme Sermayesi Gideri					|
-            |Kar
+
+Satış Fiyatı: Değişken Giderler, Satış Gideri, İşletme Sermayesi Gideri, Kar
+
+Satış Maliyeti: Değişken Giderler, Satış Gideri, İşletme Sermayesi Gideri
+
+Üretim Maliyeti: Değişken Giderler, Satış Gideri

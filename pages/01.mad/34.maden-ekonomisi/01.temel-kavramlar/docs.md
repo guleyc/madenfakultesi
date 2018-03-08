@@ -43,12 +43,11 @@ restaurant:
 6. Üretim miktarına bağlı (sabit, değişken, yarı sabit, yarı değişken, toplam, ortalama, marjinal)
 7. Ödeme şekline göre (nakdi, gayrinakdi)
 
-Sabit Giderler: Üretim miktarına bağlı olarak değişmeyen giderlerdir. Örn; vergiler, kiralar, sigorta primleri vb.
-Birim Sabit Gider: Üretim miktarına bağlı olarak zamanla azalır.
-Değişken Giderler: Üretim miktarına bağlı olarak artan veya azalan giderlerdir. Örn; üretim giderleri
-Birim Değişken Gider: Üretim miktarına bağlı olarak değişmez.
-Yarı Değişken Giderler: Gerek sabit gerek değişken giderleri içerir. Örn; tamir bakım giderleri, bakım her durumda yapılması geretiği için sabit, tamir ise arıza durumlarında ortaya çıktığı için değişken giderdir ve bu yüzden yarı değişken gider olarak adlandırılır.
-
+**Sabit Giderler:** Üretim miktarına bağlı olarak değişmeyen giderlerdir. Örn; vergiler, kiralar, sigorta primleri vb.
+**Birim Sabit Gider:** Üretim miktarına bağlı olarak zamanla azalır.
+**Değişken Giderler:** Üretim miktarına bağlı olarak artan veya azalan giderlerdir. Örn; üretim giderleri
+**Birim Değişken Gider:** Üretim miktarına bağlı olarak değişmez.
+**Yarı Değişken Giderler:** Gerek sabit gerek değişken giderleri içerir. Örn; tamir bakım giderleri, bakım her durumda yapılması geretiği için sabit, tamir ise arıza durumlarında ortaya çıktığı için değişken giderdir ve bu yüzden yarı değişken gider olarak adlandırılır.
 Örnekler; Tamir bakım giderleri, elektrik giderleri, verimsiz işçi giderleri
-Toplam Giderler: Sabit ve değişken giderlerin toplamından oluşan ve üretim gerçekleştirilmesi sırasında meydana gelen tüm giderlerin toplanılmasından elde edilen giderdir.
+**Toplam Giderler:** Sabit ve değişken giderlerin toplamından oluşan ve üretim gerçekleştirilmesi sırasında meydana gelen tüm giderlerin toplanılmasından elde edilen giderdir.
 TG = SG + DG = SG + BDG.n (n=üretim miktarı)

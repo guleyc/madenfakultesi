@@ -28,7 +28,9 @@ restaurant:
 3. Harcamanın parasal karşılığının olmaması
 
 **Üretim Giderleri:** Ürün elde etmek için yapılan giderlere denir.
+
 **Fırsat Maliyeti:** Bir ürünü üretmen başka bir üründen vazgeçmek demektir. İşte bu vazgeçilen ürünün değeri fırsat maliyeti olarak adlandırılır.
+
 **Harcama:** Nakit veya nakde çevrilebilen elemanlar ile ödeme yapılması veya vaadinde bulunmadır.
 **Gider:** İşletme faaliyetleri için gerekli olan mal ve hizmetlerin parasal tutarı.
 **Üretim Gideri:** Üretim amacıyla tüketilen mal ve hizmetlerin parasal karşılığı.

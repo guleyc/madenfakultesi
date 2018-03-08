@@ -75,7 +75,7 @@ OTG=TG/n = OSG+ODG
 MG=Delta(TG)/Detla(n) = Delta(DG)/Delta(n)
 
 **Örnek:**
-Üretim Miktarı (Birim),Sabit Gider (TL),Değişken Gider (TL)
+[Üretim Miktarı (Birim),Sabit Gider (TL),Değişken Gider (TL)
 0,15000,0
 3,15000,5000
 4,15000,6000
@@ -87,7 +87,7 @@ MG=Delta(TG)/Detla(n) = Delta(DG)/Delta(n)
 39,15000,45000
 44,15000,51000
 48,15000,55000
-53,15000,60000
+53,15000,60000]
 **Maliyet:** Birim üretim deüşen toplam gider (Ortalama Gider)
 
 **_Satış Fiyatı:_** Değişken Giderler, Satış Gideri, İşletme Sermayesi Gideri, Kar

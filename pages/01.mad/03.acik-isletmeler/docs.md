@@ -1,6 +1,5 @@
 ---
 title: 'Açık İşletmeler'
-googletitle: 'Açık İşletmeler  - Web Tabanlı Yerbilimleri El Kitabı'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false

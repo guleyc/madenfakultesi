@@ -73,6 +73,8 @@ OTG=TG/n = OSG+ODG
 
 **Marjinal Gider:** Üretimdeki bir birimlik artışın toplam maliyette meydana getireceği artışa marjinal gider veya marjinal maliyet denir. Gerek DG gerekse TG'den hesaplanabilir.
 MG=Delta(TG)/Detla(n) = Delta(DG)/Delta(n)
+
+
 | Üretim Miktarı (Birim) | Sabit Gider (TL) | Değişken Gider (TL) |
 | ------ | ----------- | ----------- |
 | 0 | 15000 | 0 |

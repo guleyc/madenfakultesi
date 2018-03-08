@@ -81,3 +81,21 @@ MG=Delta(TG)/Detla(n) = Delta(DG)/Delta(n)
 **_Satış Maliyeti:_** Değişken Giderler, Satış Gideri, İşletme Sermayesi Gideri
 
 **_Üretim Maliyeti:_** Değişken Giderler, Satış Gideri
+
+**Toplam Gelir:** Belli bir ürün düzeyinde işletmenin üretip sattığı üründen elde ettiği para miktarıdır (G). n üretim miktarını, b satış fiyatını temsil ediyorsa gelir; G=b.n olur.
+
+**Ortalama Gelir:** Birim ürün başına düşen gelirdir ve aynı zamanda malın satış fiyatıdır.
+OG=G/n=b
+
+**Marjinal Gelir:** Belli bir üretim düzeyinde üretilen son birim ürünün satışından elde edilen ek gelirdir.
+
+**Kar:** Üretim gelirleri ile üretim giderleri arasındaki pozitif farka denir.
+
+Kar hesaplanırken; işletme sahibinin çalışması karşılığında alacağı, ücret; işletme sermayesinin faizi(geliri), risk primi dikkate alınmalıdır.
+
+**Marjinal Kar:** Üretim miktarına göre kar değişim oranı, üretilen son birim ürünün satışından elde edilen kar.
+
+**Kar Arttırma:** Üretim gelirleri ile üretim giderleri arasındaki pozitif farka denir.
+1. Satış fiyatını arttırmak
+2. Satılan ürünün miktarını arttırmak
+3. Giderleri azaltmak

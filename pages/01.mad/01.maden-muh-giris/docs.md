@@ -1,5 +1,6 @@
 ---
 title: 'Maden Mühendisliğine Giriş'
+googledesc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut consequat, purus vitae facilisis viverra, quam mauris convallis quam, a laoreet mauris nunc id neque. Cras commodo, dui a tincidunt aliquam, eros velit cursus lorem, id eleifend est risus nec leo. Maecenas sed posuere magna, vitae lacinia nulla. '
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false

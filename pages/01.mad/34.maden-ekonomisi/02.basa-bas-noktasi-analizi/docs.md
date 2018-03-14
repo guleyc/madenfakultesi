@@ -117,6 +117,7 @@ Q=\frac{10000}{1000-600}
 $$
 
 Q=25 m^3
+
 b)
 $$
 R=\frac{SG}{1-{\displaystyle\frac{DG}G}}

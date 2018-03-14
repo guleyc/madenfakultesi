@@ -111,7 +111,7 @@ $$
 İkinci Yıl Tükenme Müsadesi;
 
 $$
-ikinciyilda\;tukenme\;musadesi\;=\;2.yilda\;uretilen\;cevher\;miktari\;\times\frac{2028000}{3900000}
+ikinciyilda\;tukenme\;musadesi\;=\;ikinciyilda\;uretilen\;cevher\;miktari\;\times\frac{2028000}{3900000}
 $$
 
 **Yüzde Yönetimi**

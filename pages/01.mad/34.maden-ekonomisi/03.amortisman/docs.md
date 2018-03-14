@@ -91,9 +91,10 @@ Maliyet yöntemi bir örnekle açıklanmak istenirse;
 * Rezerv: 4.5 milyon ton
 * 1. Yıl Üretim: 600000 ton
 * Yatırım tutarı: 2340000 USD
-** Cevher İçin Yatırım: 1440000 USD
-** Araştırmalar İçin Yatırım: 600000 USD
-** Diğer: 300000 USD
+
+* Cevher İçin Yatırım: 1440000 USD
+* Araştırmalar İçin Yatırım: 600000 USD
+* Diğer: 300000 USD
 
 Bu verilere göre bakır yatağının yıllara göre tükenme amortismanını bulalım.
 1. Yıl Tükenme Müsadesi;

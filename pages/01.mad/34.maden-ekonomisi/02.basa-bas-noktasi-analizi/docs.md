@@ -55,22 +55,22 @@ Başa baş noktası analiz yönetmleri
 * TG=Toplam Gider
 * K=Kar
 
-G=Q\times b
-TG=Q\times b+SG
-K=G-TG=Q\times\left(b-d\right)-SG
+$$ G=Q\times b $$
+$$ TG=Q\times b+SG $$
+$$ K=G-TG=Q\times\left(b-d\right)-SG $$
 
 **Üretilecek Mal Mitarı Açısından**
-Q=\frac{SG}{b-d}
+$$ Q=\frac{SG}{b-d} $$
 **Satış Geliri Açısından**
-R=\frac{SG}{1-{\displaystyle\frac{DG}G}}
+$$ R=\frac{SG}{1-{\displaystyle\frac{DG}G}} $$
 (R=Başa baş noktasındaki satış geliri)
 **Kapasite Kullanım Oranı Açısından**
-Kapasite\;Yüzdesi\;=\frac{SG}{bQ-dQ}
+$$ Kapasite\;Yüzdesi\;=\frac{SG}{bQ-dQ} $$
 **Amaçlanan Kar Miktarına Göre**
-Q_{kar}=\frac{K+SG}{b-d}
+$$ Q_{kar}=\frac{K+SG}{b-d} $$
 
 **Gelir Vergisinin Hesaba Dahil Edilmesi**
-y=\frac z{1-t}
+$$ y=\frac z{1-t} $$
 (y=vergiden önceki kar
 t=vergi oranı
 z=vergiden sonraki kar)

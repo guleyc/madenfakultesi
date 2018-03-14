@@ -41,3 +41,36 @@ Başa baş noktası analiz yönetmleri
 * Maliyetler sabit ve değişken olarak ayrılabilir
 * Sabit maliyetler değişmez
 * Birim değişken giderler sabittir
+* Stoklar hesaba katılmaz ihmal edilebilir niteliktedir
+* Hammadde işçilik ve benzeri kalemlerin maliyetleri sabittir
+* Üretim verimliliği sabittir
+
+## Matematiksel Yöntem
+* SG=Sabit Gider
+* DG=Değişken Gider
+* d=Birim Değişken Gider
+* b=Birim Satış Fiyatı
+* Q=Üretim Miktarı
+* G=Gelir
+* TG=Toplam Gider
+* K=Kar
+
+G=Q\times b
+TG=Q\times b+SG
+K=G-TG=Q\times\left(b-d\right)-SG
+
+**Üretilecek Mal Mitarı Açısından**
+Q=\frac{SG}{b-d}
+**Satış Geliri Açısından**
+R=\frac{SG}{1-{\displaystyle\frac{DG}G}}
+(R=Başa baş noktasındaki satış geliri)
+**Kapasite Kullanım Oranı Açısından**
+Kapasite\;Yüzdesi\;=\frac{SG}{bQ-dQ}
+**Amaçlanan Kar Miktarına Göre**
+Q_{kar}=\frac{K+SG}{b-d}
+
+**Gelir Vergisinin Hesaba Dahil Edilmesi**
+y=\frac z{1-t}
+(y=vergiden önceki kar
+t=vergi oranı
+z=vergiden sonraki kar)

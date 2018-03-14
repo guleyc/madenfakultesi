@@ -103,9 +103,9 @@ b) Başa baş noktasındaki satış geliri ne olmalıdır?
 
 **Çözüm 1**
 
-SG=10000TL
-d=600TL/br
-b=1000TL/br
+* SG=10000TL
+* d=600TL/br
+* b=1000TL/br
 
 a) 
 $$

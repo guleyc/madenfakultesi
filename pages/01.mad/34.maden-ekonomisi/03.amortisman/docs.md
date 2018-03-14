@@ -62,6 +62,7 @@ Sabit varlığın maliyeti ilk yıllarda yüksek devam eden yıllarda ise düş�
 * Sürenin son yılına devreden bakiyeler o yıl tamamen tükenir.
 
 Bir önceki örneği bu yöntem ile tekrar değerlendirirsek, aşağıdaki tablo elde edilir.
+
 | **Yıllar** | **Amortismana Tabii Miktar** | **Amortisman Oranı** | **Amortisman Tutarı** |
 | ------ | ------------------------ | ---------------- | ----------------- |
 | 1 | 300000 | 0.4 | 120000 |

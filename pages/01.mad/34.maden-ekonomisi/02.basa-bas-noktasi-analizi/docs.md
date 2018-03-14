@@ -71,15 +71,18 @@ $$
 $$
 Q=\frac{SG}{b-d}
 $$
+
 **Satış Geliri Açısından**
 $$
 R=\frac{SG}{1-{\displaystyle\frac{DG}G}}
 $$
 (R=Başa baş noktasındaki satış geliri)
+
 **Kapasite Kullanım Oranı Açısından**
 $$
 Kapasite\;Yüzdesi\;=\frac{SG}{bQ-dQ}
 $$
+
 **Amaçlanan Kar Miktarına Göre**
 $$
 Q_{kar}=\frac{K+SG}{b-d}
@@ -92,3 +95,11 @@ $$
 (y=vergiden önceki kar
 t=vergi oranı
 z=vergiden sonraki kar)
+
+**Örnek 1**
+İşletmenin toplam sabit gideri 10.000 TL, birim değişken gideri ise 600 TL/br, satış fiyatı 1000 TL/br'dir. Başa baş noktasına ulaşmak için satılması gereken ürün miktarı ne olmalıdır ve başa baş noktasındaki satış geliri ne olmalıdır?
+
+**Çözüm 1**
+SG=10000TL
+d=600TL/br
+b=1000TL/br

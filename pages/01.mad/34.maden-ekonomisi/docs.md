@@ -7,6 +7,7 @@ taxonomy:
 googledesc: 'Temel ekonometrik kavramlar, yatırım ve gider tanımlamaları, maliyet projeksyonları, amortisman hesapları ve uygulamaları, paranın zaman değeri, faiz hesapları, yatırım projelerinin ekonomiklilklerinin değerlendirilmesi, maden yatırımlarının ekonomikliğinin araştırılması ve yapılabilirlik etüdleri, madencilikte risk.'
 twitterenable: true
 twittercardoptions: summary
+twitterdescription: 'Temel ekonometrik kavramlar, yatırım ve gider tanımlamaları, maliyet projeksyonları, amortisman hesapları ve uygulamaları, paranın zaman değeri, faiz hesapları, yatırım projelerinin ekonomiklilklerinin değerlendirilmesi, maden yatırımlarının ekonomikliğinin araştırılması ve yapılabilirlik etüdleri, madencilikte risk.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false

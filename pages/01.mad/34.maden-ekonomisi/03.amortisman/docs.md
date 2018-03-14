@@ -89,7 +89,7 @@ $$
 Maliyet yöntemi bir örnekle açıklanmak istenirse;
 * Maden: Bakır
 * Rezerv: 4.5 milyon ton
-* 1. Yıl Üretim: 600000 ton
+* İlk Yıl Üretim: 600000 ton
 * Yatırım tutarı: 2340000 USD
 
 * Cevher İçin Yatırım: 1440000 USD
@@ -97,12 +97,27 @@ Maliyet yöntemi bir örnekle açıklanmak istenirse;
 * Diğer: 300000 USD
 
 Bu verilere göre bakır yatağının yıllara göre tükenme amortismanını bulalım.
-1. Yıl Tükenme Müsadesi;
+
+İlk Yıl Tükenme Müsadesi;
 $$
 600000\times\frac{2340000}{4500000}=312000\;USD
 $$
 
-1. Yıl Sonundaki Tükenme Baz Değeri;
+İlk Yıl Sonundaki Tükenme Baz Değeri;
 $$
 2340000-312000=2028000\;USD
 $$
+
+İkinci Yıl Tükenme Müsadesi;
+
+$$
+ikinciyilda\;tukenme\;musadesi\;=\;2.yilda\;uretilen\;cevher\;miktari\;\times\frac{2028000}{3900000}
+$$
+
+**Yüzde Yönetimi**
+Aşağıda verilen iki değerin hesaplanarak küçük olanın seçilmesi ile gerçekleştirilir.
+1. Brüt gelirin belirli bir yüzdesi, üretilen cevherin tipine göre seçilir.
+2. Vergi ve amortisman öncesi gelirin %50'si
+
+**Sonuç**
+* Bu durumda bakır madeninin 1. yıldaki tkenme amortismanı değer olarak; 1150000 USD (>312000 USD) seçilir.

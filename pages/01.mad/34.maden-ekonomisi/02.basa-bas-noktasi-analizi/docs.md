@@ -98,8 +98,8 @@ z=vergiden sonraki kar)
 
 **Örnek 1**
 İşletmenin toplam sabit gideri 10.000 TL, birim değişken gideri ise 600 TL/br, satış fiyatı 1000 TL/br'dir.
-a) Başa baş noktasına ulaşmak için satılması gereken ürün miktarı ne olmalıdır? 
-b) Başa baş noktasındaki satış geliri ne olmalıdır?
+**a)** Başa baş noktasına ulaşmak için satılması gereken ürün miktarı ne olmalıdır? 
+**b)** Başa baş noktasındaki satış geliri ne olmalıdır?
 
 **Çözüm 1**
 
@@ -107,7 +107,7 @@ b) Başa baş noktasındaki satış geliri ne olmalıdır?
 * d=600TL/br
 * b=1000TL/br
 
-a) 
+**a)**
 $$
 Q=\frac{SG}{b-d}
 $$
@@ -118,7 +118,7 @@ $$
 
 Q=25 m^3
 
-b)
+**b)**
 $$
 R=\frac{SG}{1-{\displaystyle\frac{DG}G}}
 $$
@@ -143,8 +143,8 @@ R=25000TL
 * Gelir: 4000 TL/m^3
 * Üretim Kapasitesi: 1500000 m^3/yıl
 
-a) Başa baş noktasını üretim miktarı olarak bulunuz.
-b) Firmanın yıllık karının 500000TL/yıl kara ulaşması için gerekli üretim miktarını bulunuz.
+**a)** Başa baş noktasını üretim miktarı olarak bulunuz.
+**b)** Firmanın yıllık karının 500000TL/yıl kara ulaşması için gerekli üretim miktarını bulunuz.
 
 **Çözüm 2**
 * d= 100+500+400+300+200 = 1500 TL/m^3
@@ -152,7 +152,7 @@ b) Firmanın yıllık karının 500000TL/yıl kara ulaşması için gerekli üre
 * SG= 1500000+500000+125000 = 2250000 TL/yıl
 * Üretim Kapasitesi: 1500000 m^3/yıl
 
-a)
+**a)**
 $$
 Q=\frac{SG}{b-d}
 $$
@@ -161,7 +161,8 @@ $$
 Q=\frac{2250000}{4000-1500}
 $$
 =900 m^3
-b)
+
+**b)**
 $$
 Q_{kar}=\frac{K+SG}{b-d}
 $$
@@ -170,3 +171,28 @@ $$
 Q_{kar}=\frac{500000+2250000}{4000-1500}
 $$
 =1100 m^3
+
+**Örnek 3**
+Aşağıdaki koşullar altında işletme 1000 ton kömür satışından 70000 TL kar elde etmektedir. İşletmenin hedeflenen kar üzerinden %30 gelir vergisini ödedikten sonra hedeflediği kara ulaşması için gerekli üretimi ne olmalıdır?
+* b= 150 TL/ton
+* d= 50 TL/ton
+* SG= 30000 TL
+
+**Çözüm 3**
+$$
+y=\frac z{1-t}
+$$
+$$
+y=\frac 70000{1-0.3}
+$$
+=100000TL
+K=100000TL ise
+
+$$
+Q_{kar}=\frac{K+SG}{b-d}
+$$
+
+$$
+Q_{kar}=\frac{100000+30000}{150-50}
+$$
+=1300 ton

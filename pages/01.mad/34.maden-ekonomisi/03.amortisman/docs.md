@@ -79,11 +79,11 @@ Bir önceki örneği bu yöntem ile tekrar değerlendirirsek, aşağıdaki tablo
 
 #### Maliyet Yönetimi
 $$
-y\i ll\i k\;tükenme\;müsadesi\;=\;y\i l\;boyunca\;üretilen\;cevher\;miktar\i\;\times\;\frac{tükenme\;baz\;değeri}{y\i l\;baş\i ndaki\;rezerv}
+yillik\;tukenme\;musadesi\;=\;yil\;boyunca\;uretilen\;cevher\;miktari\;\times\frac{tukenme\;baz\;degeri}{yil\;ba\sin daki\;rezerv}
 $$
 
 $$
-tükenme\;baz\;değeri\;=\;yat\i r\i m\;değeri\;-\;toplam\;tükenme\;müsadesi
+tukenme\;baz\;degeri\;=\;yatirim\;degeri\;-\;toplam\;tukenme\;musadesi
 $$
 
 Maliyet yöntemi bir örnekle açıklanmak istenirse;

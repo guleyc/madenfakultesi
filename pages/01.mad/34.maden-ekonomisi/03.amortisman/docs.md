@@ -44,12 +44,12 @@ $$
 
 Örneğin 5 yıl sonra 20000 TL'den satılabilecek bir makine 320000 TL'ye alındı ise, yıllara göre amortisman değeri normal amortisman tekniğine göre aşağıdaki şekilde bulunur.
 
-| Yıllar | Amortismana Tabii Miktar | Amortisman Oranı | Amortisman Tutarı |
+| **Yıllar** | **Amortismana Tabii Miktar** | **Amortisman Oranı** | **Amortisman Tutarı** |
 | ------ | ------------------------ | ---------------- | ----------------- |
 | 1 | 300000 | 0.2 | 60000 |
 | 2 | 300000 | 0.2 | 60000 |
 | 3 | 300000 | 0.2 | 60000 |
 | 4 | 300000 | 0.2 | 60000 |
 | 5 | 300000 | 0.2 | 60000 |
-| Hurda Değeri | | | 20000 |
-| Toplam | | | 320000 |
+| **Hurda Değeri** | | | 20000 |
+| **Toplam** | | | 320000 |

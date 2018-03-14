@@ -55,11 +55,17 @@ Başa baş noktası analiz yönetmleri
 * TG=Toplam Gider
 * K=Kar
 
-$$ G=Q\times b $$
+$$
+G=Q\times b
+$$
 
-$$ TG=Q\times b+SG $$
+$$
+TG=Q\times b+SG
+$$
 
-$$ K=G-TG=Q\times\left(b-d\right)-SG $$
+$$
+K=G-TG=Q\times\left(b-d\right)-SG
+$$
 
 **Üretilecek Mal Mitarı Açısından**
 $$ Q=\frac{SG}{b-d} $$

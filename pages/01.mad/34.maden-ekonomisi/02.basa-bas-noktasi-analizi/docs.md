@@ -97,9 +97,33 @@ t=vergi oranı
 z=vergiden sonraki kar)
 
 **Örnek 1**
-İşletmenin toplam sabit gideri 10.000 TL, birim değişken gideri ise 600 TL/br, satış fiyatı 1000 TL/br'dir. Başa baş noktasına ulaşmak için satılması gereken ürün miktarı ne olmalıdır ve başa baş noktasındaki satış geliri ne olmalıdır?
+İşletmenin toplam sabit gideri 10.000 TL, birim değişken gideri ise 600 TL/br, satış fiyatı 1000 TL/br'dir.
+a) Başa baş noktasına ulaşmak için satılması gereken ürün miktarı ne olmalıdır? 
+b) Başa baş noktasındaki satış geliri ne olmalıdır?
 
 **Çözüm 1**
+
 SG=10000TL
 d=600TL/br
 b=1000TL/br
+
+a) 
+$$
+Q=\frac{SG}{b-d}
+$$
+
+$$
+Q=\frac{10000}{1000-600}
+$$
+
+Q=25 m^3
+b)
+$$
+R=\frac{SG}{1-{\displaystyle\frac{DG}G}}
+$$
+
+$$
+R=\frac{10000}{1-{\displaystyle\frac{600\times25}{1000\times25}}}
+$$
+
+R=25000TL

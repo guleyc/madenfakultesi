@@ -27,3 +27,5 @@ restaurant:
 ### [Temel Kavramlar](/mad/maden-ekonomisi/temel-kavramlar.html)
 
 ### [Başa Baş Nokta Analizi](/mad/maden-ekonomisi/basa-bas-noktasi-analizi.html)
+
+### [Amortisman](/mad/maden-ekonomisi/amortisman.html)

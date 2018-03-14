@@ -56,7 +56,9 @@ Başa baş noktası analiz yönetmleri
 * K=Kar
 
 $$ G=Q\times b $$
+
 $$ TG=Q\times b+SG $$
+
 $$ K=G-TG=Q\times\left(b-d\right)-SG $$
 
 **Üretilecek Mal Mitarı Açısından**

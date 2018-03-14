@@ -128,3 +128,45 @@ R=\frac{10000}{1-{\displaystyle\frac{600\times25}{1000\times25}}}
 $$
 
 R=25000TL
+
+**Örnek 2**
+İşletemeye ait aşağıdaki bilgiler verilmiştir.
+* Elektrik: 100 TL/m^3
+* Mazot ve Yağ: 500 TL/m^3
+* Lastik ve Yedek Parça: 400 TL/m^3
+* Patlayıcı Madde: 300 TL/m^3
+* Diğer Değişken Giderler: 200 TL/m^3
+* Amortisman, Faiz ve Sigorta: 1500000 TL/yıl
+* Personel: 500000 TL/yıl
+* Diğer Sabit Giderler: 125000 TL/yıl
+
+* Gelir: 4000 TL/m^3
+* Üretim Kapasitesi: 1500000 m^3/yıl
+
+a) Başa baş noktasını üretim miktarı olarak bulunuz.
+b) Firmanın yıllık karının 500000TL/yıl kara ulaşması için gerekli üretim miktarını bulunuz.
+
+**Çözüm 2**
+* d= 100+500+400+300+200 = 1500 TL/m^3
+* b= 4000 TL/m^3
+* SG= 1500000+500000+125000 = 2250000 TL/yıl
+* Üretim Kapasitesi: 1500000 m^3/yıl
+
+a)
+$$
+Q=\frac{SG}{b-d}
+$$
+
+$$
+Q=\frac{2250000}{4000-1500}
+$$
+=900 m^3
+b)
+$$
+Q_{kar}=\frac{K+SG}{b-d}
+$$
+
+$$
+Q_{kar}=\frac{500000+2250000}{4000-1500}
+$$
+=1100 m^3

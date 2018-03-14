@@ -4,6 +4,7 @@ taxonomy:
     tag:
         - ekonomi
         - maden
+googledesc: 'Temel ekonometrik kavramlar, yatırım ve gider tanımlamaları, maliyet projeksyonları, amortisman hesapları ve uygulamaları, paranın zaman değeri, faiz hesapları, yatırım projelerinin ekonomiklilklerinin değerlendirilmesi, maden yatırımlarının ekonomikliğinin araştırılması ve yapılabilirlik etüdleri, madencilikte risk.'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false

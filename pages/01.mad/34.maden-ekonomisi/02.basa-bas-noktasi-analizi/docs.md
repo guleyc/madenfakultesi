@@ -215,19 +215,27 @@ $$
 
 ## Lineer Başa Baş Nokta Analizi
 ![](Picture5.png)
-Dg sabit, sg ise belirli bir üretim sonra artıyor, bağlı olarak tg artar ve başa baş noktası, a’dan b’ye değişir
+
+_Dg sabit, sg ise belirli bir üretim sonra artıyor, bağlı olarak tg artar ve başa baş noktası, a’dan b’ye değişir._
+
 ![](Picture6.png)
-Sg sabit, dg ise belirli bir üretim sonra artıyor, bağlı olarak tg artar ve başa baş noktası, a’dan b’ye değişir
+
+_Sg sabit, dg ise belirli bir üretim sonra artıyor, bağlı olarak tg artar ve başa baş noktası, a’dan b’ye değişir._
+
 ![](Picture7.png)
-Sg sabit, dg sabit, g ise belirli bir üretim sonra artıyor, başa baş noktası, b’den a’ya değişir
+
+_Sg sabit, dg sabit, g ise belirli bir üretim sonra artıyor, başa baş noktası, b’den a’ya değişir._
+
 ## Lineer Olmayan Başa Baş Nokta Analizi
-İki adet (alt-üst) başa baş noktası vardır, ve maksimum kar, gelir gider eğrileri arasındaki farkın en çok olduğu noktadadır. Başa baş noktalarının ötelerinde ise zarar söz konusudur
+İki adet (alt-üst) başa baş noktası vardır, ve maksimum kar, gelir gider eğrileri arasındaki farkın en çok olduğu noktadadır. Başa baş noktalarının ötelerinde ise zarar söz konusudur.
+
 ![](Picture8.png)
 
-Kar; gelir ve toplam maliyet eğrilerinin eğimlerinin eşit olduğu noktada maksimum olur.
-Marjinal maliyet = Marjinal gelir
-Marjinal kar = Üretim miktarına göre kar değişim oranıdır.
-Maksimum kar noktasında değişim oranı 0’dır  
+* Kar; gelir ve toplam maliyet eğrilerinin eğimlerinin eşit olduğu noktada maksimum olur.
+* Marjinal maliyet = Marjinal gelir
+* Marjinal kar = Üretim miktarına göre kar değişim oranıdır.
+* Maksimum kar noktasında değişim oranı 0’dır  
+
 $$
 \frac{\partial K}{\partial Q}=\frac{\partial(Q\times b-Q\times d-SG)}{\partial Q}=0
 $$
@@ -235,8 +243,10 @@ $$
 $$
 \frac{\partial(Qb)}{\partial Q}=\frac{\partial(Q\times d+SG)}{\partial Q}
 $$
+
 **Lineer Fonksiyonlar İçin;**
 OTM Artan üretim miktarlarında düşecektir. Bu yüzden mm, otm’den daha küçük olacaktır.
+
 $$
 OTM=\frac{Qd+SG}Q
 $$
@@ -244,8 +254,10 @@ $$
 $$
 MM=\frac{\partial(Qd+SG)}{\partial Q}
 $$
+
 **Lineer Olmayan Fonksiyonlar İçin;**
 OTM Artan üretim miktarlarında önce azalıp sonra artmaktadır. Bu yüzden bir evvelki durum burada söz konusu olmaz. Eğrinin eğimi, en düşük OTM için yapılan üretimde 0’a eşit olur. Minimum ortalama toplam maliyet noktası ile maksimum kar noktası kesişmeyebilir.
+
 $$
 \frac{\partial(d-SGQ^{-1})}{\partial Q}=0
 $$
@@ -269,7 +281,8 @@ c) başa baş noktasındaki üretim miktarlarını bulunuz
 
 **Çözüm 1**
 a) 
-1. Yol: maksimum kara göre; marjinal maliyet=marjinal gelir ise kar maksimum olur.
+
+**1. Yol:** maksimum kara göre; marjinal maliyet=marjinal gelir ise kar maksimum olur.
 $$
 \begin{array}{l}MG=\frac{\partial(nb)}{\partial n}=\frac{\partial(100n-0.001n^2)}{\partial n}\\=100-0.002n\end{array}
 $$
@@ -281,7 +294,7 @@ $$
 \begin{array}{l}100-0.002n=0.01n+4\\n=8000br\end{array}
 $$
 
-2. Yol: maksimum kar için üretim miktarı; marjinal karın 0’a eşit olduğu noktada oluşan miktadır.
+**2. Yol:** maksimum kar için üretim miktarı; marjinal karın 0’a eşit olduğu noktada oluşan miktadır.
 $$
 \begin{array}{l}MK=\frac{\operatorname dK}{\operatorname dn}=\frac{\partial(-0.006n^2+96n-200000)}{\partial n}=0\\0=-0.012n+96\\n=8000br\end{array}
 $$

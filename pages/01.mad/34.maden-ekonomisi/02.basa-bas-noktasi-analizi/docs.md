@@ -25,8 +25,10 @@ restaurant:
 
 ![](Picture1.png)
 Gelir ve giderin lineer olduğu işletmelerde başa baş noktasının grafiği
+
 ![](Picture2.png)
 Gelir ve giderin lineer giderin belli bir üretim miktarından sonra lineer arttığı işletmelerde başa baş noktası grafiği 
+
 ![](Picture3.png)
 Gelir ve giderin nonlineer olduğu işletmelerde başa baş noktasının grafiği
 

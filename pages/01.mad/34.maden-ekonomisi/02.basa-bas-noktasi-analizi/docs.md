@@ -1,5 +1,6 @@
 ---
 title: 'Başa Baş Noktası Analizi'
+media_order: 'Picture1.png,Picture2.png,Picture3.png,Picture4.png,Picture5.png,Picture6.png,Picture7.png,Picture8.png'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false
@@ -21,6 +22,13 @@ restaurant:
 ---
 
 **Başa Baş Noktası:** İşletmenin gelir v e giderlerinin eşit olduğu diğer bir deyişle karının 0 olduğu noktaya başabaş noktası denir.
+
+![](Picture1.png)
+Gelir ve giderin lineer olduğu işletmelerde başa baş noktasının grafiği
+![](Picture2.png)
+Gelir ve giderin lineer giderin belli bir üretim miktarından sonra lineer arttığı işletmelerde başa baş noktası grafiği 
+![](Picture3.png)
+Gelir ve giderin nonlineer olduğu işletmelerde başa baş noktasının grafiği
 
 Başa baş noktası analiz yönetmleri
 * Geleneksel
@@ -44,6 +52,9 @@ Başa baş noktası analiz yönetmleri
 * Stoklar hesaba katılmaz ihmal edilebilir niteliktedir
 * Hammadde işçilik ve benzeri kalemlerin maliyetleri sabittir
 * Üretim verimliliği sabittir
+
+## Grafik Yöntemi
+![](Picture4.png)
 
 ## Matematiksel Yöntem
 * SG=Sabit Gider
@@ -196,3 +207,91 @@ $$
 Q_{kar}=\frac{100000+30000}{150-50}
 $$
 =1300 ton
+
+## Lineer Başa Baş Nokta Analizi
+![](Picture5.png)
+Dg sabit, sg ise belirli bir üretim sonra artıyor, bağlı olarak tg artar ve başa baş noktası, a’dan b’ye değişir
+![](Picture6.png)
+Sg sabit, dg ise belirli bir üretim sonra artıyor, bağlı olarak tg artar ve başa baş noktası, a’dan b’ye değişir
+![](Picture7.png)
+Sg sabit, dg sabit, g ise belirli bir üretim sonra artıyor, başa baş noktası, b’den a’ya değişir
+## Lineer Olmayan Başa Baş Nokta Analizi
+İki adet (alt-üst) başa baş noktası vardır, ve maksimum kar, gelir gider eğrileri arasındaki farkın en çok olduğu noktadadır. Başa baş noktalarının ötelerinde ise zarar söz konusudur
+![](Picture8.png)
+
+Kar; gelir ve toplam maliyet eğrilerinin eğimlerinin eşit olduğu noktada maksimum olur.
+Marjinal maliyet = Marjinal gelir
+Marjinal kar = Üretim miktarına göre kar değişim oranıdır.
+Maksimum kar noktasında değişim oranı 0’dır  
+$$
+\frac{\partial K}{\partial Q}=\frac{\partial(Q\times b-Q\times d-SG)}{\partial Q}=0
+$$
+
+$$
+\frac{\partial(Qb)}{\partial Q}=\frac{\partial(Q\times d+SG)}{\partial Q}
+$$
+**Lineer Fonksiyonlar İçin;**
+OTM Artan üretim miktarlarında düşecektir. Bu yüzden mm, otm’den daha küçük olacaktır.
+$$
+OTM=\frac{Qd+SG}Q
+$$
+
+$$
+MM=\frac{\partial(Qd+SG)}{\partial Q}
+$$
+**Lineer Olmayan Fonksiyonlar İçin;**
+OTM Artan üretim miktarlarında önce azalıp sonra artmaktadır. Bu yüzden bir evvelki durum burada söz konusu olmaz. Eğrinin eğimi, en düşük OTM için yapılan üretimde 0’a eşit olur. Minimum ortalama toplam maliyet noktası ile maksimum kar noktası kesişmeyebilir.
+$$
+\frac{\partial(d-SGQ^{-1})}{\partial Q}=0
+$$
+
+$$
+\frac{\partial(d)}{\partial Q}-\frac{\partial SG}{\partial Q^2}
+$$
+
+**Örnek 1**
+Bir maden işletmesinde tutulan kayıtlardan elde edilen bilgilere göre, işletmenin gelir gider durumuna ait bilgiler aşağıdaki şekliyle elde edilmiştir.
+
+* sabit maliyetler = 200.000 tl/ay
+* satış fiyatı = 100-0,001n tl/br
+* değişken maliyetler = 0,005n+4 tl/br
+* aylık üretim kapasitesi = 15.000 ton/ay
+
+başa baş noktasını;
+a) maksimum kara
+b) minimum ortalama maliyete göre hesaplayınız
+c) başa baş noktasındaki üretim miktarlarını bulunuz
+
+**Çözüm 1**
+a) 
+1. Yol: maksimum kara göre; marjinal maliyet=marjinal gelir ise kar maksimum olur.
+$$
+\begin{array}{l}MG=\frac{\partial(nb)}{\partial n}=\frac{\partial(100n-0.001n^2)}{\partial n}\\=100-0.002n\end{array}
+$$
+
+$$
+\begin{array}{l}MM=\frac{\partial(DG+SG)}{\partial n}=\frac{\partial(0.005n^2+4n+200000)}{\partial n}\\=0.01n+4\end{array}
+$$
+$$
+\begin{array}{l}100-0.002n=0.01n+4\\n=8000br\end{array}
+$$
+
+2. Yol: maksimum kar için üretim miktarı; marjinal karın 0’a eşit olduğu noktada oluşan miktadır.
+$$
+\begin{array}{l}MK=\frac{\operatorname dK}{\operatorname dn}=\frac{\partial(-0.006n^2+96n-200000)}{\partial n}=0\\0=-0.012n+96\\n=8000br\end{array}
+$$
+
+8.000 birim üretimden elde edilecek kar;
+$$
+\begin{array}{l}K=G-M\\=100n-0.001n^2-0.005n^2-4n-200000\\=-0.006n^2+96n-200000\\=-0.006\times(8000)^2+96\times8000-200000\\=184000\end{array}
+$$
+
+Minimum ortalama maliyet için başa baş noktası; 
+$$
+\begin{array}{l}\frac{\displaystyle\partial d}{\displaystyle\partial Q}=\frac{\displaystyle SG}{\displaystyle Q^2}\\=\frac{\partial d}{\partial n}=\frac{SG}{{\displaystyle n}^2}\\=\frac{\partial(0.005n+4)}{\partial n}=\frac{200000}{n^2}\\=0.005n^2=200000\\=n=6325br\\\\\end{array}
+$$
+
+Başa baş üretim miktarı; kar’ın 0 olduğu noktadır.
+$$
+\begin{array}{l}K=0=-0.006n^2+96n-200000\\\\n_{1,2}=\frac{96\pm\sqrt{96^2-4\times0.006\times200000}}{2\times0.006}\\n_{1,2}=\frac{96\pm66.4}{0.012}\\n_1=2467br\\n_2=13533br\end{array}
+$$

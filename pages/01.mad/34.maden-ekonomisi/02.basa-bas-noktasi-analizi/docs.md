@@ -306,7 +306,7 @@ $$
 
 Minimum ortalama maliyet için başa baş noktası; 
 $$
-\begin{array}{l}\frac{\displaystyle\partial d}{\displaystyle\partial Q}=\frac{\displaystyle SG}{\displaystyle Q^2}\\=\frac{\partial d}{\partial n}=\frac{SG}{{\displaystyle n}^2}\\=\frac{\partial(0.005n+4)}{\partial n}=\frac{200000}{n^2}\\=0.005n^2=200000\\=n=6325br\\\\\end{array}
+\begin{array}{l}\frac{\displaystyle\partial d}{\displaystyle\partial Q}=\frac{\displaystyle SG}{\displaystyle Q^2}\\=\frac{\partial d}{\partial n}=\frac{SG}{\displaystyle n^2}\\=\frac{\partial(0.005n+4)}{\partial n}=\frac{200000}{n^2}\\=0.005n^2=200000\\=n=6325br\\\\\end{array}
 $$
 
 Başa baş üretim miktarı; kar’ın 0 olduğu noktadır.

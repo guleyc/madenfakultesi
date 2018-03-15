@@ -24,12 +24,15 @@ restaurant:
 **Başa Baş Noktası:** İşletmenin gelir v e giderlerinin eşit olduğu diğer bir deyişle karının 0 olduğu noktaya başabaş noktası denir.
 
 ![](Picture1.png)
+
 Gelir ve giderin lineer olduğu işletmelerde başa baş noktasının grafiği
 
 ![](Picture2.png)
+
 Gelir ve giderin lineer giderin belli bir üretim miktarından sonra lineer arttığı işletmelerde başa baş noktası grafiği 
 
 ![](Picture3.png)
+
 Gelir ve giderin nonlineer olduğu işletmelerde başa baş noktasının grafiği
 
 Başa baş noktası analiz yönetmleri

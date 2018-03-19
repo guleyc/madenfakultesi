@@ -16,21 +16,18 @@ creator: guleyc
 
 ## Lorem
 
-[mermaid]
-graph TB
-sq[Square shape] --> ci((Circle shape))
+[flow]
+st=>start: Start plugin
+e=>end: End
+op1=>operation: Development|success
+sub1=>subroutine: Add features|success
+cond=>condition: It is cool?|invalid
+io=>inputoutput: Update for users|calm
 
-subgraph A subgraph
-    od>Odd shape]-- Two line<br>edge comment --> ro
-    di{Diamond <br/> line break} -.-> ro(Rounded<br>square<br>shape)
-    di==>ro2(Rounded square shape)
-end
-
-classDef green fill:#9f6,stroke:#333,stroke-width:2px;
-classDef orange fill:#f96,stroke:#333,stroke-width:4px;
-class sq,e green
-class di orange
-[/mermaid]
+st->op1->cond
+cond(yes)->io->e
+cond(no)->sub1(right)->op1
+[/flow]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut consequat, purus vitae facilisis viverra, quam mauris convallis quam, a laoreet mauris nunc id neque. Cras commodo, dui a tincidunt aliquam, eros velit cursus lorem, id eleifend est risus nec leo. Maecenas sed posuere magna, vitae lacinia nulla. Fusce mauris leo, fringilla eget consequat id, luctus eu diam. Duis ac velit quam. Nam sit amet elementum nisi, vel sodales ipsum. Maecenas condimentum nunc iaculis sapien facilisis, vitae pellentesque lorem condimentum. Maecenas venenatis varius porta. Pellentesque nisi leo, egestas et tortor ac, feugiat euismod massa. Praesent a mi posuere, consectetur dui et, blandit enim. Mauris convallis id sapien vel semper. Vivamus et orci ultricies, dapibus nulla id, gravida lacus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna erat, pellentesque eu tellus et, ullamcorper suscipit magna. Vestibulum ac sagittis eros.
 

@@ -10,22 +10,31 @@ orgaratingenabled: false
 facebookenable: false
 ---
 
-A harfi ile başlayanlar
-ABATAJ, 1) Tabii konumundaki madenin, kazma, martopikör, —> dinamit, vb. araçlarla yerinden sökülmesi ve taşımaya hazır hale getirilmesi. 2) —> Kazı.
+## A harfi ile başlayanlar
 
-ABİSAL FASİYES, 1) Derinliği 900 m’den fazla olan deniz diplerindeki çökeller. 2) Derin deniz fasiyesi. —> Fasiyes.
+### ABATAJ
+1) Tabii konumundaki madenin, kazma, martopikör, —> dinamit, vb. araçlarla yerinden sökülmesi ve taşımaya hazır hale getirilmesi. 2) —> Kazı.
 
-ABSORPSİYON,  1) Absorb etme, emme yani su  veya  diğer  sıvıların, katı  malzemenin  göze-neklerinin  içine  girmesi. Yüksek  absorpsiyon  kapasitesi, malzemenin  büyük  yüzey  alanı, toplam  gözenek  hacmi  ile  yeterli  gözenek  büyüklüğü  ve  dağılımına  sahip  olmalarına  bağlıdır. Bentonit, fuller toprağı  sepiyolit  ve  atapulgit  bu  özelliklere  büyük  ölçüde  sahip  olduğu  için  absorbant  malzeme  olarak  kullanı-lırlar.  2) Gaz, ışık, ısı ve  ışınların  bir  maddeden  geçerken  kısmen  veya  tamamen  çözülmesi  ve  emilmesi.  3) Kömürün  bünyesinde  gazların  çözünmüş  halde  ve  bir  tür  molekülsel  sızma  şeklinde  bulunması  durumu.  4) Soğurma 5) Az  hareketli  nötronların  ince  bor  ve  kadmiyum  tabakaları  tarafından  yutulması.
+### ABİSAL FASİYES
+1) Derinliği 900 m’den fazla olan deniz diplerindeki çökeller. 2) Derin deniz fasiyesi. —> Fasiyes.
 
-ABSORPLAYICI, 1) Elektrikte, yüksek gerilime karşı koruyucu olan araç. 2) Gökbilimde, ışığı emerek azaltma özelliğini gösteren ortam. 3) Tarımda. tahılları içine çekerek aktaran aygıt. 4) Rafinerilerde, petrol gazlarının süzülmesinde kullanılan arıtma tertibatı.
+### ABSORPSİYON
+1) Absorb etme, emme yani su  veya  diğer  sıvıların, katı  malzemenin  göze-neklerinin  içine  girmesi. Yüksek  absorpsiyon  kapasitesi, malzemenin  büyük  yüzey  alanı, toplam  gözenek  hacmi  ile  yeterli  gözenek  büyüklüğü  ve  dağılımına  sahip  olmalarına  bağlıdır. Bentonit, fuller toprağı  sepiyolit  ve  atapulgit  bu  özelliklere  büyük  ölçüde  sahip  olduğu  için  absorbant  malzeme  olarak  kullanı-lırlar.  2) Gaz, ışık, ısı ve  ışınların  bir  maddeden  geçerken  kısmen  veya  tamamen  çözülmesi  ve  emilmesi.  3) Kömürün  bünyesinde  gazların  çözünmüş  halde  ve  bir  tür  molekülsel  sızma  şeklinde  bulunması  durumu.  4) Soğurma 5) Az  hareketli  nötronların  ince  bor  ve  kadmiyum  tabakaları  tarafından  yutulması.
 
-AC ( AMONYUM KLORÜR) YÖNTEMİ, Sentetik soda külü üretim yöntemlerinden biri. DUAL’da denilen ve Japonlar tarafından geliştirilen AC yöntemi, solvay yönteminin değişik bir şeklidir. Bu yöntemle tuzdaki sodyum içeriğinin hepsi soda külüne dönüştürülür. Bu oran Solvay yönteminde % 70 dir. Yan ürün olarak çıkan —> Amonyum klorür ( NH4 CL) yani nışadır en çok kuru pillerde elektrolit olarak, galvanizleme ve kalaylamada, ayrıca metal yüzeylerdeki oksit katmanını gidererek metalin lehim tutmasını kolaylaştırmak amacıyla lehimcilikte de yaygın olarak kullanılır. —>  Solvay yöntemi.
+### ABSORPLAYICI
+1) Elektrikte, yüksek gerilime karşı koruyucu olan araç. 2) Gökbilimde, ışığı emerek azaltma özelliğini gösteren ortam. 3) Tarımda. tahılları içine çekerek aktaran aygıt. 4) Rafinerilerde, petrol gazlarının süzülmesinde kullanılan arıtma tertibatı.
 
-AÇI İSTASYONU, 1) Konveyör veya havai hattın yön değiştirme yerindeki düzen. 2) Zaviye.
+### AC ( AMONYUM KLORÜR) YÖNTEMİ
+Sentetik soda külü üretim yöntemlerinden biri. DUAL’da denilen ve Japonlar tarafından geliştirilen AC yöntemi, solvay yönteminin değişik bir şeklidir. Bu yöntemle tuzdaki sodyum içeriğinin hepsi soda külüne dönüştürülür. Bu oran Solvay yönteminde % 70 dir. Yan ürün olarak çıkan —> Amonyum klorür ( NH4 CL) yani nışadır en çok kuru pillerde elektrolit olarak, galvanizleme ve kalaylamada, ayrıca metal yüzeylerdeki oksit katmanını gidererek metalin lehim tutmasını kolaylaştırmak amacıyla lehimcilikte de yaygın olarak kullanılır. —>  Solvay yöntemi.
 
-AÇIK ALEV, 1) Ortamdaki grizuyu tutuşturabilen veya patlatabilen, yeterince kapatılmamış ve korunmamış alev.
+### AÇI İSTASYONU
+1) Konveyör veya havai hattın yön değiştirme yerindeki düzen. 2) Zaviye.
 
-AÇIK AYAK İŞLETME METODU, 1) Belli bir plan düşünülmeden, tahkimat yapılmadan arasıra çatal direk vurmak veya topuklar bırakmak suretiyle cevher yatağının gelişmesine göre gayri muntazam bacalar (galeri ve kılavuzlar) sürmek veya muntazam bacalar sürüp topuklar bırakmak ve maden yatağının kalınlığına göre açık işletmelerde olduğu gibi basamaklar yapmak suretiyle cevher ve yan taşı sağlam olan metalik cevher yataklarına uygulanan yeraltı (üretim) işletme metotları. Köstebek, Basit mağara, Sistemsiz topuklu, Sistematik topuklu, Başaşağı, Yeraltı huni (glori hol), Başyukarı, Oda ve topuk, Tali (ara) katlı açık ayak işletme metodu diye sınıflandırılabilir. 2) Tahkimatsız ayak işletme metodu.
+### AÇIK ALEV
+1) Ortamdaki grizuyu tutuşturabilen veya patlatabilen, yeterince kapatılmamış ve korunmamış alev.
+
+### AÇIK AYAK İŞLETME METODU
+1) Belli bir plan düşünülmeden, tahkimat yapılmadan arasıra çatal direk vurmak veya topuklar bırakmak suretiyle cevher yatağının gelişmesine göre gayri muntazam bacalar (galeri ve kılavuzlar) sürmek veya muntazam bacalar sürüp topuklar bırakmak ve maden yatağının kalınlığına göre açık işletmelerde olduğu gibi basamaklar yapmak suretiyle cevher ve yan taşı sağlam olan metalik cevher yataklarına uygulanan yeraltı (üretim) işletme metotları. Köstebek, Basit mağara, Sistemsiz topuklu, Sistematik topuklu, Başaşağı, Yeraltı huni (glori hol), Başyukarı, Oda ve topuk, Tali (ara) katlı açık ayak işletme metodu diye sınıflandırılabilir. 2) Tahkimatsız ayak işletme metodu.
 
 AÇIK İŞLETME, 1) Maden üzerindeki örtü tabakasını almak ve bu suretle maden kitlesini istihsal edebilecek bir duruma getirmek amacıyla uygulanan bir maden ocağı işletme sistemi. 2) Açık ocak. 3) Normal açık işletme. —> Yerüstü madenciliği.
 

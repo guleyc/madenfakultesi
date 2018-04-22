@@ -10,8 +10,6 @@ orgaratingenabled: false
 facebookenable: false
 ---
 
-# A harfi ile başlayanlar
-
 ## ABATAJ
 1) Tabii konumundaki madenin, kazma, martopikör, —> dinamit, vb. araçlarla yerinden sökülmesi ve taşımaya hazır hale getirilmesi. 2) —> Kazı.
 

@@ -10,15 +10,15 @@ orgaratingenabled: false
 facebookenable: false
 ---
 
-## A harfi ile başlayanlar
+# A harfi ile başlayanlar
 
-### ABATAJ
+## ABATAJ
 1) Tabii konumundaki madenin, kazma, martopikör, —> dinamit, vb. araçlarla yerinden sökülmesi ve taşımaya hazır hale getirilmesi. 2) —> Kazı.
 
-### ABİSAL FASİYES
+## ABİSAL FASİYES
 1) Derinliği 900 m’den fazla olan deniz diplerindeki çökeller. 2) Derin deniz fasiyesi. —> Fasiyes.
 
-### ABSORPSİYON
+## ABSORPSİYON
 1) Absorb etme, emme yani su  veya  diğer  sıvıların, katı  malzemenin  göze-neklerinin  içine  girmesi. Yüksek  absorpsiyon  kapasitesi, malzemenin  büyük  yüzey  alanı, toplam  gözenek  hacmi  ile  yeterli  gözenek  büyüklüğü  ve  dağılımına  sahip  olmalarına  bağlıdır. Bentonit, fuller toprağı  sepiyolit  ve  atapulgit  bu  özelliklere  büyük  ölçüde  sahip  olduğu  için  absorbant  malzeme  olarak  kullanı-lırlar.  2) Gaz, ışık, ısı ve  ışınların  bir  maddeden  geçerken  kısmen  veya  tamamen  çözülmesi  ve  emilmesi.  3) Kömürün  bünyesinde  gazların  çözünmüş  halde  ve  bir  tür  molekülsel  sızma  şeklinde  bulunması  durumu.  4) Soğurma 5) Az  hareketli  nötronların  ince  bor  ve  kadmiyum  tabakaları  tarafından  yutulması.
 
 ### ABSORPLAYICI

@@ -61,7 +61,9 @@ Belli bir işin projelendirilmesi sırasında personel ihtiyacının, ihtiyaç s
  	
 ## ADAM YOLU
 Bir galeride insanların emniyetle yürümesini sağlayabilmek için bırakılan ve asgari 60 cm. genişlikte olan galeri kısmı veya yol.
-ADESE, 1) Kenar zonları ince, ortasına doğru kalınlaşan mercek şeklindeki maden yatağı 2) Mercek.
+
+## ADESE
+1) Kenar zonları ince, ortasına doğru kalınlaşan mercek şeklindeki maden yatağı 2) Mercek.
 
 ## ADİ BERİL
 —> Beril.

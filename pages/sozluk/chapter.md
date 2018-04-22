@@ -10,11 +10,11 @@ orgaratingenabled: false
 facebookenable: false
 ---
 
-Maden Terimleri Sözlüğü
+# Maden Terimleri Sözlüğü
 
-[A harfi ile başlayanlar](/sozluk/a-harfi.html)
+## [A harfi ile başlayanlar](/sozluk/a-harfi.html)
 
-[B harfi ile başlayanlar](/sozluk/b-harfi.html)
+## [B harfi ile başlayanlar](/sozluk/b-harfi.html)
 
 [C harfi ile başlayanlar](/sozluk/c-harfi.html)
 

@@ -36,8 +36,7 @@ Nüfusun yaş gruplarına bölünüp analiz edilmesi, her şeyden önce çalış
 Birleşmiş Milletler ölçütlerine ve İLO Değerlendirmelerine göre;
 * 0-14 yaşları arasındakiler çocuk veya genç nüfus
 * 15-64 yaşları arasındakiler yetişkin, çalışabilir veya faal nüfus
-** 15-25 yaşları arasındakiler genç çalışan,
-** 45-64 yaşları arasındakiler yaşlı çalışan,
+(15-25 yaşları arasındakiler genç çalışan, 45-64 yaşları arasındakiler yaşlı çalışan)
 * 65 yaş ve üzeri ise yaşlı nüfus
 
 olarak sınıfılandırılır.

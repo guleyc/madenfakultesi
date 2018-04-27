@@ -3,7 +3,10 @@ title: 'Genel Bilgiler'
 media_order: trdeisgucutemelgostergeleri.png
 twitterenable: false
 twittercardoptions: summary
-articleenabled: false
+articleenabled: true
+article:
+    datePublished: '27-04-2018 19:49'
+    dateModified: '27-04-2018 19:49'
 orgaenabled: false
 orga:
     ratingValue: 2.5

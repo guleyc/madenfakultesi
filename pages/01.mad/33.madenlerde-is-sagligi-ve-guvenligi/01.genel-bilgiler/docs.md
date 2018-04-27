@@ -12,6 +12,7 @@ facebookenable: false
 
 ## 1. İş Sağlığı ve Güvenliği
 Toplumsal ve ekonomik bir sorun olan "İş Sağlığı ve Güvenliği" konusunun ortaya çıkması 18. yüzyılın sonlarına, sanayileşmenin yayılmaya başladığı döneme rastlamaktadır. İş güvenliği ile ilgili ilk uygulamalarda esas amaç "üretim sürekliliğinin sağlanması" olmuştur. Diğer bir deyimle, "çalışma koşullarının iyileştirilmesi" yerine "kazalanan veya hastalanan işçinin kısa sürede iyileştirilip tekrar işinin başına döndürülmesi" hedeflenmiştir. "Tedavi edici" nitelikteki bu uygulamalar uzun süre devam etmiştir.
+
 ## 2. İş Güvenliğinin Amaçları
 İş Güvenliği; iş yerlerinde, işin yürütülmesi ile ilgili olarak oluşan tehlikelerden, sağlığa zarar verebilecek koşullardan korunmak ve daha iyi bir iş ortamı yaratmak amacıyla yapılan sistemli ve bilimsel çalışmalar olarak tanımlanmaktadır.
 
@@ -21,13 +22,16 @@ Toplumsal ve ekonomik bir sorun olan "İş Sağlığı ve Güvenliği" konusunun
 * İşletme güvenliğini sağlamaktır.
 
 Günümüzde, işçilerin sağlık ve güvenlikleri ile ilgili önlemler belirlenirken İş Güvenliği kavramı esas alınmakta; "Hastalık veya kazayı meydana getiren nedenlerin ortadan kaldırılması"na yönelik uygulamalara gidilmektedir.
+
 ## 3. Çalışma Koşullarının İyileştirilmesi, Görevler
 Çalışma koşullarının iyileştirilmesi açısından devlet, işveren, işçi ve sendika dörtlüsünün işbirliği içinde çalışması gerekir. Çünkü;
 * Devlet, vatandaşlarına mutlu ve sağlıklı yaşam koşullarını sağlamakla yükümlü olduğu,
 * İşverenler maddi ve manevi çıkarları,
 * İşçiler, doğrudan doğruya canları yanan kişiler olmaları,
 * Sendikalar, üyelerinin hak ve menfaatlerini koruma yükümlülüğünü taşıdıkları için konuya sahip çıkmak zorundadırlar.
+
 ## 4. Nüfus Yaş Yapısı, Çalışabilir Nüfus
+
 Her yıl konuyla ilgili (iş kazaları, meslek hastalıkları, iş göremezlik oranları, kayıp iş günü sayıları vb.) istatistikler yayınlanmaktadır. İstatistikler değerlendirilirken nüfus miktarı kadar önem taşıyan bir başka kriter de ülkenin "Nüfus Yaş Yapısı"dir. Bu terim bir nüfus kitlesinin belirlenmiş yaş gruplarına göre bileşim durumunu tanımlar.
 
 Nüfusun yaş gruplarına bölünüp analiz edilmesi, her şeyden önce çalışabilir ve çalışmayan nüfusun ortaya çıkartılmasında son derece önemlidir.

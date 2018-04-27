@@ -56,7 +56,7 @@ ILO'nun (International Labour Organisation - Uluslararası Çalışma Örgütü)
 ILO, iş kazaları sonucunda ölüm oranını ortalama 100.000'de 14 olarak tahmin etmektedir. En yüksek ölüm oranları gelişmekte olan ülkelerde gerçekleşmektedir. Avrupa ülkelerinde ise ölüm oranı 100.000 işçide 6'dır. İş kazası ve meslek hastalıklarının mali boyutu ülkelerin Gayrisafi Yurtiçi Haslılasının (GSYH) %1'i ile %4'ü arasında değişmektedir. İş kazaları ve meslek hastalıklarının dünya ekonomisine maliyeti 2009 yılı rakamlarıyla dünyanın Gayri Safi Milli Hasılası'nın yaklaşık %4'üne, yani 1.2 trilyon dolarlık bir ekonomik büyüklüğe karşı gelmektedir.
 
 ## 6. Türkiye'de İşgücü Temel Göstergeleri
-Türkiye'de 2004-2015 yılları arasında işgücü ile ilgili temel göstergeler Çizelge 1'de verilmiştir. Görüldüğü gibi, 2012 yılında İşgücü 27339000 olup, İŞgücüne Katılma Oranı %50, İstihdam Oranı %45.4'tür.
+Türkiye'de 2004-2015 yılları arasında işgücü ile ilgili temel göstergeler Çizelge 1'de verilmiştir. Görüldüğü gibi, 2012 yılında İşgücü 27339000 olup, İşgücüne Katılma Oranı %50, İstihdam Oranı %45.4'tür.
 ![Çizelge 1 - Türkiye'de 2004-2015 yılları arasında işgücü temel göstergeleri](trdeisgucutemelgostergeleri.png)
 
 ## 7. Türkiye'de İş Kazaları ve Meslek Hastalıkları

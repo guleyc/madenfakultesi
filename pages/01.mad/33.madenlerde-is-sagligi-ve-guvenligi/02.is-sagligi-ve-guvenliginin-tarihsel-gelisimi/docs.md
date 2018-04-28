@@ -1,5 +1,6 @@
 ---
 title: 'İş Sağlığı ve Güvenliğinin Tarihsel Gelişimi'
+media_order: de-re-metallica.jpg
 twitterenable: false
 twittercardoptions: summary
 articleenabled: false
@@ -18,6 +19,12 @@ Pliny (MS 23-79), çalışanların ortamdaki tehlikeli tozlara karşı korunmas�
 Paracelsus (1493-1541) iş hekimliği alanındaki ilk monografi sayılan "De Morbis Metallicis (Maden Hastalıkları)"'i yazmıştır. Bu kitapta madenciler ve dökümcülerde görülen hastalıkların klinik bulguları hastalık adı verilmeden anlatılmıştır. Bu bulgular pnömokonyozları tanımlamaktadır. Paracelsus'a göre, "Tüm maddeler birer zehirdir. Aralarında zehir olmayanı yoktur, zehir ve devayı birbirinden ayıran ise doz"dur.
 
 Mineraloji biliminin babası olarak kabul edilen Georgius Agricola (1494-1555) tıp eğitimi görmüş olmasına rağmen madencilik, metalürji, jeoloji, mineraloji konularında da kapsamlı çalışmalar yapmıştır. Elde ettiği bulgular 1556 yılında, 12 ciltlik "De re Metallica" adlı kitabında yayınlanmıştır. Kitapta yer alan, madencilik çalışmaları ile ilgili temsili resim Şekil 1'de verilmiştir. Madenlerde ve metalürji işyerlerinde çalışanlarda görülen hastalıkları tanımlamış ve alınması gerekli önlemleri belirtmiştir. Tozu önlemek için maden ocaklarının havalandırılması gerektiğini belirtmiş, iş kazaları ve iş güvenliği yöntemleri konusunda önerilerde bulunmuştur.
+![](de-re-metallica.jpg)
 
+İtalyan hekim Bernandio Ramazazini (1633-1714), 1713 yılında yayınladığı "De Morbis Artificium Diatriba (Çalışanların Hastalıkları) adlı kitabında, iş kazalarının önlenmesi için alınması gereken koruyucu tedbirleri belirtmiş ve çeşitli iş kollarında görülen meslek hastalıklarını tanıtmıştır. Çalışma ortamından kaynaklanan olumsuz koşulların düzeltilmesi ile iş veriminin artacağını ileri sürmüştür. Ergonominin temel ilkelerini açıklamıştır.
+
+"Hastalara mesleklerini sorunuz" diyen Ramazzini'yi eşsiz kılan tıp bilimine kazandırdığı şu evrensel kuraldır: "Meslek hastalıkları iş yeri ortamında incelenir; hastane koğuşlarında değil..."
+
+İngiliz hekim Percival Pott (1714-1788), 1775 yılında baca temizleyicileri arasında, 
 
 ## 2. Türkiye'deki Tarihsel Gelişmeler

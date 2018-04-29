@@ -237,11 +237,11 @@ Gürültü ölçerlerin en temel parçaları, mikrofon, yükseltici, ağırlık 
 * **Performans Etkileri:** İş verimini azaltması ve seslerin anlaşılabilirliğini bozması gibi etkileridir. Gürültünün iş verimliliğini ve üretkenliğini olumsuz yönde etkilediği araştırmalarla saptanmıştır. İşyerlerindeki gürültü düzeyi ile verimlilik arasında anlamlı bir ilişki vardır.
 
 ##### Dereceleri
-* **1. Derece (30-65 db):** Konforsuzluk, rahatsızlık, öfke, kızgınlık, uyku düzensizliği ve konsantrasyon bozukluğu.
-* **2. Derece (65-90 db):** Fizyolojik reaksiyonlar, kan basıncı artışı, kalp atışlarında ve solunumda hızlanma, beyin sıvısındaki basıncın azalması, ani refleksler.
-* **3. Derece (90-120 db):** Fizyolojik reaksiyonların artması, baş ağrıları
-* **4. Derece (120 db):** İç kulakta devamlı hasar, dengenin bozulması
-* **5. Derece (140 db):** Ciddi beyin tahribatı
+* **1. Derece (30-65 dB):** Konforsuzluk, rahatsızlık, öfke, kızgınlık, uyku düzensizliği ve konsantrasyon bozukluğu.
+* **2. Derece (65-90 dB):** Fizyolojik reaksiyonlar, kan basıncı artışı, kalp atışlarında ve solunumda hızlanma, beyin sıvısındaki basıncın azalması, ani refleksler.
+* **3. Derece (90-120 dB):** Fizyolojik reaksiyonların artması, baş ağrıları
+* **4. Derece (120 dB):** İç kulakta devamlı hasar, dengenin bozulması
+* **5. Derece (140 dB):** Ciddi beyin tahribatı
 
 #### 2.2.2.4. Gürültü ile İlgili Yasal Düzenlemeler
 

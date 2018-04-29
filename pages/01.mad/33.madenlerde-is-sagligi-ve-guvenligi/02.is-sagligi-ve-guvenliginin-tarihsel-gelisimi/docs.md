@@ -77,3 +77,30 @@ Cumhuriyet döneminin Anayasa'sı, 20 Nisan 1924'de TBMM'de büyük bir çoğunl
 Bu dönemdeki diğer önemli bir yasal düzenleme de 1947 yılında çıkartılmış olan 5018 sayılı "Sendikalar Kanunu"dur. Kanunun temel felsefesi, sendikaların devletle ve işverenle işbirliği yaparak ülkenin kalkınmasına hizmet edecek kuruluşlar olarak görülmesidir. 1952 yılında sendikal birlik konusnda önemli bir gelişme olmuş ve Türkiye İşçi Sendikaları Konfederasyonu (Türk-İş) kurulmuştur. Böylece ilk kez Türkiye'nin değişik bölgelerinde, farklı iş kollarında çalışan işçiler aynı çatı altında toplanmıştır. 03.03.1954 tarihinde 6309 sayılı "Maden Kanunu" kabul edilmiştir.
 
 Türkiye'de 27 Mayıs 1960 askeri darbesinden sonra yeni bir siyasal dönem başlamıştır. Bu dönemde Kurucu Meclis tarafından hazırlanan Anayasa metni 09.07.1961 günü halkoyuna sunulmuş, kabul edilmesi üzerinde, 20.07.1961 tarihli Resmi Gazete'de yayınlanarak yürülüğe girmiştir. Sosyal haklarla ilgili kurallara geniş ölçüde yer veren Anayasanın 47. Maddesi "İşçiler işverenle olan münasebetlerinde, iktisadi ve sosyal durumlarını korumak veya düzeltmek amacı ile toplu sözleşme ve grev haklarına sahiptirler" hükmünü getirmiştir. İki yıl geçtikten sonra Anayasadaki hükümlere uyan kanun koyucu, 24.07.1963 tarihli 274 sayılı "Sendikalar Kanunu"nu çıkarmış ve aynı tarih 275 sayılı yasa ile de sendikaların toplu pazarlık ve grev-lokavt hakları düzenlenmiştir.
+
+Sosyal sigorta uygulamasındaki dağınıklığı ortadan kaldırmak amacıyla, 17.07.1964 tarihinde 506 sayılı "Sosyal Sigortalar Kanunu" kabul edilmiştir. Türkiye Devrimci İşçi Sendikaları (DİSK)' 13.02.1967 tarihinde kurulmuştur. Diğer önemli bir gelişme, Türk Hükümeti ile ILO arasında yapılan anlaşma gereğince 1968 yılında "İşçi Sağlığı ve İş Güvenliği Merkezi (İSGÛM)" ün kurulmasıdır. 3008 sayılı İş Kanunu'nun çalışma hayatındaki gelişmelere cevap verememesi üzerine yeni bir kanun hazırlanmış ve 931 sayılı yeni iş Kanunu 1967 yılında yürürlüğe sokulmuştur. Bu kanun Anayasa Mahkemesi tarafından şekil yönünden iptal edildikten sonra, ortaya çıkan hukuki boşluğu doldurmak üzere 1971 yılında ufak bazı değişikliklerle 1475 sayılı "İş Kanunu" yürürlüğe girmiştir.
+
+1974 yılında "Sosyal Güvenlik Bakanlığı" kurulmuş, Sosyal Sigortalar Kurumu ile Bağ-Kur bu Bakanlığa bağlanmıştır. Hak İşçi Sendikaları Konfederasyonu (HAK-İŞ), 22 Ekim 1976 tarihinde Ankara'da kurulmuştur. 12 Eylül 1980'deki ikinci askeri darbeden sonra yönetime el koyan askeri güç yeni bir Anayasa hazırlanması için Kurucu Meclis oluşturmuştur. Kurucu Meclis’in hazırladığı Anayasa 7 Kasım 1982'de yapılan halkoylaması ile kabul edilerek yürürlüğe girmiştir. 1982 Anayasası’nın "Sosyal ve Ekonomik Haklar ve ödevler" başlığını taşıyan 3. Bölümü’nde yer alan 49, 50, 51, 52, 53, 54 ve 55. maddeler Çalışma Hayatı, 60. madde ise Sosyal Güvenlik ile ilgilidir. 
+
+1983 tarihinde "Çalışma ve Sosyal Güvenlik Bakanlığı'nın Teşkilatı ve Görevleri Hakkında Kanun Hükmünde Kararname" ile Çalışma Bakanlığı ve Sosyal Güvenlik Bakanlığı birleştirilerek "Çalışma ve Sosyal Güvenlik Bakanlığı" adıyla yeniden teşkilatlandınlmıştır.
+04.06.1985 tarihinde "3213 sayılı Maden Kanunu" kabul edilmiştir. Kanunun 31. Maddesi gereğince, işletme ruhsat sahibi işletme süresince en az bir maden mühendisini Fenni Nezaretçi olarak görevlendirmekle zorunlu tutulmuştur. AB uyum sürecinde 2001 yılından itibaren Anayasa başta olmak üzere birçok yasada düzenlemeler yapılmıştır. En önemli değişiklik, Avrupa Birliği ve Uluslararası Çalışma örgütü (ILO) normlarına uyum sağlama zorunluluğu nedeniyle hazırlanan 4857 sayılı İş Kanunu'dur. Yaklaşık 32 yıl süreyle uygulamada kalan 1475 sayılı İş Kanunu yerine 10.06.2003 tarihinde yürürlüğe giren 4857 sayılı İş Kanunu'nun Beşinci Bölümü (77-89 Maddeler) doğrudan "İş Sağlığı ve Güvenliği" ile ilgili hükümleri kapsamaktadır.
+
+4857 sayılı iş Kanunu'nun yürürlüğe girmesinden sonra, 2003 - 2004 yıllarında çalışma hayatı ile ilgili 48 yönetmelik çıkarılmıştır. Bunlardan madencilik sektörü ile doğrudan ilişkili olanlar arasında;
+
+* Çalışanların iş Sağlığı ve Güvenliği Eğitimleri ile ilgili Usul ve Esaslar Hakkında Yönetmelik
+* İş Sağlığı ve Güvenliği Yönetmeliği
+* Güvenlik ve Sağlık işaretleri Yönetmeliği
+* Gürültü Yönetmeliği
+* Titreşim Yönetmeliği
+* Patlayıcı Ortamların Tehlikelerinden Çalışanların Korunması Hakkında Yönetmelik
+* Asbestle Çalışmalarda Sağlık ve Güvenlik önlemleri Hakkında Yönetmelik
+* İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Hakkında Yönetmelik 
+* Kişisel Koruyucu Donanımların iş Yerlerinde Kullanılması Hakkında Yönetmelik
+* Yer altı ve Yerüstü Maden İşletmelerinde Sağlık ve Güvenlik Şartları Hakkında Yönetmelik
+* Sondajla Maden Çıkarılan İşletmelerde Sağlık ve Güvenlik Şartları Hakkında Yönetmelik
+* İş Güvenliği ile İlgili Mühendis veya Teknik Elemanların Görevleri ile Çalışma Usul ve Esasları Hakkında Yönetmelik
+* Ağır ve Tehlikeli İşler Yönetmeliği sayılabilir.
+
+Çalışma hayatıyla ilgili iki önemli kanun;
+* 5510 sayılı “Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu" 31.05.2006 günü kabul edilmiş ve 16.06.2006 günü yürürlüğe girmiştir.
+* 6331 sayılı "İş Sağlığı ve Güvenliği Kanunu” 20.06.2012 günü kabul edilmiş ve 30.06.2012 günü yürürlüğe girmiştir.

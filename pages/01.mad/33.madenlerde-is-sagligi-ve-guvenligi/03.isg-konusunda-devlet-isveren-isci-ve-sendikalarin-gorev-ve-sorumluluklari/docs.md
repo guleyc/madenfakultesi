@@ -152,7 +152,7 @@ Denetleme: Bir görevin yolunda yürütülüp yürûtülmediğini anlamak için 
 Her alanda olduğu gibi, iş güvenliğinin de temeli denetimdir. Çalışanların olumlu özelliklerini geliştirmek, hata olasılığını azaltmak, eksiklikleri zamanında belirleyerek risk oluşturmadan önlemleri almak vb. ancak iyi bir denetim mekanizmasının kurulmasıyla sağlanabilir.
 Devletin tüm iş yerlerini bir müfettiş görevlendirerek denetlemesi mümkün değildir. Dolayısıyla devamlı olarak işin başında bulunan işveren denetim görevini de üstlenmek durumundadır.
 
-## 4.4.	İşçileri Alınacak Güvenlik önlemlerine Uymaya Zorlama
+## 4.4.	İşçileri Alınacak Güvenlik Önlemlerine Uymaya Zorlama
 İş güvenliğinin sağlanması için konuyla ilgili önlemlerin alınması yeterli değildir. İşçilerin de alınan önlemlere aynen uymaları gerekir. İşverenin, önlemlere uyma konusunda savsaklama gösteren işçileri uymaya zorlama görev ve yetkisi bulunduğu kabul edilmelidir.
 4857 sayılı İş Kanunu’nun 25 Maddesi II/i bendi gereğince “İşçinin kendi isteği veya savsaması yüzünden işin güvenliğini tehlikeye düşürmesi, işyerinin malı olan veya malı olmayıp da eli altında bulunan makineleri, tesisatı veya başka eşya ve maddeleri otuz günlük ücretinin tutarıyla ödeyemeyecek derecede hasara ve kayba uğratması” durumunda işverenin haklı nedenle İş sözleşmesini derhal fesih hakkı doğmaktadır. 
 

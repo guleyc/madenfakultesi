@@ -16,6 +16,7 @@ facebookenable: false
 * Üretimin devamlılığını sağlamak,
 * İşletmenin devamlılığını sağlamak,
 * Verimi artırmaktır. 
+
 # 2. İSG Konusunda Taraflar
 **DEVLET:** Ülke adı verilen belirli bir toprak üzerinde yaşayan insan topluluklarının bir egemenlik anlayışı ve hukuku içinde bir siyasi iktidar altında örgütlenmesidir.
 

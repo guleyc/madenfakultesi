@@ -105,3 +105,45 @@ Total number ol nonfatal injury cases and those caused by chemical burns and poi
 | 2002 | 388 | 2006 | 279  |
 | 	   |  |  Total:|	2,705 |
 
+2705 kazanın % 39'u asit ve alkali,
+% 28'i ocak tozları,
+% 13’ü kimyasallar,
+% 8’i kömür ve petrol ürünleri kaynaklıdır.
+% 57’si kimyasal yanıklar, % 24’u pnömokonyoz,
+% 8'i zehirlenme,
+% 3’ü deri yanıkları,
+% 2’si silikoz
+
+### 2.1.7. Kimyasal Faktörlerin Etkilerinden Korunma
+Çalışanların, yaptıkları işten kaynaklanan kimyasal faktörlerin olumsuz etkilerinden korunabilmesi için öncelikle bazı verilerin saptanması gerekir. Bunlar şu şekilde gruplandırılabilir.
+* Çalışanların işyeri ortamında ilişkide bulundukları kimyasal bileşikler nelerdir?
+* Bu bileşikler hangi kaynaklardan ortama yayılmaktadır ve ortam havasındaki miktarları nedir?
+* Çalışanlar ne kadar süre ile bu ortamda bulunmaktadırlar?
+* İyileştirme ve Koruma önlemleri nelerdir? 
+
+#### a. Kimyasal Maddelerin Saptanması
+Her şeyden önce işyerinde, hangi maddelerle çalışılmakta olduğu belirlenir ve bunların kimyasal bileşimleri saptanır. Ayrıca işlem sırasında oluşan yeni kimyasal bileşiklerin ortama yayılıp yayılmadığı incelenir, 
+#### b. Yayılma Noktasının ve Ortamdaki Yoğunluğun Saptanması 
+İşyerinde sağlık sorunu yaratacak maddeler belirlendikten sonra bunların hangi işlemler sırasında ve işyerinin hangi bölgelerinde ortaya çıktığının saptanması gerekir. Bu izleme işlemi, kolay sonuç veren, taşınabilir ölçme aletleri ile gerçekleştirilir.
+Bunun yanı sıra incelemenin yapıldığı ortamda çalışan kişilerden alınan kan, idrar vb. biyolojik materyal de incelenerek, çalışanların söz konusu maddeden etkilenme dereceleri belirlenir. 
+#### c.Etkilenme (Maruziyet Süresi)
+Kimyasal ve Fiziksel faktörler ancak belli işlemler sonucu ortaya çıkarlar. Bu nedenle çalışanların etkilenme süreleri 8 saatten daha azdır. Ancak hesaplamalar genellikle en uzun süre (8 saat) üzerinden yapılır. 
+
+### 2.1.8. İyileştirme ve Korunma Önlemleri
+#### a. Kaynakta Alınacak önlemler
+Bu gruba giren önlemler arasında; sorun yaratan faktörün yayılmadan çalışanlara zarar vermeyecek hale getirilmesi ya da ortama yayılmasının engellenmesi yer alır.
+Başlıcaları:
+* Zararsız veya daha az zararlı maddelerin kullanılması,
+* İşlemin değiştirilmesi,
+* Islak yöntemler kullanılması,
+* Uygun havalandırma sistemi kullanılmasıdır.
+#### b. Çalışma Ortamında Alınacak önlemler 
+* İşyerinde düzen ve temizlik,
+* Genel Havalandırma,
+* Seyreltme havalandırması,
+* Dedektörler ile sürekli kontrol.
+#### c. Çalışan Üzerinde Alınacak Önlemler / Eğitim,
+* Rotasyon ve ekip değişimi,
+* Kişisel dozimetreler (dozölçer),
+* Kişisel koruyucular,
+* İşe giriş muayeneleri ve periyodik (süreli) tıbbi kontroller. 

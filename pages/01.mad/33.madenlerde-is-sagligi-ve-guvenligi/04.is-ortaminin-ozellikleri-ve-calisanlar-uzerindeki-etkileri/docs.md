@@ -1,6 +1,6 @@
 ---
 title: 'İş Ortamının Özellikleri ve Çalışanlar Üzerindeki Etkileri'
-media_order: 'sekil4.jpg,sekil5.jpg,sekil6.jpg,sekil7.jpg'
+media_order: 'sekil4.jpg,sekil5.jpg,sekil6.jpg,sekil7.jpg,yasaalduzenlemeler.jpg'
 twitterenable: false
 twittercardoptions: summary
 articleenabled: false
@@ -250,3 +250,44 @@ Sağlıklı ve genç bir insan kulağı 20 Hz ile 20 kHz arasındaki frekanslara
 Gürültü ölçerlerin en temel parçaları, mikrofon, yükseltici, ağırlık şebekeleri ve gösterge’dir. Mikrofon gelen akustik sinyalleri	elektrik	sinyallerine dönüştürmektedir. Mikrofondan gelen elektrik sinyalleri ön yükseltici tarafından uygun bir seviyeye yükseltilir. Yükseltilmiş bu sinyaller daha sonra ağırlık şebekeleri tarafından modifiye edilerek A, B ve C ağırlıklı ses düzeyleri göstergeden dB biriminde elde edilir. Bir ses düzeyi ölçerde gösterge ayarları gürültü türüne ve istenen ölçme zamanına bağlı olarak hızlı tepkili (FAST), yavaş tepkili (SLOW) ve ani tepkili (IMPACT) şeklinde olabilir. İş yeri gürültü seviyesi ölçümleri için genellikle yavaş tepkili ölçüm daha uygundur. 
 
 #### 2.2.2.3. Gürültünün Çalışanlar Üzerindeki Etkileri
+
+**Fiziksel Etkiler:** İşitme duyusunda meydana getirdiği olumsuz etkilerdir. Bu etkiler geçici veya kalıcı işitme kayıplarıdır.
+**Fizyolojik Etkiler:** Kan basıncının artması, kas gerilmeleri, stres, kalp atışlarının değişmesi, gözbebeği büyümesi, uykusuzluk, solunumda hızlanma, vücut aktivitesinde değişiklikler, dolaşım bozuklukları, ani refleksler.
+**Psikolojik Etkiler:** Davranış bozuklukları, sinir sisteminde bozukluklar, korku, rahatsızlık, yorgunluk, zihinsel işlevlerde yavaşlama.
+**Performans Etkileri:** İş verimini azaltması ve seslerin anlaşılabilirliğini bozması gibi etkileridir. Gürültünün iş verimliliğini ve üretkenliğini olumsuz yönde etkilediği araştırmalarla saptanmıştır. İşyerlerindeki gürültü düzeyi ile verimlilik arasında anlamlı bir ilişki vardır.
+
+**1. Derece (30-65 db):** Konforsuzluk, rahatsızlık, öfke, kızgınlık, uyku düzensizliği ve konsantrasyon bozukluğu.
+**2. Derece (65-90 db):** Fizyolojik reaksiyonlar, kan basıncı artışı, kalp atışlarında ve solunumda hızlanma, beyin sıvısındaki basıncın azalması, ani refleksler.
+**3. Derece (90-120 db):** Fizyolojik reaksiyonların artması, baş ağrıları
+**4. Derece (120 db):** İç kulakta devamlı hasar, dengenin bozulması
+**5. Derece (140 db):** Ciddi beyin tahribatı
+
+#### 2.2.2.4. Gürültü ile İlgili Yasal Düzenlemeler
+
+![](yasaalduzenlemeler.jpg)
+
+#### 2.2.2.5. Gürültünün Çalışanlar Üzerindeki Olumsuz Etkilerine Karşı Alınacak Önlemler
+
+**Gürültü Kontrol Yöntemleri**
+- Gürültüyü Kaynağında Azaltmak
+- Gürültüyü Yayılma Alanında Azaltmak
+- Gürültüyü Alıcıda Azaltmak
+
+### 2.2.3. Aydınlatma
+
+İnsanlar her türlü faaliyetlerinde ışığa bağımlıdır. Doğal ışığın (Güneş, ay, yıldızların ışığı) yeterli olmadığı durumlarda yapay ışıkla aydınlatma zorunludur. Yapay ışığın üretilmesi, dağıtımı, ekonomisi ve ölçülmesi aydınlatma tekniğinin (aydınlatmacılığın) temel konularıdır. Bu bağlamda ışığın insan üzerindeki etkileri de incelenir.
+İyi bir aydınlatma projesinin tasarımında,
+* Çalışanların göz sağlığının korunması,
+* iş kalitesinin yükselmesi,
+* Optimum verimlilik,
+* Çalışanların kendilerini görsel ve psikolojik açıdan rahat hissetmeleri esas alınır.
+#### 2.2.3.1. Aydınlatma İle İlgili Temel Büyüklükler (Fotometrik Büyüklükler)
+Işık ve aydınlatma ile ilgili ölçme, hesap ve değerlendirmeleri yapabilmek için kabul edilen temel büyüklüklerden başlıcaları aşağıda kısaca tanıtılmıştır.
+* Işık Akışı ( O ): Bir ışık kaynağından birim zamanda çıkan ışık
+taneciklerinin sayısına ışık akışı denir. O sembolü ile gösterilir. SI birim sisteminde birimi	lümen (İm) dir.)
+* Işık Şiddeti ( I ): Bir ışık kaynağının birim zamanda yaydığı ışık enerjisine ışık şiddeti denir. ışık şiddeti bir kaynağın parlaklığının ölçüsüdür. I sembolü ile gösterilir, SI birim sisteminde birimi candela (cd) dir.
+*  Aydınlatma Şiddeti ( E ): Birim yüzeye düşen ışık akışı miktarına, aydınlanma şiddeti denir. E sembolüyle gösterilir. SI birim sisteminde birimi lüx (lx) dür.
+* Aydınlık Yoğunluğu ( L): Birim alandaki ışık şiddeti miktarına aydınlık yoğunluğu denir. Birimi. cd/m2
+* Işık Miktarı ( Q ): Bir ışık kaynağının belli bir zaman süresi içinde verdiği ışık akışıdır. Birimi, lümen . sn veya lümen . saat. 
+
+Fotometrik büyüklükler arasında en önemlisi Aydınlatma Şiddetedir. Endüstride, aydınlatma ile ilgili araştırma ve değerlendirme çalışmalarında bu değer esas alınmaktadır. Aydınlama ölçerlerin ölçme aralığı genelde 0 - 100.000 lx değerleri arasındadır.

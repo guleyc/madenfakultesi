@@ -121,7 +121,7 @@ Tahkimat, kazı çalışmaları sonucu açılan boşluğun duraylılığını sa
 * Eğimli damarlarda bağlar, orta direkler ve domuzdamları tabakaların olası kayma vb. hareketlerini önleyecek şekilde yapılmalıdır.
 * Taşıyıcı özelliğini kaybeden veya eskiyen tahkimat üniteleri yenilenmelidir. 
 
-## 4. Nakliyat
+### 3.3. Nakliyat
 Yer altı madenciliğinde kazılan cevher ve/veya kayaç yatay ve düşey yönde kurulan nakliyat sistemleri vasıtasıyla yeryüzüne ulaştırılır. Ayrıca karşıt yönde, üretim faaliyetleri sırasında kullanılacak malzemenin taşınması söz konusudur. Cevher ve malzeme naklinin yanı sıra çalışanlar da yerüstünden yeraltına ve yeraltından yerüstüne taşınırlar.
 Nakliyat çalışmaları sırasında; 
 * Araçlarının çarpışması, devrilmesi, 
@@ -141,7 +141,7 @@ Nakliyat çalışmaları sırasında;
 * Taşıma yolları temiz tutulmalı, yol üzerinde gidiş gelişi zorlaştıracak engeller (kömür, cevher parçaları, tahkimat malzemesi vb.) bulunmamalıdır.
 * Mekanik manevra ve özel taşıma dışında demiryollarında eğim %0.5'i geçmemelidir. 
 
-## 5. Havalandırma
+### 3.4. Havalandırma
 Havalandırma; çalışanlara temiz hava sağlamak, açığa çıkan ve/veya oluşan gaz veya tozları seyreltmek, ocak dışına taşımak ve ocak iklimini düzenlemek amacıyla yapılan çalışmalardır. Havalandırma ile ilgili hususların ocağın planlanması aşamasında göz önünde bulundurulması gerekir.
 
 **Yetersiz havalandırma nedeniyle ortaya çıkabilecek boğulma, zehirlenme, gaz ve toz patlaması olaylarını önlemek için;** 
@@ -160,7 +160,7 @@ Havalandırma; çalışanlara temiz hava sağlamak, açığa çıkan ve/veya olu
 ![](sekil28.png)
 ![](sekil29.png)
 
-## 6. Su Atımı
+### 3.5. Su Atımı
 Madencilik çalışmaları genellikle su içeren tabakalar içinde veya bu tabakaların altında yürütülür, özellikle deniz, göl vb. büyük su çanaklarının altında sürdürülen hazırlık ve üretim çalışmaları sırasında sorun çok daha büyük önem taşımaktadır.
 **İş Sağlığı ve Güvenliği açısından karşılaşılan sorunlar:** 
 * Su baskınları,
@@ -173,7 +173,7 @@ Madencilik çalışmaları genellikle su içeren tabakalar içinde veya bu tabak
 * Su havuzlarının hacmi ve pompa tesisinin kapasitesi su gelirindeki aşırı yükselmeler ve ortaya çıkabilecek arızalar dikkate alınarak belirlenmeli,
 * Asidik su geliri ve suyun bileşimi incelenmeli, bu tür sular çalışanlar ve çevre açısından bir sorun yaratmayacak şekilde depolanmalı ve ocaktan uzaklaştırılmalıdır.
 
-## 7. Enerji Kullanımı
+## 4. Enerji Kullanımı
 Madencilikte kullanılan başlıca enerji türleri: Basınçlı Hava, Kimyasal ve Elektrik Enerjisi’dir. Enerji kullanımı sırasında; patlamalar, ocak yangınları, kısa devre ve elektrik arkları, elektrik çarpması vb. olaylar meydana gelmektedir.
 
 **Enerji kullanımı sırasında alınacak iş güvenliği önlemleri;**
@@ -185,7 +185,7 @@ Madencilikte kullanılan başlıca enerji türleri: Basınçlı Hava, Kimyasal v
 * Elektrik kaçağı yapabilecek elektrikli aygıtlar ve madeni kısımlar, topraklamayla güvenlik altına alınmalıdır.
 * Ocak dışında bütün ocağın elektrik akımını kesmeye yarayan bir ana devre kesici bulunmalıdır. 
 
-## 8. Malzeme Kullanımı
+## 5. Malzeme Kullanımı
 Maden ocaklarında ağaçtan demire, patlayıcı maddelerden mazota kadar çok çeşitli malzemeler kullanılmaktadır. Sağlıklı ve güvenli bir çalışma ortamı oluşturabilmek için bu malzemelerin seçimi ve kullanılması sırasında yeterli özenin gösterilmesi gerekir.
 * Malzemeler kullanım alanları dikkate alınarak seçilmeli, kontrol sonucu gerekli özellikleri taşımadığı ve hatalı olduğu anlaşılanlar ocağa sokulmamalıdır.
 * Yangına karşı kullanılmak üzere bulundurulan malzemeler, ayda en az bir kez, sorumlu nezaretçiler tarafından denetlenmelidir. 

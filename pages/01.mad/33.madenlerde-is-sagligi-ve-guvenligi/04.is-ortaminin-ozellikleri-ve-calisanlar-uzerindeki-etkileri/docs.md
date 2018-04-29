@@ -127,7 +127,7 @@ Her şeyden önce işyerinde, hangi maddelerle çalışılmakta olduğu belirlen
 #### b. Yayılma Noktasının ve Ortamdaki Yoğunluğun Saptanması 
 İşyerinde sağlık sorunu yaratacak maddeler belirlendikten sonra bunların hangi işlemler sırasında ve işyerinin hangi bölgelerinde ortaya çıktığının saptanması gerekir. Bu izleme işlemi, kolay sonuç veren, taşınabilir ölçme aletleri ile gerçekleştirilir.
 Bunun yanı sıra incelemenin yapıldığı ortamda çalışan kişilerden alınan kan, idrar vb. biyolojik materyal de incelenerek, çalışanların söz konusu maddeden etkilenme dereceleri belirlenir. 
-#### c.Etkilenme (Maruziyet Süresi)
+#### c. Etkilenme (Maruziyet Süresi)
 Kimyasal ve Fiziksel faktörler ancak belli işlemler sonucu ortaya çıkarlar. Bu nedenle çalışanların etkilenme süreleri 8 saatten daha azdır. Ancak hesaplamalar genellikle en uzun süre (8 saat) üzerinden yapılır. 
 
 ### 2.1.8. İyileştirme ve Korunma Önlemleri
@@ -274,20 +274,110 @@ Gürültü ölçerlerin en temel parçaları, mikrofon, yükseltici, ağırlık 
 - Gürültüyü Alıcıda Azaltmak
 
 ### 2.2.3. Aydınlatma
-
 İnsanlar her türlü faaliyetlerinde ışığa bağımlıdır. Doğal ışığın (Güneş, ay, yıldızların ışığı) yeterli olmadığı durumlarda yapay ışıkla aydınlatma zorunludur. Yapay ışığın üretilmesi, dağıtımı, ekonomisi ve ölçülmesi aydınlatma tekniğinin (aydınlatmacılığın) temel konularıdır. Bu bağlamda ışığın insan üzerindeki etkileri de incelenir.
+
 İyi bir aydınlatma projesinin tasarımında,
 * Çalışanların göz sağlığının korunması,
-* iş kalitesinin yükselmesi,
+* İş kalitesinin yükselmesi,
 * Optimum verimlilik,
 * Çalışanların kendilerini görsel ve psikolojik açıdan rahat hissetmeleri esas alınır.
+
 #### 2.2.3.1. Aydınlatma İle İlgili Temel Büyüklükler (Fotometrik Büyüklükler)
 Işık ve aydınlatma ile ilgili ölçme, hesap ve değerlendirmeleri yapabilmek için kabul edilen temel büyüklüklerden başlıcaları aşağıda kısaca tanıtılmıştır.
 * Işık Akışı ( O ): Bir ışık kaynağından birim zamanda çıkan ışık
 taneciklerinin sayısına ışık akışı denir. O sembolü ile gösterilir. SI birim sisteminde birimi	lümen (İm) dir.)
 * Işık Şiddeti ( I ): Bir ışık kaynağının birim zamanda yaydığı ışık enerjisine ışık şiddeti denir. ışık şiddeti bir kaynağın parlaklığının ölçüsüdür. I sembolü ile gösterilir, SI birim sisteminde birimi candela (cd) dir.
-*  Aydınlatma Şiddeti ( E ): Birim yüzeye düşen ışık akışı miktarına, aydınlanma şiddeti denir. E sembolüyle gösterilir. SI birim sisteminde birimi lüx (lx) dür.
+* Aydınlatma Şiddeti ( E ): Birim yüzeye düşen ışık akışı miktarına, aydınlanma şiddeti denir. E sembolüyle gösterilir. SI birim sisteminde birimi lüx (lx) dür.
 * Aydınlık Yoğunluğu ( L): Birim alandaki ışık şiddeti miktarına aydınlık yoğunluğu denir. Birimi. cd/m2
 * Işık Miktarı ( Q ): Bir ışık kaynağının belli bir zaman süresi içinde verdiği ışık akışıdır. Birimi, lümen . sn veya lümen . saat. 
 
+#### 2.2.3.2. Aydınlatmanın Ölçülmesi
 Fotometrik büyüklükler arasında en önemlisi Aydınlatma Şiddetedir. Endüstride, aydınlatma ile ilgili araştırma ve değerlendirme çalışmalarında bu değer esas alınmaktadır. Aydınlama ölçerlerin ölçme aralığı genelde 0 - 100.000 lx değerleri arasındadır.
+
+#### 2.2.3.3. Aydınlatmanın Çalışanlar Üzerindeki Etkileri
+
+Araştırmalar, çalışma ortamındaki aydınlatma şartlarının, çalışanlarda metabolizma, kan dolaşımı ve iç algı bezlerinin faaliyetini etkilediğini göstermiştir. Bazı ışık kaynaklarından yayılan kısa dalgalı (morötesi) ışınlar deriye zarar vermektedir. Bu tür ışınlara karşı özellikle gözler çok hassastır. 315 nm (nanometre) nin altındaki kısa dalga boylu morötesi ışınların direkt olarak göze gelmesi önlenmelidir.
+Işık sadece görme olayında rol oynamayıp, insanların kendilerini daha iyi hissetmelerini ve aktif olmalarını sağlamaktadır. İşyerlerinde aydınlatma ile ilgili düzenlemelerden sonra iş veriminin ve iş kalitesinin arttığı, hatalı ürün oranının azaldığı belirlenmiştir.
+
+#### 2.2.3.4. Aydınlatma ile İlgili Olarak Alınabilecek Önlemler
+Kullanılan aydınlatma kaynağının türüne göre üç farklı aydınlatma söz konusudur.
+* Gün ışığı İle aydınlatma, 
+* Yapay ışık ile aydınlatma,
+* Gün ışığının yapay ışık ile desteklenmesi.
+
+Endüstride gün ışığı kullanılırken temel yaklaşım, bu ışığın tüm çalışma alanlarına eşit bir şekilde dağılımını sağlamaktır. Bunu sağlamanın en doğru ve kolay yolu iş yerinin çatıdan aydınlatılmasıdır. Çalışanların dış dünya ile ilişkilerini devam ettirebilmeleri ve gözlerini dinlendirebilmeleri için pencerelerden gelen ışığın da olumlu etkisi bulunmaktadır.
+
+Görme verimini arttırmak ve aydınlatma açısından konforlu bir ortam oluşturabilmek açısından aşağıdaki faktörler büyük önem taşır.
+* Aydınlatma şiddeti,
+* Aydınlanma yoğunluğunun mekansal düzgünlüğü,
+* Işığın zamansal düzgünlüğü,
+* Aydınlatma kaynaklarının gözde kamaşma yaratmayacak şekilde yerleştirilmesi.
+
+Bu dört fizyolojik gereksinim gün ışığıyla yapılan aydınlatma için de geçerlidir. 
+
+Bir iş ortamında aydınlatma gereksinimi, yapılan işlerin özelliklerine, işin özellikleri nedeniyle detay algılama gibi kriterlere bağlıdır. Çeşitli el işleri ve okuma yazma gibi işlerde en düşük aydınlatma gereksinimi 10 lüks olarak bilinmektedir.
+
+**Montaj ve Kalite Kontrol**
+Kaba işler	200 lx
+Vasat incelikte işler	400
+İnce işler	900
+Çok ince işler	2000
+**Ağaç işleri**
+Kaba doğrama	200 lx
+Rende ve tezgahta ince makine işleri	400
+İnce tezgah işleri, makine ve cilalama işi.	600
+
+### 2.2.4. Titreşimler
+Bir sistemin denge konumu civarında yapmış olduğu salınım hareketine titreşim denir. Bu salınımlar bir sarkacın hareketi gibi periyodik veya çakıllı bir yolda dönen tekerleğin hareketi gibi rastgele olabilir.
+Titreşim genelde istenmeyen bir harekettir, çünkü boşa enerji harcar, istenmeyen ses ve gürültü oluşturur.
+**Serbest Titreşim:** Bir başlangıç hareketi verilen ve daha sonra serbestçe salınmaya bırakılan sistemlerde meydana gelen titreşim türüdür.
+**Zorlamalı Titreşim:** Değişen bir kuvvet veya hareket bir mekanik sisteme uygulandığında oluşan titreşim türüdür. 
+
+#### 2.2.4.1. Titreşim Kaynakları
+Titreşim kaynağı olarak;
+* Titreşimli makine ve araçlar (taşıma, kaldırma, ulaştırma, yapı, tarım makine ve araçları), 
+* Helikopter vb. hava nakliye araçları,
+* İşyeri tabanında titreşime yol açan sabit makine, araç ve gereçler,
+* Basınçlı hava ile çalışan her türlü el aletleri (Parçalama, delme, kesme, zımparalama vb. aletleri vb.) sayılabilir. 
+
+#### 2.2.4.2. Titreşimin Etkileri
+İnsanlar, 1 Hz ile 1000 Hz arasındaki titreşimleri algılarlar.	Düşük frekanslarda sarsıntı hisseder. Buna karşılık titreşimin	yüksek frekanslarında karıncalanma hatta yanma hissi duyar. 
+Titreşimin insan vücudu üzerindeki etkileri; 
+* Fiziksel ve Biyomekanik,
+* Psikolojik veya sensoryel, 
+* Fizyolojik
+* Patolojik etkiler şeklindedir.
+
+Bu etkiler birbiri ile sıkı ilişkilidirler.
+Titreşimin özelliklerini oluşturan faktörlerden en önemlisi frekansıdır. Titreşimin tıbbi ve biyolojik etkisi büyük ölçüde şiddetine ve maruz kalınan süresine bağlıdır, insan vücuduna belirgin etkisi olan titreşimin frekansı 1 Hz. ile 100 Hz. arasındadır. 
+
+#### 2.2.4.3. Titreşimlere Karşı Alınacak Önlemler
+Titreşimin etkisinden korunmak için teknik ve tıbbi önlemler ile eğitime gerek vardır.
+Titreşimden korunmanın temel hedefi, titreşimi kaynağında azaltmaya yönelik olmalıdır.
+Tıbbi korunmada ise, işe giriş muayenelerinde sinir sistemi kalp, damar ve sindirim sistemleri sağlam olan genç işçilerin seçilmesine dikkat edilmelidir. Periyodik muayenelerde titreşimin etkilerinin klinik muayeneler uygulanarak aranması, el, bilek ve dirsek eklemlerinin dikkatle muayene edilmesi gerekir. Röntgen filmlerinin çekilmesi faydalı olur.
+
+işyerinde titreşime maruz kalan kişiler ve yöneticiler, titreşimin neden olduğu risklere ve rahatsızlıklara karşı eğitilmelidir.
+Ayrıca, titreşimin olumsuz etkileri görülen işçilerin değiştirilmesi yoluna gidilmelidir. Çalışma (etkilenme) süresinde kısıtlama yapılması veya çalışma süresince daha sık dinlenme araları verilmesi, titreşimden etkilenmede uygun bir korunma yöntemi olacaktır. 
+
+#### 2.2.4.5. Maruziyet Sınır Değerleri
+Titreşim Yönetmeliği Madde 5’e göre; Maruziyet Sınır Değerleri ve Maruziyet Etkin Değerleri:
+##### a. El - kol titreşimi için;
+* Sekiz saatlik çalışma süresi için günlük maruziyet sınır değeri 5 m/sn2, 
+* Sekiz saatlik çalışma süresi için günlük maruziyet etkin değeri 2.5 m/sn2 
+
+##### b. Bütün vücut titreşimi için;
+* Sekiz saatlik çalışma süresi için günlük maruziyet sınır değeri 1,15 m/sn2,
+* Sekiz saatlik çalışma süresi için günlük maruziyet etkin değeri 0,5 m/sn2 olacaktır.
+
+## 2.3. Biyolojik Faktörler
+Biyolojik faktörler; mikroorganizmalar, vektörler, bitki ve hayvanlardır.
+Mikroskop altında görülebilen ve çoğunlukla tek hücreli olan küçük canlılar mikroorganizma olarak adlandırılır. Mikroorganizmalar doğada, su ve toprakta, bazı gıda maddelerinde, gelişmiş canlıların deri ve bağırsaklarında, organik maddelerde hemen her yerde bulunurlar.
+Vektörler, zararlı mikropların insanlara taşınmasında aracı olan kemiriciler ve eklem bacaklılardır (fare, karasinek, bit, pire vb.) Bunlar insan vücudunda hastalık oluşturabilirler. 
+
+## 2.4. Sosyal ve Psikolojik Faktörler
+İnsan ile yaptığı iş arasındaki uyumu sağlamaya çalışırken olayı sadece bir teknik düzenleme veya fiziksel uygunluk biçiminde değerlendirmemek gerekir. Belki de bunlardan daha önemli olanı "sosyal ve psikolojik” uyumun sağlanmasıdır. Çünkü iş veya işletme öncelikle insan unsuru ile ayakta durmakta ve iş görenin psikolojik ve fiziksel durumu sonuçları (maliyet, verimlilik, iş kazaları ve meslek hastalıkları vb.) önemli ölçüde etkilemektedir.
+
+Çalışma hayatında psikolojik stresler nedeniyle ortaya çıkan sorunlardan bazıları;
+* Yorgunluk ve Bezginlik Sorunu, 
+* Devamsızlık Sorunu,
+* İş Hevesi Sorunları’dır.

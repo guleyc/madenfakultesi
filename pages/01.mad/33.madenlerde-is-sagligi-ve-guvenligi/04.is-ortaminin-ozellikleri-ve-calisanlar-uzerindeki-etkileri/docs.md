@@ -87,6 +87,7 @@ Kimyasal Yanıkların çoğu asit ve aklali kaynaklıdır. Yaralanan organ çoğ
 MSHA tarafından 1999 - 2006 arasını kapsayan bir diğer araştırmada ise 2705 kazanın nedeni 66 farklı kimyasal etmendir (Çizelge 1, Şekii 1). 
 Çizelge 1- Kimyasal faktörlerin iş kazalarına etkisi.
 Total number ol nonfatal injury cases and those caused by chemical burns and poisonings for 1986 through 1995 (NOSH, 2060). 
+
 | Operators	| All nonfatal | Chemical burns | Poisonings |
 |----|----|----|----|
 | Coal | 131,144 | 701 | 244 |
@@ -95,4 +96,3 @@ Total number ol nonfatal injury cases and those caused by chemical burns and poi
 | Stone | 54,359 | 1,132 | 217 |
 | Sand and gravel | 19,406 | 127 | 141 |
 | Totals | 253.536 | 2,932 | 871 |
-|----|----|----|---|

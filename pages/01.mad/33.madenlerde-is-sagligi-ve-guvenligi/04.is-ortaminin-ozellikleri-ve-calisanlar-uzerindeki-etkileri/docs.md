@@ -1,5 +1,6 @@
 ---
 title: 'İş Ortamının Özellikleri ve Çalışanlar Üzerindeki Etkileri'
+media_order: 'sekil4.jpg,sekil5.jpg,sekil6.jpg,sekil7.jpg'
 twitterenable: false
 twittercardoptions: summary
 articleenabled: false
@@ -130,20 +131,122 @@ Bunun yanı sıra incelemenin yapıldığı ortamda çalışan kişilerden alın
 Kimyasal ve Fiziksel faktörler ancak belli işlemler sonucu ortaya çıkarlar. Bu nedenle çalışanların etkilenme süreleri 8 saatten daha azdır. Ancak hesaplamalar genellikle en uzun süre (8 saat) üzerinden yapılır. 
 
 ### 2.1.8. İyileştirme ve Korunma Önlemleri
-#### a. Kaynakta Alınacak önlemler
+#### a. Kaynakta Alınacak Önlemler
 Bu gruba giren önlemler arasında; sorun yaratan faktörün yayılmadan çalışanlara zarar vermeyecek hale getirilmesi ya da ortama yayılmasının engellenmesi yer alır.
 Başlıcaları:
 * Zararsız veya daha az zararlı maddelerin kullanılması,
 * İşlemin değiştirilmesi,
 * Islak yöntemler kullanılması,
 * Uygun havalandırma sistemi kullanılmasıdır.
-#### b. Çalışma Ortamında Alınacak önlemler 
+
+#### b. Çalışma Ortamında Alınacak Önlemler 
 * İşyerinde düzen ve temizlik,
-* Genel Havalandırma,
+* Genel havalandırma,
 * Seyreltme havalandırması,
 * Dedektörler ile sürekli kontrol.
-#### c. Çalışan Üzerinde Alınacak Önlemler / Eğitim,
+
+#### c. Çalışan Üzerinde Alınacak Önlemler
+* Eğitim,
 * Rotasyon ve ekip değişimi,
 * Kişisel dozimetreler (dozölçer),
 * Kişisel koruyucular,
 * İşe giriş muayeneleri ve periyodik (süreli) tıbbi kontroller. 
+
+## 2.2. Fiziksel Faktörler
+* İklim
+* Gürültü 
+* Aydınlatma 
+* Titreşimler 
+
+### 2.2.1. İklim
+Çalışma ortamının iklimi denilince üç ayrı büyüklüğün birlikte etkisi anlaşılır.
+Bunlar;
+* Sıcaklık (Kuru, Yaş ve Efektif Sıcaklıklar), v Nem (Mutlak ve Bağıl Nem),
+* Hava Hızı'dır.
+
+Sıcaklık ve nem, kısaca havanın ısısı olarak da tanımlanmaktadır. 
+
+#### 2.2.1.1. Isı Göstergeleri ve Standartları
+##### a. Kuru Hazne Sıcaklığı (tk)
+Normal termometrelerle, kısa sürede ölçülebilen bir büyüklüktür. Ancak çalışanların ısı zorlanmasını tam olarak yansıtmadığı için tek başına kullanılmamaktadır.
+Gelişmiş endüstri ülkelerinde, hafif fiziksel işlerin yapıldığı iş yerlerinde çalışanların büyük bir bölümünün kendilerini rahat hissettikleri sıcaklık 18 °C olarak belirlenmiştir. Büro çalışmaları gibi az hareket gerektiren işleri yapanlar (19,5 - 23 °C) arasındaki sıcaklıkları tercih ederlerken, ağır endüstriyel işlerde çalışanların kendilerini rahat hissettikleri sıcaklık sınırları (13-15,5 °C) olarak belirlenmiştir. 
+
+##### b. Yaş Hazne Sıcaklığı (ty)
+Haznesinin üzeri ıslak bir pamuklu bez ile örtülmüş olan termometrenin göstermiş olduğu değerdir. Havanın nem alabilme kapasitesini belirlediğinden, organizmadan buharlaşma (terleme) yoluyla ısı yayılımını denetler. Tek başına kullanılabilecek bir psikrometrik büyüklüktür. 
+
+##### c. Nem (Rutubet)
+Havadaki su buharının miktarı olan nem iki farklı şekilde ifade edilmektedir.
+* Mutlak Nem: Beher m3 hava içindeki su buharının gr cinsinden miktarıdır (gr/m3)
+* Bağıl Nem (Relatif Nem): Belli bir sıcaklıkta, havadaki su buharı kısmi basıncının, doymuş durumdaki havanın su buharı kısmi basıncına oranıdır (%).
+Uygulamada genellikle Bağıl Nem esas alınır. Genelde havadaki bağıl nem miktarının %70’ten yukarı çıkmaması gerekir. 
+
+##### d. Hava Hızı
+Hava hareketlerinin fark edilmesinde, hareket halindeki havanın insan vücuduna çarpması sonucu deride oluşturduğu ısı değişiklikleri rol oynar. Hareketli havanın sıcaklığı düşük olduğu zaman şikayetler artar. Bunun nedeni insan bedeninin soğuğa karşı daha duyarlı olmasıdır. Hava akımının hızı aynı kaldığı halde ortam ısıtılırsa şikayetlerin azaldığı görülür.
+Ortam sıcaklığı ve çevreden ısı yayılımı normal sınırlar içinde ise, az hareket gerektiren işlerde ideal hava hızı 0,15 m/sn civarındadır. Hava hızı 0,5 m/sn'nin üzerine çıktığı zaman çalışma ortamı esintili kabul edilir.
+Kuru ve yaş sıcaklıklar, nem ve hava hızı ölçümünde kullanılan ölçme aletleri Şekil 2'de görülmektedir. 
+
+##### e. Efektif Sıcaklık (Etkin Sıcaklık) (tef)
+Bu konudaki araştırmaların temel amacı, ortam sıcaklığı ve nemlilik derecesi, radyant ısı, hava hızı gibi faktörlerin yanı sıra, böyle bir ortamda çalışan insanların görüşlerini de (Sübjektif değerlendirme) dikkate alarak, çalışma ortamına en uygun iklim koşullarını formüle edebilmektir. Diğer bir deyimle farklı iş türleri için geçerli kriterler aranmaktadır. Kuru, yaş hazne sıcaklıkları ve hava hızı biliniyorsa, Efektif Sıcaklık 
+nomogramından elde edilebilir.
+
+Bu tür indekslerin en basiti Efektif Sıcaklık (Etkin Sıcaklık) olarak tanımlanan değerdir. Yukarıdaki kriterleri dikkate alan bu indeks daha sonra çevrenin radyasyon etkisi de dikkate alınarak düzeltilmiş ve Düzeltilmiş Etkin Sıcaklık İndeksi (Corrected Effective Temperature - CET) olarak kullanılmaya başlamıştır. 
+
+Her ülke kendi standartlarını kendi koşullarına göre belirlemiştir, örneğin Güney Afrika’da limit değer 28°C yaş sıcaklıktır. Bazen kuru ve yaş sıcaklık farkı standart olarak kullanılabilmektedir. 2 - 3 °C sıcaklık farkı arzulanan bir farktır.
+
+Yeraltı ocaklarında havanın soğutma gücü nedeniyle hava hızı da standartların saptanmasında önem kazanmaktadır. Bazı hallerde hava hızı tek başına veya yaş sıcaklık ile birlikte "rahatlık" kavramının tanımlanmasında kullanılır. Havanın soğutma gücü ve çalışma koşulları açısından 1,0 - 2,5 m/sn hava hızı uygun değerlerdir. Zira hava hızının artması (2,5 - 3,0 m/sn) başta toz olmak üzere diğer bazı olumsuz etkilenmelere neden olmaktadır. Eski Sovyetler Birliği’nde limit çalışma sıcaklığı 26 °C, Ingiltere'de 28 °C olarak belirlenmiştir. Ingiltere’de eğer işçi 28 "C'den daha yüksek sıcaklıkta çalışmak zorunda ise ek ücret ödenmektedir. Federal Almanya'da ise limit sıcaklık değerleri çalışma süresine bağlı olarak belirlenmiştir. 
+
+#### 2.2.1.2. İklimin İş Verimi ve İş Güvenliği Üzerindeki Etkisi
+Standart değerlerin belirlenmesinde etkin sıcaklığın veya yaş sıcaklığın kullanılması bunların iş verimine doğrudan etki etmelerinden dolayıdır. Şekil 4’de yaş sıcaklık ile iş verimi arasındaki ilişki verilmektedir. Görüldüğü gibi yaş sıcaklığın 32 °C ve hava hızının 0,51 m/sn olduğu koşullarda verim % 20’den fazla azalmaktadır. 
+![](sekil4.jpg)
+
+Şekilde Güney Afrika altın madenlerinde 1973 - 75 yılları arasında yapılan bir araştırmaya dayanılarak çizilmiş bir grafik görülmektedir (Şekil 5). Derin yeraltı ocaklarında kurulmuş olan klima tesisleri aracılığıyla meydana getirilen soğutma gücü (watt/m2) arttıkça (işçiler açısından normal çalışma koşullarına yaklaşıldıkça) üretkenliğin arttığı görülmektedir. 
+![](sekil5.jpg)
+
+Benzer bir değerlendirme iş güvenliği açısından da yapılabilir. Bu konuda Hindistan'da Kolar Bölgesi'ndeki Ooregum Altın Madeninde yapılan bir araştırmanın sonuçları Şekil 6'da verilmiştir.
+![](sekil6.jpg)
+
+#### 2.2.1.3. İklimin Çalışanlar Üzerinde Fizyolojik Etkileri
+İnsan vücudunun tam istirahat halinde ve temel yaşam fonksiyonlarını devam ettirebilmesi için gereken, en düşük enerji harcama düzeyi Bazal Metabolizma olarak tanımlanır. Sağlıklı ve 70 kg ağırlığındaki bir insanın Bazal Metabolizması 1700 kcal/gün civarındadır.
+Kasların çalışması daha fazla enerji harcanmasına neden olur. Kastaki iş yükü ortadan kalktığında, enerji gereksinimi zamanla dinlenme durumundaki düzeyine iner. Lehman, oturarak yapılan işler için, bazal metabolik enerji gereksiniminin üzerine 0,3 kcal /dk, ayakta yapılan işler için 0,6 kcal/dk’lık ilave enerji hesaplanmasını önermiştir. Her iki değer de çok kaba yaklaşımlardır. 
+Vücutta üretilen enerjinin % 25'i yaşamsal fonksiyonları desteklemek için; geriye kalan % 75’i vücudun ısısını muhafaza etmek için kullanılır.
+İnsan vücudu “vücut ısısını düzenleyen ve sıcaklığını sabit (37 °C) civarında tutan mükemmel bir kontrol sistemine sahiptir. Organizmadan ısı transferi iletim (kondüksiyon), taşınım (konveksiyon) , terleme ve buharlaşma (evaporasyon) ve ışınım (radyasyon) ile olmaktadır. Bunlar arasında konveksiyon (% 25 - 30) ve radyasyon (%40 - 60) ısı transferi açısından ayrı bir önem taşır (Şekil 7). 
+![](sekil7.jpg)
+
+#### 2.2.1.4. İklimin Olumsuz Etkilerine Karşı Alınabilecek Önlemler
+##### a. Sıcak Ortam Stresi (Isı Stresi)
+Çalışma sahalarında iklimin olumsuz etkileri daha çok yüksek sıcaklığın neden olduğu Isı Stresi şeklinde gözlenmektedir. Madencilik sektörü açısından, derin yer altı ocakları ve sıcak iklim kuşağında bulunan açık ocaklardaki iklim şartları buna örnek olarak verilebilir. Yüksek sıcaklığın vücudun direncini azalttığı, iş verimini düşürdüğü, kramplara ve ısı çarpmasına neden olduğu bilinmektedir.
+En önemli ve tehlikeli sonuç Isı Çarpması' dır. Vücut sıcaklığı 40 °C'ye ulaşır veya üzerine çıkarsa, terleme durur, cilt kurur ve yüzeyi buruşuk bir görünüm kazanır. Bedensel ve ruhsal tükenme, sık ve yüzeysel solunum, hafif ve sık nabız buna eşlik eder. Durum kısa sürede fark edilip, hasta, ortamdan uzaklaştırılmazsa olay ölümle sonuçlanabilir.
+Vücudun ısı düzenleme mekanizmasını desteklemek için aşağıda belirtilen önlemlerin alınması gerekmektedir.
+* Giyim
+* Hava Hareketi 
+* Ortama Uyum Sağlama 
+* Diğer Önlemler
+
+##### b. Soğuk Ortam Stresi
+Organizma, vücut sıcaklığının sınırlı ölçüde düşürülmesine uzun süre dayanabildiği halde, aynı ölçüdeki sıcaklık yükselmeleri ısı stresi yaratmaktadır. Bu nedenle soğuk çalışma ortamlarına ait sorunlar, sıcak ve nemli iş ortamlarına oranla daha kolay çözülebilmektedir.
+Soğuk ortamda çalışma insanların enerji gereksinimini arttırmakta ve beslenme alışkanlıklarını değiştirmektedir, özellikle fazla enerji veren aşırı yağlı besinlere ve karbonhidratlara yönelen bu insanların zamanla vücutlarındaki yağ	oranının arttığı kilo aldıkları, savunma
+mekanizmalarını harekete geçiren organizmanın bu şekilde kendini soğuğa karşı koruduğu bilinmektedir. 
+
+### 2.2.2. Gürültü
+#### 2.2.2.1. Gürültü ile İlgili Temel Büyüklükler
+##### a. Ses Basıncı ve Ses Basınç Seviyesi
+Ses titreşimlerinin atmosfer basıncında meydana getirdiği değişimlere akustik basınç ya da ses basıncı denir. Simgesi " P" birimi ise Paskal "Pa"dır. Statik atmosfer basıncı ile karşılaştırıldığında işitilebilir ses basıncı çok küçütür ve 20 uPa (10-6 Pa) ile 100 Pa arasındadır. Genç ve sağlıklı bir insan kulağı 20 uPa civarındaki ses basıncını algılayabilir ve bu değere duyma eşiği denir. 100 Pascal’lık ses basıncı ise acı duyma eşiğidir.
+0,00002 N/m2’lik standart referans ses basınç seviyesine( 0 db) oranlanan ses basınç seviyesinin birimi Desibel (db)' dir. 
+Ses basıncının	Paskal biriminden desibel birimine dönüştürülmesiyle elde edilen büyüklüğe Ses	Basınç Seviyesi denir.
+
+Lp = 20xlog[P1/P0]
+
+Lp: Ses basınç seviyesi (dB),
+p1: Ses basıncı (N/ m2),
+p0: Referans ses basıncı (2*10^-5 N/m^2)’dir.
+
+Desibel ölçeği duyma eşiği (20 nPa) ile ağrı eşiği (100 Pa) arasındaki büyük değer farkını, kullanım açısından basit, yararlı ve uygulama kolaylığı getiren 0 dB ile 140 dB aralığına dönüştürmektedir.
+
+##### b. Sesin Frekansı
+Ses frekansı birim zamanda bir titreşim kaynağı tarafından havada meydana getirilen titreşimlerin sayısı olarak tanımlanmaktadır. Frekans birimi Hertz olup (Hz) simgesi ile gösterilir.
+Sağlıklı ve genç bir insan kulağı 20 Hz ile 20 kHz arasındaki frekanslara sahip sesleri duyabilmektedir. Bu bölgeye "İşitilebilir Frekans Aralığı" denir. 1 ile 20 Hz frekans aralığı “Infrasonik Frekanslar” olarak adlandırılır. Duyulamazlar fakat titreşimler şeklinde hissedilebilirler. 20.000 - 40.000 Hz frekans aralığı "ültrasonik Frekanslar" olarak adlandırılır.
+
+#### 2.2.2.2. Gürültünün Ölçülmesi
+Gürültü ölçerlerin en temel parçaları, mikrofon, yükseltici, ağırlık şebekeleri ve gösterge’dir. Mikrofon gelen akustik sinyalleri	elektrik	sinyallerine dönüştürmektedir. Mikrofondan gelen elektrik sinyalleri ön yükseltici tarafından uygun bir seviyeye yükseltilir. Yükseltilmiş bu sinyaller daha sonra ağırlık şebekeleri tarafından modifiye edilerek A, B ve C ağırlıklı ses düzeyleri göstergeden dB biriminde elde edilir. Bir ses düzeyi ölçerde gösterge ayarları gürültü türüne ve istenen ölçme zamanına bağlı olarak hızlı tepkili (FAST), yavaş tepkili (SLOW) ve ani tepkili (IMPACT) şeklinde olabilir. İş yeri gürültü seviyesi ölçümleri için genellikle yavaş tepkili ölçüm daha uygundur. 
+
+#### 2.2.2.3. Gürültünün Çalışanlar Üzerindeki Etkileri

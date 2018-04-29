@@ -107,12 +107,13 @@ işçilerin verimliliği ve başarısı, onların sosyal entegrasyonu ile yakın
 #### b. Sağlığın Korunması
 Sağlığın korunması, geniş anlamda çalışma koşullarından ileri gelen iş kazaları ve meslek hastalıkların önlenmesi ve/veya azaltılmasını sağlamaktır. 
 #### c. Sosyal Uygunluk
-işin sosyal açıdan insana uygunluğu, insanın toplumsal yaşamda üstleneceği roller için önem arz eder. İnsanın yaşamını toplumsal yapı içinde sürdürebileceği ortamın sağlanması ve bireyler arası ilişkilerin özendirilmesini sağlamaktır.
+İşin sosyal açıdan insana uygunluğu, insanın toplumsal yaşamda üstleneceği roller için önem arz eder. İnsanın yaşamını toplumsal yapı içinde sürdürebileceği ortamın sağlanması ve bireyler arası ilişkilerin özendirilmesini sağlamaktır.
 #### d. Teknik - Ekonomik Rasyonellik
-Insan-makine sisteminin fonksiyonel açıdan doğru biçimde düzenlenmesi, bu tür sistemlerin performans yeteneklerinin sürekliliğinin sağlanması ve insanların sistem içinde ekonomik açıdan en doğru biçimde görevlendirilmesini sağlamaktır. 
+İnsan-makine sisteminin fonksiyonel açıdan doğru biçimde düzenlenmesi, bu tür sistemlerin performans yeteneklerinin sürekliliğinin sağlanması ve insanların sistem içinde ekonomik açıdan en doğru biçimde görevlendirilmesini sağlamaktır. 
 
 ## 6. Ergonomik İş Düzenleme
 İş Düzenlemesi yapılırken öncelikle işin “insana Uygun, İnsancıl" olması göz önünde bulundurulmalıdır. Günümüzde işin insancıllaştırılması kavramı genel anlamda, insanın yalnızca bedensel değil; zihinsel, psikolojik ve sosyal gereksinimlerini de dikkate alarak çalışma koşullarının iyileştirilmesini ifade etmektedir.
+
 Bir mal veya hizmetin üretiminden pazarlamasına kadar geçen süreçteki her aşamanın organizasyonu iş düzenlemenin uğraşı alanları içindedir.
 İş düzenleme genelde ek yatırımlar gerektirir. Ancak bu çalışmalar sonrası oluşturulan insana uygun iş, üretim ve kalitenin artmasını sağlar. Böylece, bir taraftan verimlilik artarken diğer taraftan zorlanma ve iş yorgunluğu da azaltılmış olur. 
 

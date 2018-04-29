@@ -58,6 +58,7 @@ Zihinsel İşler ise düşünme ve dikkat gerektiren, bilgi üretme ve işleme f
 Ayrıca Fiziksel İşler, iş yükünün derecesine göre;
 * Statik Kassal Çalışma,
 * Dinamik Kassal Çalışma (Şekil 2). 
+
 ![](sekil2.png)
 
 ### 4.3. Yorgunluk
@@ -93,6 +94,7 @@ Bu ölçüler belirlenmeden İnsan ile Makine aras'ında' uyum sağlamak mümkü
 ![](sekil3.png)
 ![](sekil5.png)
 ![](sekil6.png)
+
 ### 4.6. Sosyal ve Psikolojik Uyum
 Günümüzde bilimsel ve teknolojik gelişme ve değişimler sonucu, iş yaşamındaki makineleşme oranı hızla artmakta, insanların görev sınırları gittikçe daralmaktadır.
 İnsanlar, otomasyon, seri üretim, robotların kullanılması vb. teknolojik gelişmeler nedeni ile, üretimde bir değeri olan, vazgeçilmez, yaratıcı kişiler olmaktan uzaklaşmaya başlamışlardır. Gittikçe daha karmaşık hale gelen sistemler insanların önem ve sorumluluğunu arttırmaktadır.

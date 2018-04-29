@@ -230,13 +230,13 @@ Ses frekansı birim zamanda bir titreşim kaynağı tarafından havada meydana g
 Gürültü ölçerlerin en temel parçaları, mikrofon, yükseltici, ağırlık şebekeleri ve gösterge'dir. Mikrofon gelen akustik sinyalleri elektrik sinyallerine dönüştürmektedir. Mikrofondan gelen elektrik sinyalleri ön yükseltici tarafından uygun bir seviyeye yükseltilir. Yükseltilmiş bu sinyaller daha sonra ağırlık şebekeleri tarafından modifiye edilerek A, B ve C ağırlıklı ses düzeyleri göstergeden dB biriminde elde edilir. Bir ses düzeyi ölçerde gösterge ayarları gürültü türüne ve istenen ölçme zamanına bağlı olarak hızlı tepkili (FAST), yavaş tepkili (SLOW) ve ani tepkili (IMPACT) şeklinde olabilir. İş yeri gürültü seviyesi ölçümleri için genellikle yavaş tepkili ölçüm daha uygundur. 
 
 #### 2.2.2.3. Gürültünün Çalışanlar Üzerindeki Etkileri
-
+##### Etkileri
 * **Fiziksel Etkiler:** İşitme duyusunda meydana getirdiği olumsuz etkilerdir. Bu etkiler geçici veya kalıcı işitme kayıplarıdır.
 * **Fizyolojik Etkiler:** Kan basıncının artması, kas gerilmeleri, stres, kalp atışlarının değişmesi, gözbebeği büyümesi, uykusuzluk, solunumda hızlanma, vücut aktivitesinde değişiklikler, dolaşım bozuklukları, ani refleksler.
 * **Psikolojik Etkiler:** Davranış bozuklukları, sinir sisteminde bozukluklar, korku, rahatsızlık, yorgunluk, zihinsel işlevlerde yavaşlama.
 * **Performans Etkileri:** İş verimini azaltması ve seslerin anlaşılabilirliğini bozması gibi etkileridir. Gürültünün iş verimliliğini ve üretkenliğini olumsuz yönde etkilediği araştırmalarla saptanmıştır. İşyerlerindeki gürültü düzeyi ile verimlilik arasında anlamlı bir ilişki vardır.
 
-
+##### Dereceleri
 * **1. Derece (30-65 db):** Konforsuzluk, rahatsızlık, öfke, kızgınlık, uyku düzensizliği ve konsantrasyon bozukluğu.
 * **2. Derece (65-90 db):** Fizyolojik reaksiyonlar, kan basıncı artışı, kalp atışlarında ve solunumda hızlanma, beyin sıvısındaki basıncın azalması, ani refleksler.
 * **3. Derece (90-120 db):** Fizyolojik reaksiyonların artması, baş ağrıları

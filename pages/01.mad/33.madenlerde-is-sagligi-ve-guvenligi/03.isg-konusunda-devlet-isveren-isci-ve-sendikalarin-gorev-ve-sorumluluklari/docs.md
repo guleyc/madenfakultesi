@@ -112,5 +112,69 @@ Grup Başkanlıklarının bulunduğu iller ve başkanlıklar kapsamındaki iller
 İş kazası ve meslek hastalıkları ile ilgili SGK İstatistikleri, çalışma hayatı ile ilgili olarak Bakanlığın diğer birimleri tarafından toplanan veriler her yıl yayınlanmaktadır. 
 
 # 4. İSG Konusunda İşverenin Görev ve Sorumlulukları
+**İş Kanunu**
+Kanun No. : 4857, Kabul Tarihi :22. 05. 2003
+Bölüm 5, Madde 77
+* Mevzuat hükümlerini uygulamak ve iş sağlığı ve güvenliğinin sağlanması için gerekli her türlü önlemi almak, araç ve gereçleri noksansız bulundurmak,
+* İşçileri karşı karşıya bulundukları mesleki riskler, alınması gerekli tedbirler, yasal hak ve sorumlulukları konusunda bilgilendirmek,
+* Gerekli iş sağlığı ve güvenliği eğitimini vermek,
+* Alınan iş sağlığı ve güvenliği önlemlerine uyulup uyulmadığını denetlemek,	.■
+* İşçileri alınacak güvenlik önlemlerine uymaya zorlamak, s İşyerlerinde meydana gelen iş kazasını ve tespit edilecek meslek hastalığını en geç üç iş günü içinde yazı ile ilgili bölge müdürlüğüne ve SGK’ya bildirmek zorundadır. Ayrıca iş kazalarını yetkili kolluk kuvvetlerine derhal bildirmek zorundadır. 
+
+**İş Sağlığı ve Güvenliği Kanunu**
+Kanun No. : 6331. Kabul Tarihi : 20. 06. 2012
+Bölüm 2, Madde 4, 5, 6, 7, 8, 9.10. 11, 12
+* İşveren, iş sağlığı ve güvenliği yönünden risk değerlendirmesi yapmak veya yaptırmak,
+* Acil durum planları, yangınla mücadele ve ilk yardım planları yapmak,
+* Ciddi, yakın ve önlenemeyen tehlikenin meydana gelmesi durumunda;
+* Çalışanların işi bırakarak derhal çalışma yerlerinden ayrılıp güvenli bir yere gidebilmeleri için, önceden gerekli düzenlemeleri yapmak ve çalışanlara gerekli talimatları vermek. 
+
+## 4.1. Mevzuat Hükümlerini Uygulama ve İş Güvenliği Önlemlerini Alma
+İş sağlığı ve iş güvenliği konusunda işverene düşen en önemli görev mevzuatı uygulama yükümlülüğüdür.
+işveren İş Kanunu’na tabi bir yer işletiyorsa bu yasanın getirdiği hükümlere, iş Kanunu kapsamı dışında kalan bir yer işletiyorsa Borçlar Kanunu ile getirilen hükümlere uymak zorundadır.
+4857 Sayılı İş Kanunu Madde 77'de; "İşverenler işyerlerinde iş sağlığı ve güvenliğinin sağlanması için gerekli her türlü önlemi almak, araç ve gereçleri noksansız bulundurmak, işçiler de iş sağlığı ve güvenliği konusunda alınan her türlü önleme uymakla yükümlüdürler. 
+
+### 4.1.1.	İş Sağlığı ve Güvenliği Kurulu İşyeri Hekimi, İşyeri Sağlık Birimi
+**İş Kanunu Madde 80** - Bu Kanuna göre sanayiden sayılan, devamlı olarak en az elli işçi çalıştıran ve altı aydan fazla sürekli işlerin yapıldığı işyerlerinde her işveren bir iş Sağlığı ve Güvenliği Kurulu kurmakla yükümlüdür.
+
+**İş Kanunu Madde 81** - Devamlı olarak en az elli işçi çalıştıran işverenler, Sosyal Sigortalar Kurumunca sağlanan tedavi hizmetleri dışında kalan, işçilerin sağlık durumunun ve alınması gereken iş sağlığı ve güvenliği önlemlerinin sağlanması, ilk yardım ve acil tedavi ile koruyucu sağlık hizmetlerini yürütmek üzere işyerindeki işçi sayısına ve işin tehlike derecesine göre bir veya daha fazla İşyeri Hekimi çalıştırmak ve bir İşyeri Sağlık Birimi oluşturmakla yükümlüdür.
+
+### 4.1.2.	Mühendis veya Teknik Eleman
+İş Kanunu Madde 80 - Bu Kanuna göre sanayiden sayılan, devamlı olarak en az elli işçi çalıştıran ve altı aydan fazla sürekli işlerin yapıldığı işyerlerinde işverenler, işyerinin iş güvenliği önlemlerinin sağlanması, iş kazalarının ve meslek hastalıklarının önlenmesi için alınacak önlemlerin belirlenmesi ve uygulanmasının izlenmesi hizmetlerini yürütmek üzere işyerindeki işçi sayısına, işyerinin niteliğine ve tehlikelilik derecesine göre bir veya daha fazla Mühendis veya Teknik Elemanı görevlendirmekle yükümlüdürler.
+
+## 4.2.	İşçileri Eğitme
+İşyerinde sadece önlemlerin alınmış olması genellikle tehlikeyi ortadan kaldırmaz. Bu önlemlere uyulması, tehlikelerin önceden sezinlenmesi, tekniğin getirdiği yeniliklerin öğretilmesi için eğitim zorunludur.
+Eğitim, sadece işçinin işe alınması sırasında yapılmamalı, çalışma yeri ve iş değişikliğinde, iş araçlarının ve üretim tekniklerinin yenilenmesi sırasında işçiler yeniden eğitime tabi tutulmalıdır.
+Buradan da anlaşıldığı üzere, işverenin işçilerini eğitme görevi süreklilik göstermelidir.
+
+## 4.3.	Denetleme
+Denetleme: Bir görevin yolunda yürütülüp yürûtülmediğini anlamak için yapılan araştırma, denetim, bakı, teftiş olarak tanımlanmaktadır.
+Her alanda olduğu gibi, iş güvenliğinin de temeli denetimdir. Çalışanların olumlu özelliklerini geliştirmek, hata olasılığını azaltmak, eksiklikleri zamanında belirleyerek risk oluşturmadan önlemleri almak vb. ancak iyi bir denetim mekanizmasının kurulmasıyla sağlanabilir.
+Devletin tüm iş yerlerini bir müfettiş görevlendirerek denetlemesi mümkün değildir. Dolayısıyla devamlı olarak işin başında bulunan işveren denetim görevini de üstlenmek durumundadır.
+
+## 4.4.	İşçileri Alınacak Güvenlik önlemlerine Uymaya Zorlama
+İş güvenliğinin sağlanması için konuyla ilgili önlemlerin alınması yeterli değildir. İşçilerin de alınan önlemlere aynen uymaları gerekir. İşverenin, önlemlere uyma konusunda savsaklama gösteren işçileri uymaya zorlama görev ve yetkisi bulunduğu kabul edilmelidir.
+4857 sayılı İş Kanunu’nun 25 Maddesi II/i bendi gereğince “İşçinin kendi isteği veya savsaması yüzünden işin güvenliğini tehlikeye düşürmesi, işyerinin malı olan veya malı olmayıp da eli altında bulunan makineleri, tesisatı veya başka eşya ve maddeleri otuz günlük ücretinin tutarıyla ödeyemeyecek derecede hasara ve kayba uğratması” durumunda işverenin haklı nedenle İş sözleşmesini derhal fesih hakkı doğmaktadır. 
+
 # 5. İSG Konusunda İşçilerin Görev ve Sorumlulukları
+İşçilerin iş sağlığı ve güvenliği konularındaki görevleri pasif niteliktedir. Dolayısıyla işçilerin bu konularda yerine getirmesi gereken bir önlem bulunmamaktadır.
+İşçiler sadece alınmış olan önlemlere uymak ve tehlikeli bir durum yaratmamak için gereğinden de fazla dikkatli ve tedbirli davranmak ve çalışmak zorundadırlar.
+6331 sayılı İş Sağlığı ve Güvenliği Kanunu, Madde 19 gereğince; Çalışanlar, iş sağlığı ve güvenliği konusunda aldıkları eğitim ve işverenin bu konudaki talimatları doğrultusunda, kendilerinin ve hareketlerinden veya yaptıkları işten etkilenen diğer çalışanların sağlık ve güvenliklerini tehlikeye düşürmemekle yükümlüdür.
+
+Çalışanların, işveren tarafından verilen eğitim ve talimatlar doğrultusunda yükümlülükleri şunlardır:
+* İşyerindeki makine, cihaz, araç, gereç, vb. üretim araçlarını kurallara uygun şekilde kullanmak, bunların güvenlik donanımlarını doğru olarak kullanmak, keyfi olarak çıkarmamak ve değiştirmemek.
+* Kendilerine sağlanan kişisel koruyucu donanımı doğru kullanmak ve korumak.
+* İşyerindeki makine, cihaz, araç, gereç, tesis ve binalarda sağlık ve güvenlik yönünden ciddi ve yakın bir tehlike ile karşılaştıklarında ve koruma tedbirlerinde bir eksiklik gördüklerinde, işverene veya çalışan temsilcisine derhal haber vermek.
+* Teftişe yetkili makam tarafından işyerinde tespit edilen noksanlık ve mevzuata aykırılıkların giderilmesi konusunda, işveren ve çalışan temsilcisi ile iş birliği yapmak.
+* Kendi görev alanında, iş sağlığı ve güvenliğinin sağlanması için işveren ve çalışan temsilcisi ile iş birliği yapmak. 
+
+
 # 6. İSG Konusunda Sendikaların Görev ve Sorumlulukları 
+
+6356 sayılı ‘Sendikalar ve Toplu İş Sözleşmesi Kanunu' na göre; sendikalar, İşçilerin veya işverenlerin çalışma ilişkilerinde, ortak ekonomik ve sosyal hak ve çıkarlarını korumak ve geliştirmek için en az yedi işçi ve işverenin bir araya gelerek bir iş kolunda faaliyette bulunmak üzere oluşturdukları tüzel kişiliğe sahip kuruluşlardır.
+Sendikalar ve Toplu iş Sözleşmesi Kanunu, Madde 26’da sendikaların faaliyetleri belirtilmiştir.
+* Kuruluşlar, çalışma hayatından, mevzuattan, örf ve adetten doğan uyuşmazlıklarda işçi ve işverenleri temsiien; sendikalar, yazılı başvuruları üzerine iş sözleşmesinden ve çalışma ilişkisinden doğan hakları ile sosyal güvenlik haklarında üyelerini ve mirasçılarını temsiien dava açmak ve bu nedenle açılmış davada davayı takip yetkisine sahiptir.
+* Kuruluşlar, faaliyetlerinden yararlanmada üyeleri arasında eşitlik ilkesi ve ayrımcılık yasaklarına uymakla yükümlüdür. Kuruluşlar, faaliyetlerinde toplumsal cinsiyet eşitliğini gözetir.
+* Kuruluşlar, tüzükleriyle belirlenen amaçları dışında faaliyette bulunamaz.
+* Kuruluşlar ticaretle uğraşamaz. Ancak, kuruluşlar genel kurul kararıyla nakit mevcudunun yüzde kırkından fazla olmamak kaydıyla sanayi ve ticaret kuruluşlarına yatırımda bulunabilir.
+* Kuruluşlar elde ettikleri gelirleri üyeleri ve mensupları arasında dağıtamaz. Ancak sendikaların grev ve lokavt süresince tüzüklerine göre üyelerine yapacakları yardımlar ile kuruluşların eğitim amaçlı yardımları bu hükmün dışındadır.

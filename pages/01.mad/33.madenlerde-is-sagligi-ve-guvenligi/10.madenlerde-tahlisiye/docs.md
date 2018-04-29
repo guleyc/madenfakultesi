@@ -135,6 +135,6 @@ Haberleşme setleri ve telefonlu yüz maskeleri, tahlisiye ekibinin kendi aralar
 Olay yerindeki çalışma süresini tamamlayan tahlisiye ekibi, ekip şefinin talimatıyla geriye döner. Ekip üyelerinden biri çalışmalar sırasında rahatsızlanır veya cihaz arızası olursa, ekip şefi bu kişinin yanına iki kişi vererek onu geriye gönderir.
 Ancak geride kalan ekip elemanlarının sayısı hiçbir zaman 3 kişinin altına düşmemelidir. Aksi halde tüm ekip olay yerinden çekilir.
 Herhangi bir nedenle, tahlisiye cihazı oksijen beslemesi yapamıyorsa veya olay yerinde gereğinden fazla kalma sonucu tüpteki oksijen bitirilmiş ise, Ferdi Maske takılır. Ferdi Maske yoksa, olay yerinden koşarak temiz havaya doğru uzaklaşmak gerekir. 
-### c.Yedek Tahlisiye Ekibi
+### c. Yedek Tahlisiye Ekibi
 Tahlisiye çalışmaları devam ederken, geçici tahlisiye istasyonunda en az bir ekip cihaz kuşanmaya hazır durumda bekletilmelidir.
 Birkaç gün devam eden tahlisiye çalışmalarında, istasyon yöneticisi ile kurtarma komisyonu başkanı vardiyalar bazında ekiplerin çalışma saatlerini ayarlarlar ve yapacakları işleri belirlerler.

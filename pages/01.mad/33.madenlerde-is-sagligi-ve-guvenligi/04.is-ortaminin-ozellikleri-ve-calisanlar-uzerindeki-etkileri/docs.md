@@ -96,3 +96,12 @@ Total number ol nonfatal injury cases and those caused by chemical burns and poi
 | Stone | 54,359 | 1,132 | 217 |
 | Sand and gravel | 19,406 | 127 | 141 |
 | Totals | 253.536 | 2,932 | 871 |
+
+| Year | Number | Year | Number |
+|----|----|----|----|
+| 1999 | 394 | 2003 | 317  |
+| 2000 | 382 | 2004 | 279  |
+| 2001 | 344 | 2005 | 322  |
+| 2002 | 388 | 2006 | 279  |
+| 	   |  |  Total:|	2,705 |
+

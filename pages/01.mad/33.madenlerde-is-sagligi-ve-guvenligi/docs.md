@@ -1,5 +1,5 @@
 ---
-title: 'Madenlerde İSG'
+title: 'Madenlerde İş Sağlığı ve Güvenliği'
 twitterenable: false
 twittercardoptions: summary
 articleenabled: false

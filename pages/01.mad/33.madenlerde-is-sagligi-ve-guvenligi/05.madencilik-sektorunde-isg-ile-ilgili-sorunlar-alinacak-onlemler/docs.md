@@ -36,7 +36,7 @@ Açık ocak madencilik faaliyetleri sırasında yapılan çalışmalar aşağıd
 * Makinelerin periyodik bakım ve kontrolleri planlı bir şekilde yapılmalıdır.
 * Ekonomik ömrünü tamamlayan makineler servisten alınmalıdır.
 * Gece çalışmalarında yeterli düzeyde aydınlatma sağlanmalıdır.
-* 
+
 ![](sekil4.png)
 
 #### b. Patlayıcı Madde ile Kazıda alınabilecek iş güvenliği önlemleri;
@@ -98,7 +98,7 @@ Günümüzde el ile kazı, ancak küçük işlerde, kazı makinelerinin giremeye
 * Donmuş veya bozulmuş patlayıcı maddeler, yeraltına sokulmamalı; yeraltı depolarında bozulanlar derhal imha edilmelidir.
 * Ateşleme işleri kesinlikle “Patlayıcı Madde Ateşleyici Yeterlik Belgesi" olan ateşleyici tarafından yapılmalıdır. 
 * Ateşleme işlemi öncesinde tüm personel tehlike sahası dışına çıkarılmalı ve ateşleme işlemi sonuçlanıncaya kadar sahaya girişler kesinlikle önlenmelidir.
-* Ateşleyici, grizuiu ocaklarda^, lağım deliklerini doldurmadan önce, 25 m yarı çapındaki bir alan içinde ve özellikle tavandaki boşluklar ve çatlaklarda metan gazı ölçümü yapmalı; ölçmelerde % 1 metan tespit edilirse lağımları doldurmamalıdır (Şekil 18).
+* Ateşleyici, grizulu ocaklarda, lağım deliklerini doldurmadan önce, 25 m yarı çapındaki bir alan içinde ve özellikle tavandaki boşluklar ve çatlaklarda metan gazı ölçümü yapmalı; ölçmelerde % 1 metan tespit edilirse lağımları doldurmamalıdır.
 * Yapılan ölçümlerde havasında % 1 veya daha çok metan gazı bulunan kısımlarda patlayıcı madde kullanılamaz.   
 
 **Makine ile (Mekanize) Kazıda alınacak güvenlik önlemleri;**

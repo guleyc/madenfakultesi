@@ -236,6 +236,7 @@ Gürültü ölçerlerin en temel parçaları, mikrofon, yükseltici, ağırlık 
 * **Psikolojik Etkiler:** Davranış bozuklukları, sinir sisteminde bozukluklar, korku, rahatsızlık, yorgunluk, zihinsel işlevlerde yavaşlama.
 * **Performans Etkileri:** İş verimini azaltması ve seslerin anlaşılabilirliğini bozması gibi etkileridir. Gürültünün iş verimliliğini ve üretkenliğini olumsuz yönde etkilediği araştırmalarla saptanmıştır. İşyerlerindeki gürültü düzeyi ile verimlilik arasında anlamlı bir ilişki vardır.
 
+
 * **1. Derece (30-65 db):** Konforsuzluk, rahatsızlık, öfke, kızgınlık, uyku düzensizliği ve konsantrasyon bozukluğu.
 * **2. Derece (65-90 db):** Fizyolojik reaksiyonlar, kan basıncı artışı, kalp atışlarında ve solunumda hızlanma, beyin sıvısındaki basıncın azalması, ani refleksler.
 * **3. Derece (90-120 db):** Fizyolojik reaksiyonların artması, baş ağrıları

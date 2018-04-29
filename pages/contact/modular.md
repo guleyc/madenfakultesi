@@ -17,21 +17,21 @@ form:
     fields:
         -   name: name
             label: Name
-            placeholder: Adınız
+            placeholder: 'Ad-Soyad'
             type: text
             validate:
                 required: true
             classes: form-control
         -   name: email
             label: Email
-            placeholder: 'Email adresiniz'
+            placeholder: 'E-Mail'
             type: email
             validate:
                 required: true
             classes: form-control
         -   name: message
             label: Message
-            placeholder: 'Yazmak istediğiniz mesajınız'
+            placeholder: 'Mesaj'
             type: textarea
             rows: 6
             validate:

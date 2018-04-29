@@ -108,7 +108,7 @@ Günümüzde el ile kazı, ancak küçük işlerde, kazı makinelerinin giremeye
 * Metan gazı yayılımı olan ocaklarda kazı makinesi keskilerinde sıcak yüzeylerin oluşması önlenmelidir (Şekil 19,20).
 * Çalışanlar toz, gürültü, titreşim vb. olumsuz etkilerine karşı korunmalıdır. 
 
-## 3.2. Tahkimat
+### 3.2. Tahkimat
 Tahkimat, kazı çalışmaları sonucu açılan boşluğun duraylılığını sağlamak için ağaç, demir, beton vb. malzemeler kullanarak yapılan takviye işlemidir.
 Tahkimat yapılmayan veya gerektiği şekilde tahkim edilmeyen ocak kesimlerinde;
 * Taş düşmesi,

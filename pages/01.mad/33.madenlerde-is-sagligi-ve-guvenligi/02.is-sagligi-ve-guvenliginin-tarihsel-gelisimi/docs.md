@@ -11,7 +11,7 @@ orgaratingenabled: false
 facebookenable: false
 ---
 
-# 1. Dünyadaki Tarihsel Gelişmeler
+## 1. Dünyadaki Tarihsel Gelişmeler
 Dünyada iş sağlığı ve güvenliği ile ilgili veriler MÖ 500 yıllarına kadar gitmektedir. Ünlü tarhçi ve düşünür Heredot (MÖ 484 - 425) çalışanların verimli olabilmeleri için iyi beslenmeleri, düzenli dinlenmeleri ve uyumaları gerektiğini söylemiştir. Ünlü hekim Hipokrates (MÖ 460 - 377), kurşunun zararlı etkilerine değinmiş ve kurşun zehirlenmesinin başlıca belirtilerinden bahsetmiştir. Hipokrates'in çalışmalarını geliştiren Nicander (MÖ 197 - 130), kurşun koliği (bağırsak düz kaslarının kasılması sonucu çok şiddetli karın ağrıları) ve kurşun anemisini (kansızlık, hemoglobin değerinin düşük olması) incelemiş ve bunların özelliklerini tanımlamıştır.
 
 Pliny (MS 23-79), çalışanların ortamdaki tehlikeli tozlara karşı korunması amacıyla, maske yerine geçmek üzere başlarına bir torba geçirmelerini önermiştir. Juvenal (MS 60-140), özellikle demircilerde izlenen gözle ilgili yakınmaların ve göz hastalıklarının yapılan işten kaynaklandığını belirtmiş, uzun süre ayakta durarak çalışanlarda varislerin olabileceğini açıklamıştır.
@@ -42,8 +42,8 @@ ILO'nun dört temel stratejik hedefi vardır.
 * Üçlü yapıyı ve sosyal diyalogu güçlendirmek.
 
 
-# 2. Türkiye'deki Tarihsel Gelişmeler
-## 2.1. Cumhuriyet Öncesi Dönem
+## 2. Türkiye'deki Tarihsel Gelişmeler
+### 2.1. Cumhuriyet Öncesi Dönem
 Osmanlı Devleti'nin kuruluş ve yükselme devirlerinde, çalışma hayatı ile ilgili düzenlemeler kent esnafının ve küçük çaplı üretim yapan zanaatkarların örgütlediği Loncalar'da gerçekleştirilmiştir. Lonca düzeni 15. yüzyılın sonlarında ortaya çıkmış, 18. yüzyılın ortalarına doğru "Gedik" şeklini alarak 20. yüzyıl başlarına kadar varlığını sürdürmüştür. Osmanlı Devleti'nin son yarım yüzyıllık döneminde şer'i mahkemelerde hukuki dayanak olarak Mecelle esas alınmıştır. Mecelle İslam dünyasının ilk Medeni ve Borçlar Kanunu'dur. Doğrudan çalışma ilişkileri alanını düzenlemek amacıyla çıkarılmamasına karşılık, 1926 yılına kadar, Osmanlı İmparatorluğu'nda bireysel iş ilişkilerinin hukuksal çerçevesini çizmiştir.
 
 Osmanlı dönemindeki ilk sanayi kuruluşları; III. Selim (1789-1807) döneminde kurulan Beykoz Kağıt ve Çuha Fabrikaları (1805) ve II. Mahmud (1808-1839) döneminde kurulan Eyüp İplik Fabrikası (1810), Beykoz Deri ve Kundura Fabrikası (1816), Feshane, Tophane Kereste ve Bakır Levha Fabrikası, Tophaneye bağlı Top Döküm ve Dolmabahçe Tüfek Fabrikası'dır. Bu sanayi kuruluşlarının devreye girmesi ile birlikte, temel hammadde olan kömüre olan talep de hızla artmıştır. Bir deniz eri olan Uzun Mehmet'in 1829 yılında Karadeniz Ereğlisi, Köseağzı Mevkii, Niren Deresi yatağında taşkömürü bulunması Osmanlı Devleti ekonomisinde önemli bir gelişme olmuştur.
@@ -62,12 +62,12 @@ Dilaver Paşa Nizamnamesi'nden iki yıl sonra 1869'da "Maadin Nizamnamesi" yür�
 * Kaza, işverenin kötü yönetim veya denetimi ile gereken önlemlerin yerine getirilmemesinden kaynaklanıyorsa, maden sahibinin ayrıca 5 ile 20 altın ceza alması,
 * Madenlerde diplomalı hekim çalıştırılması ve bir eczane bulundurulması.
 
-## 2.2. Türkiye Büyük Millet Meclisi Dönemi
+### 2.2. Türkiye Büyük Millet Meclisi Dönemi
 Türkiye Büyük Millet Meclisi'nin açılışını (23 Nisan 1920) izleyen hükümet kurma döneminin ilk aylarında (02 Mayıs 1920), Zonguldak Kömür Havzası'nın stratejik önemi dikkate alınarak, madencilik faaliyetlerini düzenlemek için harekete geçilmiştir. İlk olarak, 28.04.1921 tarih ve 114 sayılı; "Zonguldak ve Ereğli Havzalarındaki Kömür Tozlarının İşçi Yararına Satılmasına Dair Kanun" çıkarılmıştır.
 
 İkinci olarak, 10.09.1921 tarihinde, 151 sayılı "Ereğli Kömür Havzası İşçilerin Hukuku ile İlgili Kanun" yürürlüğe girmiştir. Toplam 15 maddeden oluşan Kanun, o günün şartları dikkate alındığında çalışanların maden sahiplerine karşı haklarının koruması ve daha insanca bir yaşam sürmeleri konularında devrim olarak nitelendirilebilecek hükümler içermektedir. Kanunun 4. maddesinde Ereğli Bölgesi'nde çalışan işçiler için işçi ve işverenden alınacak aidatlarla "İhtiyat ve Teavün Sandıkları (Tasarruf ve Yardımlaşma Sandıkları)" kurulması, hastalık halinde işçi ve ailesine bu sandıktan yardım sağlanması öngörülmüştür. Sigortalılık bölge işçileri için zorunlu hale getirilmiştir.
 
-## 2.3. Cumhuriyet Dönemi
+### 2.3. Cumhuriyet Dönemi
 Cumhuriyet döneminin Anayasa'sı, 20 Nisan 1924'de TBMM'de büyük bir çoğunlukla kabul edilmiştir. 1924 Anayasası ile toplanma ve dernek kurma hakkı güvence altına alınmıştır. Cumhuriyetin ilanından sonra ilk yasal düzenleme, 02.01.1924 (1340) tarih ve 394 sayılı "Hafta Tatili Hakkında Kanun"dur. Böylece, işçilerin haftada bir gün dinlenme yapmalarına olanak sağlamıştır. İsviçre Kanunlarından tercüme edilerek alınan 29.04.1926 tarih ve 818 sayılı "Borçlar Kanunu", ferdi iş ilişkisini kuran, "Hizmet Akdi"ni düzenleyen önemli bir yasal düzenlemedir.
 
 24.04.1930 tarih ve 1593 sayılı "Umumi Hıfzıssıhha Kanunu", toplum sağlığıyla ilgili, bugün dahi geçerliliğini koruyan önemli hükümler içermektedir. 03.04.1930 tarihinde yürürlüğe giren 1580 sayılı "Belediyeler Kanunu" ile işyerlerinn işçi sağlığı ve iş güvenliği ile ilgili bazı konularda denetlenmesi görevi belediyelere verilmiştir. Türkiye 1932 yılında Milletler Cemiyeti'ne ve dolayısıyla ILO'ya üye olmuşturç Uymakla yükümlü olunan uluslararası normlar, asgari bir ulusal mevzuata sahip olma zorunluluğunu da birlikte getirmiştir. 1934 yılında hazırlanan "İş Kanunu Tasarısı" 08 Haziran 1936'de 3008 sayılı "İş Kanunu" olarak kabul edilmiştir. Çalışma hayatını doğrudan düzenleyen bu kanun 15 Haziran 1937'de yürürlüğe girmiş ve 30 yıl uygulamada kalmıştır.

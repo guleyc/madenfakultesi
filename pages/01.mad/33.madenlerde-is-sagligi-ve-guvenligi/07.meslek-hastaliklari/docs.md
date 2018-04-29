@@ -14,6 +14,7 @@ facebookenable: false
 ## 1. Tanım
 Meslek hastalıkları, işyeri ortamında bulunan faktörlerin etkisi ile meydana gelen hastalıkların ortak adıdır. Dünya Sağlık Örgütü ve Uluslararası Çalışma Örgütü gibi uluslararası kaynaklarda meslek hastalıkları; zararlı bir etkenle bundan etkilenen insan vücudu arasında, çalışılan işe özgü bir neden-sonuç, etki-tepki ilişkisinin ortaya konabildiği hastalıklar grubu olarak tanımlanmaktadır.
 Meslek Hastalığı, 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu’nun (Kabul: 31.05.2006, RG: 16.16.2006) 14. Maddesi’nde şu şekilde tanımlanmıştır.
+
 **Meslek Hastalığı;** sigortalının çalıştığı veya yaptığı işin niteliğinden dolayı tekrarlanan bir sebeple veya işin yürütüm şartları yüzünden uğradığı geçici veya sürekli hastalık, bedensel veya ruhsal özürlülük halleridir. 
 
 ## 2. İstatistiksel Veriler
@@ -34,9 +35,13 @@ Hastalıkları Listesi’ni önemli ölçüde revize ederek	Türkiye Meslek Hast
 Hazırlanan listede meslek hastalıkları 5 ayrı bölümde sınıflandırılmıştır. Bu sınıflara giren hastalıkların ayrıca alt grupları bulunmaktadır.
 
 **A Grubu:** Kimyasal maddelerle olan meslek hastalıkları (Bu grupta 25 grup kimyasal maddeye bağlı 67 hastalık bulunur.)
+
 **B Grubu:** Mesleki deri hastalıkları (Bu grupta deri kanseri ve kanser dışı deri hastalıkları olmak üzere 2 hastalık vardır.)
+
 **C Grubu:** Pnömokonyozlar ve diğer mesleki solunum sistemi hastalıkları (Bu grupta 6 tür etkene bağlı toplam 9 hastalık bulunmaktadır.)
+
 **D Grubu:** Mesleki bulaşıcı hastalıklar ( Bu grupta dört tür etkene bağlı toplam 30 hastalık yer almaktadır.)
+
 **E Grubu:** Fiziki etkenlerle olan meslek hastalıkları ( Bu grupta 7 grup fiziksel etkene bağlı toplam 12 hastalık vardır.) 
 
 ## 4. Yükümlülük Süresi ve Maruziyet Süresi
@@ -78,7 +83,9 @@ Tanısı koyulan meslek hastalığı nedeniyle sigortalının uğradığı zarar
 Meslek hastalıkları, çalışma ortamdaki koşullardan kaynaklanan önlenebilir hastalıklardır. Bu nedenle, tedavi hizmetlerinden daha çok korunma çalışmalarına önem verilmelidir.
 
 Meslek hastalıklarından korunmak için alınabilecek önlemler ise iki ayrı başlık altında toplanabilir.
+
 **1. Teknik Korunma Önlemleri**
+
 **2. Tıbbi Korunma Önlemleri**
 
 ## 8. Meslek Hastalıklarından Korunmanın İlkeleri

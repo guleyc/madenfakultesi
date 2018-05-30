@@ -102,11 +102,6 @@ Bir maden ocağındaki çalışmalar sırasında yaygın olarak karşılaşılan
 * Tehlikeli atmosferik koşullar (toz, gaz, buhar)
 * Olumsuz çevre koşulları (iklim, gürültü, titreşim, aydınlatma, radyasyon)
 
-### d. Temel Nedenler
-* Yönetimin İş Güvenliği Konusundaki Yaptırımları,
-* Kişisel Faktörler,
-* Çevre Faktörleri. 
-
 ## 5. İş Kazalarının Sonuçları
 İş kazalarının sonuçlarını hukuki, insani ve ekonomik olmak üzere üç bölümde incelemek mümkündür.
 

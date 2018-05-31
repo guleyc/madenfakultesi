@@ -88,8 +88,48 @@ Günümüzde 75000 TL olarak yılda %20 faizle alınan bir paranın 5 yıl sonra
 
 ## Bileşik Faiz Faktörleri ve Kullanımları
 
-1) Tek Ödeme Bileşik Değer Formülleri
+### 1) Tek Ödeme Bileşik Değer Formülleri
 
 Aşağıda verilen formül bugünkü değeri P olan ve n sene boyunca i oranından faize yatırılan paranın n sene sonraki F değerini bulmada kullanılır.
 
 $ F=P\ast(1+i)^n $
+
+#### Örnek
+%12 faizle 4 yıllığına faize yatırılan 10000 TL'nin 4 yıl sonundaki değerini bulunuz.
+
+$ F=10000\ast(1+0,12)^4=17735\;TL $
+
+### 2) Tek Ödeme Bugünkü Değer Formülleri
+Aşağıda verilen formül n sene sonraki F değerini i faiz ortamında eşdeğeri olan bugünkü P değerini bulmada kullanılır. 
+
+$ P=F\ast(1+i)^-n $
+
+#### Örnek
+5 yıl sonra %12 faizle 10000 TL elde etmek için yatırılması gereken paranın bugünkü değeri nedir?
+
+$ P=10000\ast(1+0,12)^{-5}=5674\;TL $
+
+### 3) Düzgün Seri Bugünkü Değer Formülleri
+Aşağıda verilen formül i faiz ortamında 1. yıldan n. yıla kadar her dönem sonu yapılan A miktarındaki yatırımın bugünkü P değerini verir.
+
+$ P=A\ast\left[\frac{(1+i)^n-1}{i\ast(1+i)^n}\right] $
+
+#### Örnek
+5 yıl boyunca her yıl sonunda %8 faizle yatırılan 10000 TL'nin bugünkü değeri nedir?
+
+$ P=10000\ast\left[\frac{(1+0,08)^5-1}{0,08\ast(1+0,08)^5}\right]=\;39925\;TL $
+
+### 4) Sermayenin Yeniden Elde Edilmesi
+Aşağıda verilen formül P sermayesinin n yıl içerisinde i faiz oranı ile her dönem sonu getireceği A miktarını göstermektedir.
+
+$ A=P\ast\left[\frac{i\ast(1+i)^n}{(1+i)^n-1}\right] $
+
+### 5) Tasarruf Miktarı Formülü
+Aşağıda verilen formül n dönem sonunda F değerini elde etmek için i faiz oranında her dönem sonu yatırılması gereken A değerinin tayininde kullanılır.
+
+$ A=F\ast\left[\frac i{(1+i)^n-1}\right] $
+
+### Bileşik Değer Formülü
+Aşağıda verilen formül her dönem sonu A miktarda yatırım yapıp, i faiz ortamında n dönem sonunda elde edilecek F değerinin tayininde kullanılır.
+
+$ F=A\ast\left[\frac{(1+i)^n-1}i\right] $

@@ -92,4 +92,4 @@ Günümüzde 75000 TL olarak yılda %20 faizle alınan bir paranın 5 yıl sonra
 
 Aşağıda verilen formül bugünkü değeri P olan ve n sene boyunca i oranından faize yatırılan paranın n sene sonraki F değerini bulmada kullanılır.
 
-$ F=P\ast(1+i)^n
+$$ F=P\ast(1+i)^n $$

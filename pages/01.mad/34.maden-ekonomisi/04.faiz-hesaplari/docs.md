@@ -71,12 +71,9 @@ i: dönemlik faiz oranı, n: dönem sayısı, P: paranın bugünkü değeri, F: 
 ##### Örnek
 Günümüzde 75000 TL olarak yılda %20 faizle alınan bir paranın 5 yıl sonraki ödemesi ne kadar olur?
 
-P = 75000 TL
-i = 20% - YIL
-n = 5 YIL
-A = 0 ise F=?
+P = 75000 TL, i = 20% - yıl, n = 5 yıl, A = 0 ise F=?
 
-F= 75000*0,2*5*75000 = 150000 TL
+$ F=\;75000\ast0,2\ast5\ast75000\;=\;150000\;TL $
 
 ### Nakit Akış Diyagramları
 Net Nakit Akışı = Gelirler - Giderler

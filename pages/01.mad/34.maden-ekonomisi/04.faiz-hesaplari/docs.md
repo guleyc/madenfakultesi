@@ -1,5 +1,6 @@
 ---
 title: 'Faiz Hesapları'
+media_order: 'nakitakisornek.png,esdegerlilikornek.png'
 twitterenable: false
 twittercardoptions: summary
 articleenabled: false
@@ -26,11 +27,7 @@ FO= 1750*100/10000 = 17,5%
 ### Eşdeğerlilik
 Paranın farklı zamanlardaki miktarlarının faiz ve/veya enflasyon değerlerinde hareket ederek eşitlenmesidir.
 
-2011		2012		2013
-	%10 ENF.	%8 ENF.
-    %4 FAİZ		%3 FAİZ
-8772		10000		11000
-10000/1,14				1,1*10000
+![](esdegerlilikornek.png)
 
 ### Basit Faiz Hesapları
 Daha önce gerçekleşen faiz değerlerini dikkate almadan, sadece ana para üzerinden gerçekleştirilen faiz hesaplarına basit faiz denir.
@@ -87,9 +84,12 @@ Net Nakit Akışı = Gelirler - Giderler
 #### Örnek
 Günümüzde 75000 TL olarak yılda %20 faizle alınan bir paranın 5 yıl sonraki ödemesi ne kadar olur sorusuna ait diagramı çizin.
 
-+l
- l	P=75000 TL						ZAMAN
- l----- 1 ----- 2 ----- 3 ----- 4 ----- 5
- l									F=150000 TL
--l
+![](nakitakisornek.png)
 
+## Bileşik Faiz Faktörleri ve Kullanımları
+
+1) Tek Ödeme Bileşik Değer Formülleri
+
+Aşağıda verilen formül bugünkü değeri P olan ve n sene boyunca i oranından faize yatırılan paranın n sene sonraki F değerini bulmada kullanılır.
+
+$ F=P\ast(1+i)^n

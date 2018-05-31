@@ -14,7 +14,9 @@ facebookenable: false
 creator: guleyc
 ---
 
-[ui-callout][ui-callout-item title="Outlines" position="50%, 50%, se"][/ui-callout-item][/ui-callout]## Lorem
+[ui-callout][ui-callout-item title="Outlines" position="50%, 50%, se"][/ui-callout-item][/ui-callout]
+
+## Lorem
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut consequat, purus vitae facilisis viverra, quam mauris convallis quam, a laoreet mauris nunc id neque. Cras commodo, dui a tincidunt aliquam, eros velit cursus lorem, id eleifend est risus nec leo. Maecenas sed posuere magna, vitae lacinia nulla. Fusce mauris leo, fringilla eget consequat id, luctus eu diam. Duis ac velit quam. Nam sit amet elementum nisi, vel sodales ipsum. Maecenas condimentum nunc iaculis sapien facilisis, vitae pellentesque lorem condimentum. Maecenas venenatis varius porta. Pellentesque nisi leo, egestas et tortor ac, feugiat euismod massa. Praesent a mi posuere, consectetur dui et, blandit enim. Mauris convallis id sapien vel semper. Vivamus et orci ultricies, dapibus nulla id, gravida lacus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna erat, pellentesque eu tellus et, ullamcorper suscipit magna. Vestibulum ac sagittis eros.
 

@@ -32,7 +32,7 @@ Paranın farklı zamanlardaki miktarlarının faiz ve/veya enflasyon değerlerin
 ### Basit Faiz Hesapları
 Daha önce gerçekleşen faiz değerlerini dikkate almadan, sadece ana para üzerinden gerçekleştirilen faiz hesaplarına basit faiz denir.
 
-$ Basit\;Faiz\;=\;Ana\;Para\;\ast\;Peryod\;Say\i s\i\;\ast\;Faiz\;Oran\i $
+$ Basit\;Faiz\;=\;Ana\;Para\;\times\;Periyod\;Sayisi\;\times\;Faiz\;Orani $
 
 #### Örnek
 5 yıllığına yılda %12 faiz oranı ile alınan 25000 TL borcun beş yıl sonraki ödemesi ne kadar olur?

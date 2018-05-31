@@ -20,9 +20,9 @@ Faiz Oranı (%) = Birim Zamanda Gerçekleşen Faiz*100 / İlk Miktar
 #### Örnek
 Bir yıl önce bugün 10000 TL olarak bankaya yatırılan miktar, bugün 11750 TL olarak geri alınmıştır. Faiz miktarını ve oranını yıllık bazda bulunuz.
 
-Faiz = 11750 - 10000 = 1750 TL
+$ Faiz\;=\;11750\;-\;10000\;=\;1750\;TL $
 
-FO= 1750*100/10000 = 17,5%
+$ FO=\;1750\ast100/10000\;=\;17,5\% $
 
 ### Eşdeğerlilik
 Paranın farklı zamanlardaki miktarlarının faiz ve/veya enflasyon değerlerinde hareket ederek eşitlenmesidir.
@@ -32,12 +32,12 @@ Paranın farklı zamanlardaki miktarlarının faiz ve/veya enflasyon değerlerin
 ### Basit Faiz Hesapları
 Daha önce gerçekleşen faiz değerlerini dikkate almadan, sadece ana para üzerinden gerçekleştirilen faiz hesaplarına basit faiz denir.
 
-Basit Faiz = Ana Para * Peryod Sayısı * Faiz Oranı
+$ Basit\;Faiz\;=\;Ana\;Para\;\ast\;Peryod\;Say\i s\i\;\ast\;Faiz\;Oran\i $
 
 #### Örnek
 5 yıllığına yılda %12 faiz oranı ile alınan 25000 TL borcun beş yıl sonraki ödemesi ne kadar olur?
 
-Ödeme = 25000*5*0,12+25000 = 40000 TL
+$ Ödeme\;=\;25000\ast5\ast0,12+25000\;=\;40000\;TL $
 
 | Yıl Sonu | Alınan Borç | Faiz Miktarı | Borç Miktarı | Ödeme |
 | ----- | ----- | ----- | ---- | ---- |

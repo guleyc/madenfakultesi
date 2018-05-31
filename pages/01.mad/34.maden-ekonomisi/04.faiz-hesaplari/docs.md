@@ -15,7 +15,7 @@ facebookenable: false
 Bir zaman dilimi sonunda para miktarında meydana gelen artışa faiz denir. Faiz = Günümüzde Geri Ödenen Miktar - İlk Borç
 
 #### Faiz Oranı
-Faiz Oranı (%) = Birim Zamanda Gerçekleşen Faiz*100 / İlk Miktar
+$ Faiz\;Orani\;(\%)\;=\;Birim\;Zamanda\;Gerceklesen\;Faiz\;\times100\;/\;ilk\;Miktar $
 
 #### Örnek
 Bir yıl önce bugün 10000 TL olarak bankaya yatırılan miktar, bugün 11750 TL olarak geri alınmıştır. Faiz miktarını ve oranını yıllık bazda bulunuz.

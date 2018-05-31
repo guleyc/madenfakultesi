@@ -87,9 +87,9 @@ Net Nakit Akışı = Gelirler - Giderler
 #### Örnek
 Günümüzde 75000 TL olarak yılda %20 faizle alınan bir paranın 5 yıl sonraki ödemesi ne kadar olur sorusuna ait diagramı çizin.
 
-+|
- |	P=75000 TL						ZAMAN
- |----- 1 ----- 2 ----- 3 ----- 4 ----- 5
- |									F=150000 TL
--|
++l
+ l	P=75000 TL						ZAMAN
+ l----- 1 ----- 2 ----- 3 ----- 4 ----- 5
+ l									F=150000 TL
+-l
 

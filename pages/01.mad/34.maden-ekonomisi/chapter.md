@@ -9,21 +9,10 @@ twitterenable: true
 twittercardoptions: summary
 twitterdescription: 'Temel ekonometrik kavramlar, yatırım ve gider tanımlamaları, maliyet projeksyonları, amortisman hesapları ve uygulamaları, paranın zaman değeri, faiz hesapları, yatırım projelerinin ekonomiklilklerinin değerlendirilmesi, maden yatırımlarının ekonomikliğinin araştırılması ve yapılabilirlik etüdleri, madencilikte risk.'
 articleenabled: false
-musiceventenabled: false
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
-eventenabled: false
-personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 facebookenable: true
 ---
 

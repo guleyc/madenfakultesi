@@ -20,7 +20,7 @@ Hizmet verdiği alanlar;
 * Altın, Platin ve Değerli Metaller üretimine Yönelik Zenginleştirme
 * Demir-çelik
 * Cam, seramik
-* &Ccedil;imento
+* Çimento
 * Gübre, Yem,
 * Deterjan, Boya
 * İnşaat agrega malzemeleri
@@ -115,6 +115,7 @@ Giderler Tesise Nakil 2.5$ Hazırlama 21$ Toplam 78.5 $
 
 1 ton cevherden elde edilen kar: 123.75-78.5 = 45.25 $ 78.5/9.9 = 7.3 $ Başabaş noktası
 Gider ve Cevher özellikleri aynı kalmak koşuluyla, altın fiatlarındaki değişim şu şekilde olur.
+![](Picture1.png)
 
 örnek 2: % 3 Sb içeren bir antimuan cevherinde Sb oranı cevher hazırlama işlemleriyle % 65'e çıkarılmaktadır. Aşağıda verilen bilgiler ışığında
 

@@ -25,5 +25,4 @@ content:
 ### [Başa Baş Nokta Analizi](/mad/maden-ekonomisi/basa-bas-noktasi-analizi.html)
 ### [Amortisman](/mad/maden-ekonomisi/amortisman.html)
 ### [Faiz Hesapları](/mad/maden-ekonomisi/faiz-hesaplari.html)
-
-[ui-browser address="https://google.com"][/browser]
+[ui-tabs position="top-left" active="0" theme="lite"][ui-tab title="deneme"]selam[/ui-tab][/ui-tabs]

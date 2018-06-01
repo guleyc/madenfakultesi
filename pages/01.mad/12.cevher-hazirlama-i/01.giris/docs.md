@@ -160,7 +160,7 @@ b) % 65'lik konsantreden 1 kg Sb metali eldesi için yapılan masraf : 0.4 USD/k
 % 3'lük cevherden 1 kg % 65'lik konsantre elde etmek için yapılan masraf: 0.15 USD/kg 
 Satış: 1 kg Sb metali satış fiyatı : 2.9 USD/kg
 
-Çözüm 2:
+#### Çözüm:
 
 ##### A- Doğrudan İzabeye verilmesi Halinde(1ton cevher esas alınarak) Giderler 
 * Ocak üretim Gideri: 28.5x1.0=28.5 USD 

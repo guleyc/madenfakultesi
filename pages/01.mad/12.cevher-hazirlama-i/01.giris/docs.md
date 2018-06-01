@@ -108,14 +108,22 @@ Boyut Küçültme, Boyuta göre sınıflandırma enerji yoğun proses kademeleri
 Cevher karakteristiklerinin (mineralojik, fiziksel) belirlenmesi, En uygun makina teçhizatın seçilmesi, En uygun proses kademelerinin tasarımlandırılması gerekmektedir. Cevher hazırlama uygulanması ile bir takım ek giderler ve malzeme kayıpları oluşmaktadır. Buna karşılık bazı kazançlar ve tüketimde kolaylılıklar söz konusu olmaktadır. Örneğin; Bir yanda 1- Hazırlama ve Zenginleştirme Giderleri 2- Hazırlama ve Zenginleştirme Kayıpları. Öte yanda 1- Nakliyeden Tasarruf 2- Bir sonraki işlemlerin kolaylaştırılması (örneğin izabe kayıplarını azalması, izabenin kolaylaşması, izabeye giren miktarda azalma, daha küçük bir izabe tesisi) 3- Tüketim giderlerinin azaltılması ile elde edilen tasarruf.
 
 Tüm bunları cevher üzerinde verilecek örnekler ile açıklamak gerekirse;
-örnek 1: Tonda 11 gram altın içeren bir altın cevherine ait bilgiler aşağıda verilmektedir. 1 ton cevherin ocak başı maliyeti : 55 $ 1 ton cevherin hazırlama tesisine nakli : 2.5$ 1 ton cevherin cevher hazırlama gideri : 21 $ 1 ton cevherden zenginleştirme sonucu alınan altın : 9.9 gram 1 gram altının cari piyasa değeri : 12.5 $
+[ui-accordion independent=true open=none][ui-accordion-item title="Örnek 1"]
+Tonda 11 gram altın içeren bir altın cevherine ait bilgiler aşağıda verilmektedir. 
+1 ton cevherin ocak başı maliyeti : 55 $ 
+1 ton cevherin hazırlama tesisine nakli : 2.5$ 
+1 ton cevherin cevher hazırlama gideri : 21$ 
+1 ton cevherden zenginleştirme sonucu alınan altın : 9.9 gram 1 gram altının cari piyasa değeri : 12.5$
+
 Bu verilerin ışığı altında 1 ton cevher için: 
-Gelirler Üretim 55 $ 9.9 x 12.5 = 123.75 $ 
-Giderler Tesise Nakil 2.5$ Hazırlama 21$ Toplam 78.5 $
+Gelirler Üretim 55 $ 9.9 x 12.5 = 123.75$ 
+Giderler Tesise Nakil 2.5$ Hazırlama 21$ Toplam 78.5$
 
 1 ton cevherden elde edilen kar: 123.75-78.5 = 45.25 $ 78.5/9.9 = 7.3 $ Başabaş noktası
 Gider ve Cevher özellikleri aynı kalmak koşuluyla, altın fiatlarındaki değişim şu şekilde olur.
 ![](Picture1.png)
+
+[/ui-accordion-item][/ui-accordion]
 
 örnek 2: % 3 Sb içeren bir antimuan cevherinde Sb oranı cevher hazırlama işlemleriyle % 65'e çıkarılmaktadır. Aşağıda verilen bilgiler ışığında
 

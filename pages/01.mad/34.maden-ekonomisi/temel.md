@@ -27,4 +27,4 @@ content:
 ### [Amortisman](/mad/maden-ekonomisi/amortisman.html)
 ### [Faiz Hesapları](/mad/maden-ekonomisi/faiz-hesaplari.html)
 
-[ui-image-compare]![Image to Compare](IMG_1952.JPG)[/ui-image-compare]!
+[ui-image-compare]![Image to Compare](IMG_1952.JPG)[/ui-image-compare]

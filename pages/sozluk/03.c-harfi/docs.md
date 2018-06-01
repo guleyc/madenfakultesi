@@ -10,120 +10,140 @@ orgaratingenabled: false
 facebookenable: false
 ---
 
-CAM, 1) Silis veya bor anhidriti gibi cam haline gelebilen, alkaliler gibi kolay eriyen ve kireç gibi dayanıklılığı arttırıcı elementlerden meydana gelmiŞ bir karıŞımın ergitilmesiyle yapılan saydam ve çabuk kırılan madde. 2) Sırça. 3) Kadeh.
+## CAM
+1) Silis veya bor anhidriti gibi cam haline gelebilen, alkaliler gibi kolay eriyen ve kireç gibi dayanıklılığı arttırıcı elementlerden meydana gelmiş bir karışımın ergitilmesiyle yapılan saydam ve çabuk kırılan madde. 2) Sırça. 3) Kadeh.
 
-CAMBO, —> Jumbo.
+## CAMBO
+—> Jumbo.
 
-CAM CİLA, Saydam minerallerinin çoğunda bulunan cila olup cam, dağ kristali, barit ve birçok silikatlar bu görünümü verirler.—> Minerallerin parlaklığı.
+## CAM CİLA
+Saydam minerallerinin çoğunda bulunan cila olup cam, dağ kristali, barit ve birçok silikatlar bu görünümü verirler.—> Minerallerin parlaklığı.
 
-CAM İPLİĞİ, —> Cam yününden veya pamuğundan, normal iplik yapım sistemlerine göre çekilmiŞ veya süzgeçlerden basınç altında elde edilmiŞ cam iplik. Cam maddesi inceldikçe elastikiyet kazanır. Bu özellikten dolayı, yaklaŞık 0,5 mikron incelikteki cam iplikleri birbirleriyle katlayarak bükmek ve istenilen kalınlığa getirmek mümkündür. Cam ipliği sanayide özel Şekilde yapılmıŞ süs veya kadın eŞyaları dokunmasında kullanılmakta ve bazen de fantezi iplik yapımında diğer mensucat ham maddeleriyle karıŞtırılabilmektedir.
+## CAM İPLİĞİ
+—> Cam yününden veya pamuğundan, normal iplik yapım sistemlerine göre çekilmiş veya süzgeçlerden basınç altında elde edilmiş cam iplik. Cam maddesi inceldikçe elastikiyet kazanır. Bu özellikten dolayı, yaklaşık 0,5 mikron incelikteki cam iplikleri birbirleriyle katlayarak bükmek ve istenilen kalınlığa getirmek mümkündür. Cam ipliği sanayide özel şekilde yapılmış süs veya kadın eşyaları dokunmasında kullanılmakta ve bazen de fantezi iplik yapımında diğer mensucat ham maddeleriyle karıştırılabilmektedir.
 
-CAM PAMUĞU, Pamuk yığını halinde elde edilmiŞ cam lifi. Cam pamuğu, erimiŞ cam kitlesinin 1500-1700°C arası sıcaklıkta ve yüksek basınçla gayet ince delikli (takriben 0,5-4 mikron) eleklerden geçirilmesiyle elde edilir. Lif haline gelen camın, süzgeç deliklerinden fıŞkırma hızı dakikada yaklaŞık 21.000m. olmalı ve çıkan lifler dönen bir Şerit üzerine düŞerek fırın ağzından derhal uzaklaŞtırılmalıdır. Pamuk yığını görünüŞünde olan cam pamuğundan, normal iplik yapma sistemleri ile iplik yapılabildiği gibi, ısıyı ve elektiği iletmediği için kurutma sobalarında veya buzdolaplarında izolan olarak kullanılabilir.
+## CAM PAMUĞU
+Pamuk yığını halinde elde edilmiş cam lifi. Cam pamuğu, erimiş cam kitlesinin 1500-1700°C arası sıcaklıkta ve yüksek basınçla gayet ince delikli (takriben 0,5-4 mikron) eleklerden geçirilmesiyle elde edilir. Lif haline gelen camın, süzgeç deliklerinden fışkırma hızı dakikada yaklaşık 21.000m. olmalı ve çıkan lifler dönen bir şerit üzerine düşerek fırın ağzından derhal uzaklaştırılmalıdır. Pamuk yığını görünüşünde olan cam pamuğundan, normal iplik yapma sistemleri ile iplik yapılabildiği gibi, ısıyı ve elektiği iletmediği için kurutma sobalarında veya buzdolaplarında izolan olarak kullanılabilir.
 
-CAM YÜNÜ, İnce elyaf haline getirilmiŞ cam yığını. Elyaf incelikleri 3-4 mikron arasında değiŞir. Bu malzemenin ısıya karŞı kötü iletken olması izolan olarak kullanılmasını sağlar.
+## CAM YÜNÜ
+İnce elyaf haline getirilmiş cam yığını. Elyaf incelikleri 3-4 mikron arasında değişir. Bu malzemenin ısıya karşı kötü iletken olması izolan olarak kullanılmasını sağlar.
 
-CANAVAR DÜDÜĞÜ, 1) İçinden hava ya da buhar geçince uyarıcı ses çıkaran ve uzaklara kadar tehlike iŞareti vermek için kullanılan araç. 2) Siren.
+## CANAVAR DÜDÜĞÜ
+1) İçinden hava ya da buhar geçince uyarıcı ses çıkaran ve uzaklara kadar tehlike işareti vermek için kullanılan araç. 2) Siren.
 
-CAP ROCK (Keprok), Petrol, gaz, tuz domu yataklarını örten geçirimsiz örtü tabakası.  —> Petrol yatakları. —> Örtü tabakası.
+## CAP ROCK (Keprok)
+Petrol, gaz, tuz domu yataklarını örten geçirimsiz örtü tabakası.  —> Petrol yatakları. —> Örtü tabakası.
 
-CARALOX, —> Korund.
+## CARALOX
+—> Korund.
 
-CARDOX SİSTEMİ, —> Kardoks yöntemi.
+## CARDOX SİSTEMİ
+—> Kardoks yöntemi.
 
-CASİNG, —> Muhafaza borusu.
+## CASİNG
+—> Muhafaza borusu.
 
-CEBİRE, Rayları birbirine bağlamaya yarayan pabuç.
+## CEBİRE
+Rayları birbirine bağlamaya yarayan pabuç.
 
-CEBRİ HAVALANDIRMA, —> Tali havalandırma.
+## CEBRİ HAVALANDIRMA
+—> Tali havalandırma.
 
-CEP, 1) Her tip galeri, varagel, vinç dip ve baŞlarıyla ara katlarda; korunma, malzeme koyma vb. amaçlarla genellikle bu galeri istikametine dik istikamette açılan kısa ve kör rekup veya sığınılabilecek boyuttaki yuva. 2) Petrol, doğalgaz ve cevher yataklarında ana kütleden ayrı veya bağlantılı olarak teŞekkül etmiŞ küçük zuhur. 3) —> NiŞ.
+## CEP
+1) Her tip galeri, varagel, vinç dip ve başlarıyla ara katlarda; korunma, malzeme koyma vb. amaçlarla genellikle bu galeri istikametine dik istikamette açılan kısa ve kör rekup veya sığınılabilecek boyuttaki yuva. 2) Petrol, doğalgaz ve cevher yataklarında ana kütleden ayrı veya bağlantılı olarak teşekkül etmiş küçük zuhur. 3) —> Niş.
 
-CEP SANTRALI, —> Kojenerasyon sistemi.
+## CEP SANTRALI
+—> Kojenerasyon sistemi.
 
-CER HALATI, Varagel ve vinçte yükü (arabaları) çeken halat.
+## CER HALATI
+Varagel ve vinçte yükü (arabaları) çeken halat.
 
-CER KUESİ, Havai hatların taşıyıcı halatlarını gerdirmeye yarayan, özel Şekilde hazırlanmıŞ çelik konstrüksiyon pilon.
+## CER KUESİ
+Havai hatların taşıyıcı halatlarını gerdirmeye yarayan, özel şekilde hazırlanmış çelik konstrüksiyon pilon.
 
-CER MAKARASI, —> Molet.
+## CER MAKARASI
+—> Molet.
 
-CEVHER, Doğrudan doğruya veya bazı iŞlemler sonucu zenginleŞtirilerek endüstride tüketim yeri bulunabilen ve ekonomik değeri olan bir veya birkaç mineralden oluŞmuŞ kayaç. Cevher, metal üretiminin hammaddesini teŞkil eder. Değerli mineraller metalik elementleri içermiyorsa cevher tabiri yerine endüstriyel hammadde deyimi kullanılır.
+## CEVHER
+Doğrudan doğruya veya bazı işlemler sonucu zenginleştirilerek endüstride tüketim yeri bulunabilen ve ekonomik değeri olan bir veya birkaç mineralden oluşmuş kayaç. Cevher, metal üretiminin hammaddesini teşkil eder. Değerli mineraller metalik elementleri içermiyorsa cevher tabiri yerine endüstriyel hammadde deyimi kullanılır.
 
-CEVHER HAZIRLAMA, Cevheri, zenginleŞtir-meye hazır duruma getirebilmek amacıyla yapılan; kırma, öğütme, tane büyüklüğüne göre sınıflan-dırma gibi iŞlemler topluluğu.
+## CEVHER HAZIRLAMA
+Cevheri, zenginleştirmeye hazır duruma getirebilmek amacıyla yapılan; kırma, öğütme, tane büyüklüğüne göre sınıflan-dırma gibi işlemler topluluğu.
 
-CEVHER ZENGİNLEŞTİRME, Cevher hazırlama iŞlemlerine tabi olmuŞ ürünün; flotasyon, ağır mayi, manyetik, elektrostatik vb. usullerin uygulanması suretiyle metalurjik iŞlemler yapılabilir veya satılabilir niteliğe getirilmesini sağlamak amacıyla yapılması gereken iŞlemler topluluğu.
+## CEVHER ZENGİNLEŞTİRME
+Cevher hazırlama işlemlerine tabi olmuş ürünün; flotasyon, ağır mayi, manyetik, elektrostatik vb. usullerin uygulanması suretiyle metalurjik işlemler yapılabilir veya satılabilir niteliğe getirilmesini sağlamak amacıyla yapılması gereken işlemler topluluğu.
 
-CEVHER ZENGİNLEŞTİRME EĞRİSİ, —> Yıkama eğrileri.
+## CEVHER ZENGİNLEŞTİRME EĞRİSİ
+—> Yıkama eğrileri.
 
-CEVİZ, —> Satılabilir.
+## CEVİZ
+—> Satılabilir.
 
-CHANGE KUM KONİSİ, Derin ağır ortam (ağır mayi) ayırıcısı.—> Statik ağır ortam (ağır mayi) ayırıcıları, —> Kömür yıkama yöntemleri —> Şekil.
+## CHANGE KUM KONİSİ
+Derin ağır ortam (ağır mayi) ayırıcısı.—> Statik ağır ortam (ağır mayi) ayırıcıları, —> Kömür yıkama yöntemleri —> şekil.
 
- 
- 	
- 
+## CHARLES GENEL KIRILMA KANUNU
+Kırılma hakkında yalnızca belirli kırılma şartlarını karşılayan;—> Rittinger, —> Bond ve  —> Kick kanunlarını genel bir diferansiyel denklemle ifade eden bir kırılma kanunu.
 
- 
+## CFR (COST AND FREIGHT- MAL BEDELİ VE NAVLUN)
+İşleme konu olan malların belirtilen varış yerine kadar taşınması için gerekli olan masrafları ve navlun bedelini satıcının ödemesi anlamına gelen uluslararası ticaret kavramı. Ancak CFR anlaşmasında, mallara ilişkin kayıp ve hasar riski ile birlikte, malların gemi bordasına aktarılmasından itibaren meydana gelebilecek olaylardan kaynaklanan bütün ek masraflar, mallar yükleme limanında gemi bordasına geçtiği andan itibaren satıcıdan alıcıya devrolur. CFR terimi, malların ihraç işlemlerinin satıcı tarafından yapılmasını öngörür. (Incoterms 1990).
 
-CHARLES GENEL KIRILMA KANUNU, Kırılma hakkında yalnızca belirli kırılma Şartlarını karŞılayan;—> Rittinger, —> Bond ve  —> Kick kanunlarını genel bir diferansiyel denklemle ifade eden bir kırılma kanunu:
+## CIF (COST, INSURANCE AND FREIGHT-MAL BEDELİ SİGORTA  VE  NAVLUN)
+—> CFR terimindeki yükümlülüklerine ek olarak taşıma sırasında malların kayıp ve hasar riskine karşı deniz sigortası yaptırma yükümlüğünü ifade eden uluslararası ticaret terimi. Alıcının, CIF anlaşmasında dikkate alması gereken husus, satıcının asgari düzeyde bir sigorta yaptırabileceğinin beklenmesidir. CIF terimi, malların ihraç işlemlerinin satıcı tarafından yapılmasını öngörür. (Incoterms 1990).
 
-                      d(d)
+## CLAUS YÖNTEMİ
+—> Kükürt.
 
-A=ƒ   - C ———— kwh / t,
+## CIP (CARRİAGE AND INSURANCE PAİD TO - TAŞIMA VE SİGORTA BEDELİ ÖDENMİŞ OLARAK TESLİM)
+Satıcının— —> CPT teriminde belirtilen yükümlülüklerine ek olarak; malların taşınması sırasında kayıp ve hasar riskine karşı alıcıya yük sigortası sağlama zorunda olduğu durumunu ifade eden uluslararası ticaret terimi. Diğer bir deyişle; satıcı, sigorta sözleşmesini akdeder ve sigorta primini öder. Ancak; alıcı; asgari sigorta kapsamına göre, sigorta işleminin yapılacağını dikkate almalıdır. CIP terimi, malların ihraç çıkış işlemlerinin satıcı tarafından yapılmasını öngörür. (Incoterms 1990).
 
-        d 01            da
+## CIP-YÖNTEMİ
+—> Karbon in pulp yöntemi.
 
-burada C ve a, ıntegrasyon için aynı zamanda değiŞken kabul  edilen yalnız kaba çözümler için sabite olarak kabul edilen değerler,
+## CIVA (Hg)
+Özgül ağırlığı 13,6 gr/cm3, atom numarası 80, atom ağırlığı 200,61 olan ve normal ısıda sıvı halinde bulunan gümüş renkli metal. Cıva yalnız ısıtıldığında değil, normal sıcaklıkta da zehirli buhar çıkartır. Cıvanın en önemli minerali sinober (HgS) dir. Termometre, barometre, vakum tulumbaları, cıva buharlı lambalar ve redresörlerde cıva kullanılır. Ayrıca aynaların sırlanmasında, altın ve gümüş üretiminde, tıpta tedavi maddesi olarak cıvadan faydalanılır. Cıva elde edilmesi, prensipte civanın 400°C cıvarında buharlaştırılarak soğutulması esasına dayanır. Dünya cıva ticareti, sinober cevheri olarak değil,özel olarak imal edilmiş metal şişeler içinde ve 76 pound olarak yapılır ve üretim miktarı ve rezervler de şişe olarak ifade edilir. İlk üretim (birincil) cıva metalinin % 99,9 derecesinde saf, temiz ve parlak bir görüntüye sahip olması, diğer baz metallerin bünyesinde 1 ppm (part per million)’den az olması istenir ve bu durum da her türlü kullanım alanında ticari işlem görür. Daha saf cıvanın elde edilmesi için birkaç kademeli destilasyon işlemine ve elektrolitik rafinasyona tabi tutulması gerekir. 1970’li yıllarda cıva fiyatlarındaki dalgalanmaları önlemek, arz ve talep dengesini sağlamak amacıyla ASSIMER (Assocition of Mercury Producer), Meksika, Cezayir, İtalya, Ispanya ve Yugoslavya’nın katılımıyla kurulmuş, fakat aktif olamamıştır.
 
-d01 : Besleme malın ortalama tane iriliğini,
+## CIVATA
+Birbirine bağlanmak istenen ağaç veya metal parçalar üzerinde hazırlanmış olan deliğe yerleştirilerek somunu sıkılmak suretiyle bağlamayı sağlayan tesbit ve ekleme parçası. Cıvataların tesir tarzı, vidalar ve kamalarda olduğu gibi eğik düzlem kanunlarına dayanır. Cıvata dişleri üçgen, yuvarlak, trapez, testere vb. şekillerde tek ağızlı (tek helezon), iki ağızlı (çift helezon) olarak da yapılır. Cıvatanın başı altı köşe, çekiç, silindirik veya yarım yuvarlak olabilir. Başının şekline göre altı köşe-, çekiç-havşe-, dörtköşe-, gömme (havşe)-, gömme ve mercimek-, ve yarım yuvarlak başlı cıvata vb. şeklinde isimlendirilir.
 
-d02 : KırılmıŞ malın ortalama tane iriliğini ifade
+## CİLA
+1) Bir yüzeyi dış etkenlerden (yağmur, su, sıcaklık gibi) korumak ve, veya parlaklık gibi güzel bir görünüm vermek için kullanılan kimyasal bileşik. 2) Parlaklık. Cilalı (parlak) yüzeylerin ayırımını ve tarifini yapabilmek ve ayrıca minerallerin doğal görünümünü belirtmek için kullanılan kelime.  —> Minerallerin parlaklığı.
 
-        eder.
+## CİLALI  PLAK
+Mermer işletmeciliğinde perdahlı plâkların cilâ makinalarında cilâ taşı ve cilâ malzemesiyle cilâlanmış hali.
 
-Bu formülden a=2 için —> Rittinger, a= 1 için —> Kick, a= 1,5 için —> Bond kanunu elde edilir. Kırılmada a değeri yalnız 1, 1,5 veya 2 değerlerini değil, kırılma Şartlarına bağlı olarak 1 ile 2 arasındaki bütün değerleri alabilir.
+## CMC
+İçine büyük miktarda alkali ve toprak alkali tuzlar karışan sondaj çamurunun bozulan özelliğini düzelten bir bakıma çamuru stabilize eden bir kimyevi madde olup, kimyasal ismi karboksimetilselülöz’dür.
 
-CFR (COST AND FREIGHT- MAL BEDELİ VE NAVLUN), İŞleme konu olan malların belirtilen varıŞ yerine kadar taŞınması için gerekli olan masrafları ve navlun bedelini satıcının ödemesi anlamına gelen uluslararası ticaret kavramı. Ancak CFR anlaŞmasında, mallara iliŞkin kayıp ve hasar riski ile birlikte, malların gemi bordasına aktarılmasından itibaren meydana gelebilecek olaylardan kaynaklanan bütün ek masraflar, mallar yükleme limanında gemi bordasına geçtiği andan itibaren satıcıdan alıcıya devrolur. CFR terimi, malların ihraç iŞlemlerinin satıcı tarafından yapılmasını öngörür. (Incoterms 1990).
+## COĞRAFİ İŞARETLER
+—> Patent.
 
-CIF (COST, INSURANCE AND FREIGHT-MAL BEDELİ SİGORTA  VE  NAVLUN), —> CFR terimindeki yükümlülüklerine ek olarak taŞıma sırasında malların kayıp ve hasar riskine karŞı deniz sigortası yaptırma yükümlüğünü ifade eden uluslararası ticaret terimi. Alıcının, CIF anlaŞmasında dikkate alması gereken husus, satıcının asgari düzeyde bir sigorta yaptırabileceğinin beklenmesidir. CIF terimi, malların ihraç iŞlemlerinin satıcı tarafından yapılmasını öngörür. (Incoterms 1990).
+## CONTA
+İçerisinden sıvı, buhar, basınçlı hava ve gaz nakledilecek olan boruların ve bu nevi maddelerin içinde saklanacağı veya sıkıştırılacağı muhafaza düzenlerinin parçaları arasında sızdırma ve kaçağı önlemek (geçirmezliği sağlamak) amacıyla kullanılan lastik, plastik, bakır, kurşun, bazı alaşımlar, mantar, amyant, klingirit vb. maddelerden imal edilmiş malzeme.
 
-CLAUS YÖNTEMİ,—> Kükürt.
+## COREX YÖNTEMİ
+Demir-çelik üretiminde yüksek fırın teknolojisine alternatif olarak geliştirilen çelik üretimine yönelik bir direkt ergitmeli redüksiyon prosesi. —> Yüksek fırın prosesine benzeyen bu yöntem koklaşamayan kömüre dayalı sıcak metal üretimi yapar. Corex prosesinde kok fabrikası ortadan kalktığı için maliyeti oldukça düşüktür. Corex yöntemine göre çalışan tesis ilk olarak Güney Afrika, Iscor-Pretoria işletmelerinde kurulmuştur.
 
-CIP (CARRİAGE AND INSURANCE PAİD TO - TAŞIMA VE SİGORTA BEDELİ ÖDENMİŞ OLARAK TESLİM), Satıcının— —> CPT teriminde belirtilen yükümlülüklerine ek olarak; malların taŞınması sırasında kayıp ve hasar riskine karŞı alıcıya yük sigortası sağlama zorunda olduğu durumunu ifade eden uluslararası ticaret terimi. Diğer bir deyiŞle; satıcı, sigorta sözleŞmesini akdeder ve sigorta primini öder. Ancak; alıcı; asgari sigorta kapsamına göre, sigorta iŞleminin yapılacağını dikkate almalıdır. CIP terimi, malların ihraç çıkıŞ iŞlemlerinin satıcı tarafından yapılmasını öngörür. (Incoterms 1990).
+## COWARD ÜÇGENİ
+Metan, oksijen ve azot karışımlarından oluşan grizu ortamını gösteren patlama diyagramı. —> şekil.
 
-CIP-YÖNTEMİ, —> Karbon in pulp yöntemi.
+## CPM
+Kritik Yol Metodu (Critical Path Method) deyiminin kısaltılması. —> Kritik yol metodu. Şebeke planlaması.
 
-CIVA (Hg), Özgül ağırlığı 13,6 gr/cm3, atom numarası 80, atom ağırlığı 200,61 olan ve normal ısıda sıvı halinde bulunan gümüŞ renkli metal. Cıva yalnız ısıtıldığında değil, normal sıcaklıkta da zehirli buhar çıkartır. Cıvanın en önemli minerali sinober (HgS) dir. Termometre, barometre, vakum tulumbaları, cıva buharlı lambalar ve redresörlerde cıva kullanılır. Ayrıca aynaların sırlanmasında, altın ve gümüŞ üretiminde, tıpta tedavi maddesi olarak cıvadan faydalanılır. Cıva elde edilmesi, prensipte civanın 400°C cıvarında buharlaŞtırılarak soğutulması esasına dayanır. Dünya cıva ticareti, sinober cevheri olarak değil,özel olarak imal edilmiŞ metal ŞiŞeler içinde ve 76 pound olarak yapılır ve üretim miktarı ve rezervler de ŞiŞe olarak ifade edilir.
+## CPT (TAŞIMA ÜCRETİ ÖDENMİŞ OLARAK TESLİM)
+Malların belirlenen varış yerine taşınmasında navlunun satıcı tarafından ödendiğini ifade eden uluslararası ticaret terimi. CPT anlaşmasında, malların taşıyıcıya aktarılmasından sonra mallarla ilgili kayıp ve hasar riski ayrıca bu teslim işleminden sonra meydana gelebilecek olayların yarattığı bütün ek masraflar satıcıdan alıcının üzerine geçer. “ Taşıyıcı” bir taşıma sözleşmesi çerçevesinde malların demiryolu, karayolu, denizyolu, havayolu, nehir ya da bunlardan bazılarının birarada kullanılmasıyla taşınması işlemini bizzat üzerine alan ya da bunu yapma taahhüdünde bulunan herhangi bir şahsı tanımlar. Eğer malların belirlenen varış yerine ulaştırılması için birbiri ardına taşıyıcılar kullanılıyorsa, birlikte risk de devredilmiş olur. CPT terimi, malların gümrük çıkış işlemlerinin satıcı tarafından tamamlanmasını öngörür (Incoterms, 1990).
 
-İlk üretim (birincil) cıva metalinin % 99,9 derecesinde saf, temiz ve parlak bir görüntüye sahip olması, diğer baz metallerin bünyesinde 1 ppm (part per million)’den az olması istenir ve bu durum da her türlü kullanım alanında ticari iŞlem görür. Daha saf cıvanın elde edilmesi için birkaç kademeli destilasyon iŞlemine ve elektrolitik rafinasyona tabi tutulması gerekir. 1970’li yıllarda cıva fiyatlarındaki dalgalanmaları önlemek, arz ve talep dengesini sağlamak amacıyla ASSIMER (Assocition of Mercury Producer), Meksika, Cezayir, İtalya, Ispanya ve Yugoslavya’nın katılımıyla kurulmuŞ, fakat aktif olamamıŞtır.
+## CROSS METODU
+Kesitler üzerindeki eğitim değiştiği her noktanın kotları ve baza olan yatay mesafeleri ile yapılan ve böylece alan bulmaya yönelik hesap şekli.
 
-CIVATA, Birbirine bağlanmak istenen ağaç veya metal parçalar üzerinde hazırlanmıŞ olan deliğe yerleŞtirilerek somunu sıkılmak suretiyle bağlamayı sağlayan tesbit ve ekleme parçası. Cıvataların tesir tarzı, vidalar ve kamalarda olduğu gibi eğik düzlem kanunlarına dayanır. Cıvata diŞleri üçgen, yuvarlak, trapez, testere vb. Şekillerde tek ağızlı (tek helezon), iki ağızlı (çift helezon) olarak da yapılır. Cıvatanın baŞı altı köŞe, çekiç, silindirik veya yarım yuvarlak olabilir. BaŞının Şekline göre altı köŞe-, çekiç-havŞe-, dörtköŞe-, gömme (havŞe)-, gömme ve mercimek-, ve yarım yuvarlak baŞlı cıvata vb. Şeklinde isimlendirilir.
+## CUT OFF GRADE
+1) Bir madenin üretim miktarının ayarlanması ile değişen ve ekonomik işletilebilirlik sınırını belirleyen en düşük tenör. 2) Tenörün işletilebilirlik noktası.
 
-CİLA, 1) Bir yüzeyi dıŞ etkenlerden (yağmur, su, sıcaklık gibi) korumak ve, veya parlaklık gibi güzel bir görünüm vermek için kullanılan kimyasal bileŞik. 2) Parlaklık. Cilalı (parlak) yüzeylerin ayırımını ve tarifini yapabilmek ve ayrıca minerallerin doğal görünümünü belirtmek için kullanılan kelime.  —> Minerallerin parlaklığı.
+## CÜRUF
+1) Katı yakıtların yanması sonucu artakalan, eriyip katılaşmış maddeler. 2) Metallerin izabesinde fırında en üst kısımda toplanan ve yerine göre atılan veya özel işleme tabi tutularak inşaat kumu, kaldırımtaşı, cüruf çimentosu vb. imalatta kullanılabilen artık. —> Yüksek fırın cürufu.
 
-CİLALI  PLAK, Mermer iŞletmeciliğinde perdahlı plâkların cilâ makinalarında cilâ taŞı ve cilâ malzemesiyle cilâlanmıŞ hali.
+## CÜRUF ÇİMENTOSU
+Yüksek fırın cürufların-dan da yararlanılarak imal edilen çimento.
 
-CMC, İçine büyük miktarda alkali ve toprak alkali tuzlar karıŞan sondaj çamurunun bozulan özelliğini düzelten bir bakıma çamuru stabilize eden bir kimyevi madde olup, kimyasal ismi karboksimetilselülöz’dür.
-
-COĞRAFİ İŞARETLER,  —> Patent.
-
-CONTA, İçerisinden sıvı, buhar, basınçlı hava ve gaz nakledilecek olan boruların ve bu nevi maddelerin içinde saklanacağı veya sıkıŞtırılacağı muhafaza düzenlerinin parçaları arasında sızdırma ve kaçağı önlemek (geçirmezliği sağlamak) amacıyla kullanılan lastik, plastik, bakır, kurŞun, bazı alaŞımlar, mantar, amyant, klingirit vb. maddelerden imal edilmiŞ malzeme.
-
-COREX YÖNTEMİ, Demir-çelik üretiminde yüksek fırın teknolojisine alternatif olarak geliŞtirilen çelik üretimine yönelik bir direkt ergitmeli redüksiyon prosesi. —> Yüksek fırın prosesine benzeyen bu yöntem koklaŞamayan kömüre dayalı sıcak metal üretimi yapar. Corex prosesinde kok fabrikası ortadan kalktığı için maliyeti oldukça düŞüktür. Corex yöntemine göre çalıŞan tesis ilk olarak Güney Afrika, Iscor-Pretoria iŞletmelerinde kurulmuŞtur.
-
-
-
-COWARD ÜÇGENİ, Metan, oksijen ve azot karıŞımlarından oluŞan grizu ortamını gösteren patlama diyagramı. —> Şekil.
-
-CPM, Kritik Yol Metodu (Critical Path Method) deyiminin kısaltılması. —> Kritik yol metodu. Şebeke planlaması.
-
-CPT (TAŞIMA ÜCRETİ ÖDENMİŞ OLARAK TESLİM), Malların belirlenen varıŞ yerine taŞınmasında navlunun satıcı tarafından ödendiğini ifade eden uluslararası ticaret terimi. CPT anlaŞmasında, malların taŞıyıcıya aktarılmasından sonra mallarla ilgili kayıp ve hasar riski ayrıca bu teslim iŞleminden sonra meydana gelebilecek olayların yarattığı bütün ek masraflar satıcıdan alıcının üzerine geçer. “ TaŞıyıcı” bir taŞıma sözleŞmesi çerçevesinde malların demiryolu, karayolu, denizyolu, havayolu, nehir ya da bunlardan bazılarının birarada kullanılmasıyla taŞınması iŞlemini bizzat üzerine alan ya da bunu yapma taahhüdünde bulunan herhangi bir Şahsı tanımlar. Eğer malların belirlenen varıŞ yerine ulaŞtırılması için birbiri ardına taŞıyıcılar kullanılıyorsa, birlikte risk de devredilmiŞ olur. CPT terimi, malların gümrük çıkıŞ iŞlemlerinin satıcı tarafından tamamlanmasını öngörür. (Incoterms 1990).
-
-CROSS METODU, Kesitler üzerindeki eğitim değiŞtiği her noktanın kotları ve baza olan yatay mesafeleri ile yapılan ve böylece alan bulmaya yönelik hesap Şekli.
-
-CUT OFF GRADE, 1) Bir madenin üretim miktarının ayarlanması ile değiŞen ve ekonomik iŞletilebilirlik sınırını belirleyen en düŞük tenör. 2) Tenörün iŞletilebilirlik noktası.
-
-CÜRUF, 1) Katı yakıtların yanması sonucu artakalan, eriyip katılaŞmıŞ maddeler. 2) Metallerin izabesinde fırında en üst kısımda toplanan ve yerine göre atılan veya özel iŞleme tabi tutularak inŞaat kumu, kaldırımtaŞı, cüruf çimentosu vb. imalatta kullanılabilen artık. —> Yüksek fırın cürufu.
-
-CÜRUF ÇİMENTOSU, Yüksek fırın cürufların-dan da yararlanılarak imal edilen çimento.
-
-CYMET YÖNTEMİ, Ferrik klorürün oksitleyici özelliğini kullanan hidrometalurjik prensiplerine dayalı bakır üretim yöntemi.
+## CYMET YÖNTEMİ
+Ferrik klorürün oksitleyici özelliğini kullanan hidrometalurjik prensiplerine dayalı bakır üretim yöntemi.

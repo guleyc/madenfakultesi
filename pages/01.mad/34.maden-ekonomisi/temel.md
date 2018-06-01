@@ -1,5 +1,10 @@
 ---
 title: 'Maden Ekonomisi'
+content:
+    items: '@self.modular'
+    order:
+        by: ''
+        dir: ''
 taxonomy:
     tag:
         - ekonomi

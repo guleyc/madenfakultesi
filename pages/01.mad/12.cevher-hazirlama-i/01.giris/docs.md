@@ -105,49 +105,78 @@ Zenginleştirme: Kıymetli veya kıymetsiz minerallerin, belli fiziksel ve kimya
 Konsantre Verimi (Randıman): Bir ayırma işlemi sonucunda elde edilen kıymetli üründeki (konsantre) kıymetli element veya bileşik miktarının, zenginleştirme işlemine giren üründeki kıymetli element veya bileşik miktarına oranıdır.
 
 Boyut Küçültme, Boyuta göre sınıflandırma enerji yoğun proses kademeleri olup, optimum hazırlama işlemleri için optimum enerji tüketiminin sağlanması gereklidir. Bu amaca yönelik optimum mühendislik çalışması için;
-Cevher karakteristiklerinin (mineralojik, fiziksel) belirlenmesi, En uygun makina teçhizatın seçilmesi, En uygun proses kademelerinin tasarımlandırılması gerekmektedir. Cevher hazırlama uygulanması ile bir takım ek giderler ve malzeme kayıpları oluşmaktadır. Buna karşılık bazı kazançlar ve tüketimde kolaylılıklar söz konusu olmaktadır. Örneğin; Bir yanda 1- Hazırlama ve Zenginleştirme Giderleri 2- Hazırlama ve Zenginleştirme Kayıpları. Öte yanda 1- Nakliyeden Tasarruf 2- Bir sonraki işlemlerin kolaylaştırılması (örneğin izabe kayıplarını azalması, izabenin kolaylaşması, izabeye giren miktarda azalma, daha küçük bir izabe tesisi) 3- Tüketim giderlerinin azaltılması ile elde edilen tasarruf.
+
+Cevher karakteristiklerinin (mineralojik, fiziksel) belirlenmesi, En uygun makina teçhizatın seçilmesi, En uygun proses kademelerinin tasarımlandırılması gerekmektedir. Cevher hazırlama uygulanması ile bir takım ek giderler ve malzeme kayıpları oluşmaktadır. Buna karşılık bazı kazançlar ve tüketimde kolaylılıklar söz konusu olmaktadır. 
+
+Örneğin; Bir yanda 
+1. Hazırlama ve Zenginleştirme Giderleri 
+2. Hazırlama ve Zenginleştirme Kayıpları. 
+
+Öte yanda 
+1. Nakliyeden Tasarruf 
+2. Bir sonraki işlemlerin kolaylaştırılması (örneğin izabe kayıplarını azalması, izabenin kolaylaşması, izabeye giren miktarda azalma, daha küçük bir izabe tesisi) 
+3. Tüketim giderlerinin azaltılması ile elde edilen tasarruf.
 
 Tüm bunları cevher üzerinde verilecek örnekler ile açıklamak gerekirse;
 [ui-accordion independent=true open=none][ui-accordion-item title="Örnek 1"]
 Tonda 11 gram altın içeren bir altın cevherine ait bilgiler aşağıda verilmektedir. 
-1 ton cevherin ocak başı maliyeti : 55 $ 
-1 ton cevherin hazırlama tesisine nakli : 2.5$ 
-1 ton cevherin cevher hazırlama gideri : 21$ 
-1 ton cevherden zenginleştirme sonucu alınan altın : 9.9 gram 1 gram altının cari piyasa değeri : 12.5$
+* 1 ton cevherin ocak başı maliyeti : 55 USD 
+* 1 ton cevherin hazırlama tesisine nakli : 2.5 USD 
+* 1 ton cevherin cevher hazırlama gideri : 21 USD 
+* 1 ton cevherden zenginleştirme sonucu alınan altın : 9.9 gram 1 gram altının cari piyasa değeri : 12.5 USD
 
 Bu verilerin ışığı altında 1 ton cevher için: 
-Gelirler Üretim 55 $ 9.9 x 12.5 = 123.75$ 
-Giderler Tesise Nakil 2.5$ Hazırlama 21$ Toplam 78.5$
+Gelirler 
+* Üretim 55 USD 9.9 x 12.5 = 123.75 USD 
+Giderler 
+* Tesise Nakil 2.5 USD 
+* Hazırlama 21 USD 
+* Toplam 78.5 USD
+* 1 ton cevherden elde edilen kar: 123.75-78.5 = 45.25 USD 78.5/9.9 = 7.3 USD Başabaş noktası
 
-1 ton cevherden elde edilen kar: 123.75-78.5 = 45.25 $ 78.5/9.9 = 7.3 $ Başabaş noktası
-Gider ve Cevher özellikleri aynı kalmak koşuluyla, altın fiatlarındaki değişim şu şekilde olur.
+Gider ve Cevher özellikleri aynı kalmak koşuluyla, altın fiyatlarındaki değişim şu şekilde olur.
 ![](Picture1.png)
 
 [/ui-accordion-item][/ui-accordion]
+[ui-accordion independent=true open=none][ui-accordion-item title="Örnek 2"]
 
-örnek 2: % 3 Sb içeren bir antimuan cevherinde Sb oranı cevher hazırlama işlemleriyle % 65'e çıkarılmaktadır. Aşağıda verilen bilgiler ışığında
+%3 Sb içeren bir antimuan cevherinde Sb oranı cevher hazırlama işlemleriyle % 65'e çıkarılmaktadır. Aşağıda verilen bilgiler ışığında
 
-a) Cevher Hazırlama uygulanmadan b) Cevher hazırlama uygulandıktan sonraki ekonomikliğini karşılaştırınız?. Verilenler: 1 ton cevherden izabe yolu ile 25 kg metal antimuan elde edilmektedir. 1 ton % 3'lük antimuan cevherinden cevher hazırlama işlemleri sonucunda 40 kg %65'lik konsantre elde edilmektedir. 40 kg'lık % 65'lik konsantreden izabe yolu ile 20 kg metal antimuan elde edilmektedir. 1 ton cevherin ocak başı üretim maliyeti 28.5 $ dır.
+a) Cevher Hazırlama uygulanmadan b) Cevher hazırlama uygulandıktan sonraki ekonomikliğini karşılaştırınız?. Verilenler: 1 ton cevherden izabe yolu ile 25 kg metal antimuan elde edilmektedir. 1 ton % 3'lük antimuan cevherinden cevher hazırlama işlemleri sonucunda 40 kg %65'lik konsantre elde edilmektedir. 40 kg'lık % 65'lik konsantreden izabe yolu ile 20 kg metal antimuan elde edilmektedir. 1 ton cevherin ocak başı üretim maliyeti 28.5 USD dır.
 Buna göre;
 
 Masraflar: 
 
-A- Nakliye Giderleri 
-a) Ocak-izabe 1 ton cevher nakliyatı : 4.3 $/ton 
-b) Ocak-Cevher Haz. Tesis 1 ton cevher nakliyatı : 1.7 $/ton 
-c) Cevher Haz. Tesis-İzabe 1 ton konsantre nakli : 2.9 /ton$ 
+##### A- Nakliye Giderleri 
+* Ocak-izabe 1 ton cevher nakliyatı : 4.3 USD/ton 
+* Ocak-Cevher Haz. Tesis 1 ton cevher nakliyatı : 1.7 USD/ton 
+* Cevher Haz. Tesis-İzabe 1 ton konsantre nakli : 2.9 USD/ton 
 
-B- İzabe Giderleri 
-a) % 3'lük cevherden 1 kg Sb metali eldesi için yapılan masraf :1.7 $/kg 
-b) % 65'lik konsantreden 1 kg Sb metali eldesi için yapılan masraf : 0.4 $/kg 
+##### B- İzabe Giderleri 
+a) % 3'lük cevherden 1 kg Sb metali eldesi için yapılan masraf :1.7 USD/kg 
+b) % 65'lik konsantreden 1 kg Sb metali eldesi için yapılan masraf : 0.4 USD/kg 
 
-C- Cevher Hazırlama ve Zenginleştirme Giderleri 
-% 3'lük cevherden 1 kg % 65'lik konsantre elde etmek için yapılan masraf: 0.15$/kg Satış: 1 kg Sb metali satış fiatı : 2.9 $/kg
+##### C- Cevher Hazırlama ve Zenginleştirme Giderleri 
+% 3'lük cevherden 1 kg % 65'lik konsantre elde etmek için yapılan masraf: 0.15 USD/kg 
+Satış: 1 kg Sb metali satış fiyatı : 2.9 USD/kg
 
 Çözüm 2:
 
-A- Doğrudan İzabeye verilmesi Halinde(1ton cevher esas alınarak)
-Giderler Ocak üretim Gideri: 28.5x1.0= 28.5 $ Ocak-İzabe Nakli: 4.3x1.0 = 4.3 $ İzabe Gideri: 25x1.7= 42.5 $ Toplam: 75.3 $ Gelir: 25 x 2.9 = 72.5 $ Kar: 72.5-75.3= -2.8 $ Zarar
+##### A- Doğrudan İzabeye verilmesi Halinde(1ton cevher esas alınarak) Giderler 
+* Ocak üretim Gideri: 28.5x1.0=28.5 USD 
+* Ocak-İzabe Nakli: 4.3x1.0 = 4.3 USD
+* İzabe Gideri: 25x1.7= 42.5 USD
+* Toplam: 75.3 USD
+* Gelir: 25 x 2.9 = 72.5 USD
+* Kar: 72.5-75.3= -2.8 USD (Zararda)
 
-B- Cevher Zenginleştirme İşlemi Sonucunda İzabeye verilmesi Durumunda (1 ton cevher için)
-Giderler Ocak üretim Gideri : 28.5x1.0 = 28.5 $ Ocak-Cev Haz. Nakil : 1.7x1.0 = 1.7 $ Cev.Haz-İzabe Nakil : 2.9x0.04 = 0.11 $ Cevher Haz Masrafı : 0.15x40 = 6.0 $ İzabe Masrafı : 20x0.4 = 8.0 $ Toplam: 44.31 $ Gelir: 20 x 2.9 = 58 $ Kar: 58 - 44.31 = 13.69 $ Kar
+##### B- Cevher Zenginleştirme İşlemi Sonucunda İzabeye verilmesi Durumunda (1 ton cevher için) Giderler 
+* Ocak üretim Gideri: 28.5x1.0 = 28.5 USD 
+* Ocak-Cev Haz. Nakil : 1.7x1.0 = 1.7 USD 
+* Cev.Haz-İzabe Nakil : 2.9x0.04 = 0.11 USD 
+* Cevher Haz Masrafı : 0.15x40 = 6.0 USD 
+* İzabe Masrafı : 20x0.4 = 8.0 USD 
+* Toplam: 44.31 USD 
+* Gelir: 20 x 2.9 = 58 USD 
+* Kar: 58 - 44.31 = 13.69 USD (Karda)
+[/ui-accordion-item][/ui-accordion]

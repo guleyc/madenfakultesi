@@ -1,5 +1,6 @@
 ---
 title: Yazarlar
+visible: false
 twitterenable: false
 twittercardoptions: summary
 articleenabled: false

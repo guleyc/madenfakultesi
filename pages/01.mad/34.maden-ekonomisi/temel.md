@@ -1,6 +1,5 @@
 ---
 title: 'Maden Ekonomisi'
-media_order: IMG_1952.JPG
 taxonomy:
     tag:
         - ekonomi
@@ -27,4 +26,4 @@ content:
 ### [Amortisman](/mad/maden-ekonomisi/amortisman.html)
 ### [Faiz Hesapları](/mad/maden-ekonomisi/faiz-hesaplari.html)
 
-[ui-image-compare]![Image to Compare](IMG_1952.JPG)[/ui-image-compare]
+[ui-browser address="https://google.com"][/browser]

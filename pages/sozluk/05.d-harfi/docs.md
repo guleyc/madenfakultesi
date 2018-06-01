@@ -10,8 +10,11 @@ orgaratingenabled: false
 facebookenable: false
 ---
 
-DAF (DELİVERED AT FRONTİER - SINIRDA TESLİM), Malların gümrük çıkış işlemleri tamamlanmış olarak sınırda, ancak bitişik ülkenin gümrük sınırından önce ve belirlenmiş bir yerde ve noktada teslime hazır hale getirilmesiyle satıcının yükümlülüklerinin sona ereceği anlamına gelen uluslararası ticaret terimi. Burada “ sınır” kelimesi, ihracatın yapıldığı ülkeninki dahil her türlü sınırı tanımlar. Bu nedenle sözü edilen “ sınır”ın atıfta bulunulan yerini ve noktasını mutlaka isim olarak belirtmek ve böylece kesinleştirmek gerekir. Bu terim özellikle demiryolu ve karayolu taşımacılığı için düşünülmüşse de, herhangi bir taşıma biçiminde de kullanılabilir. (Incoterms 1990).
-DAĞ BİLLURU, —> Neceftaşı.
+## DAF (DELİVERED AT FRONTİER - SINIRDA TESLİM)
+Malların gümrük çıkış işlemleri tamamlanmış olarak sınırda, ancak bitişik ülkenin gümrük sınırından önce ve belirlenmiş bir yerde ve noktada teslime hazır hale getirilmesiyle satıcının yükümlülüklerinin sona ereceği anlamına gelen uluslararası ticaret terimi. Burada “ sınır” kelimesi, ihracatın yapıldığı ülkeninki dahil her türlü sınırı tanımlar. Bu nedenle sözü edilen “ sınır”ın atıfta bulunulan yerini ve noktasını mutlaka isim olarak belirtmek ve böylece kesinleştirmek gerekir. Bu terim özellikle demiryolu ve karayolu taşımacılığı için düşünülmüşse de, herhangi bir taşıma biçiminde de kullanılabilir. (Incoterms 1990).
+
+## DAĞ BİLLURU
+—> Neceftaşı.
 
 DAĞILMA EĞRİSİ, Ayırma ürünlerinden birinde bulunan ve her yoğunluk veya boyut kesiminin yüzdesini gösteren ve laboratuvar deneyleri sonucu çizilmiş eğri.
 

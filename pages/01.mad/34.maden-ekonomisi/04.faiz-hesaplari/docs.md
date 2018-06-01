@@ -99,7 +99,7 @@ $ F=10000\ast(1+0,12)^4=17735\;TL $
 ### 2) Tek Ödeme Bugünkü Değer Formülleri
 Aşağıda verilen formül n sene sonraki F değerini i faiz ortamında eşdeğeri olan bugünkü P değerini bulmada kullanılır. 
 
-$ P=F\ast(1+i)^-n $
+$ P=F\ast(1+i)^{-n} $
 
 #### Örnek
 5 yıl sonra %12 faizle 10000 TL elde etmek için yatırılması gereken paranın bugünkü değeri nedir?

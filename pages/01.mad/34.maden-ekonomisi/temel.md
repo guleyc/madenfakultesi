@@ -1,10 +1,5 @@
 ---
 title: 'Maden Ekonomisi'
-content:
-    items: '@self.modular'
-    order:
-        by: ''
-        dir: ''
 taxonomy:
     tag:
         - ekonomi
@@ -19,8 +14,14 @@ orga:
     ratingValue: 2.5
 orgaratingenabled: false
 facebookenable: true
+content:
+    items: '@self.modular'
+    order:
+        by: ''
+        dir: ''
 ---
 
 ### [Temel Kavramlar](/mad/maden-ekonomisi/temel-kavramlar.html)
 ### [Başa Baş Nokta Analizi](/mad/maden-ekonomisi/basa-bas-noktasi-analizi.html)
 ### [Amortisman](/mad/maden-ekonomisi/amortisman.html)
+### [Faiz Hesapları](/mad/maden-ekonomisi/faiz-hesaplari.html)

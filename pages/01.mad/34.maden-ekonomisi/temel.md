@@ -1,5 +1,6 @@
 ---
 title: 'Maden Ekonomisi'
+media_order: IMG_1952.JPG
 taxonomy:
     tag:
         - ekonomi
@@ -21,7 +22,9 @@ content:
         dir: ''
 ---
 
-[ui-callout][ui-callout-item title="Outlines" position="50%, 50%, se"][/ui-callout-item][/ui-callout]### [Temel Kavramlar](/mad/maden-ekonomisi/temel-kavramlar.html)
+### [Temel Kavramlar](/mad/maden-ekonomisi/temel-kavramlar.html)
 ### [Başa Baş Nokta Analizi](/mad/maden-ekonomisi/basa-bas-noktasi-analizi.html)
 ### [Amortisman](/mad/maden-ekonomisi/amortisman.html)
 ### [Faiz Hesapları](/mad/maden-ekonomisi/faiz-hesaplari.html)
+
+[ui-image-compare]![Image to Compare](IMG_1952.JPG)[/ui-image-compare]!

@@ -126,7 +126,7 @@ Aşağıda verilen formül n dönem sonunda F değerini elde etmek için i faiz 
 
 $ A=F\ast\left[\frac i{(1+i)^n-1}\right] $
 
-### Bileşik Değer Formülü
+### 6) Bileşik Değer Formülü
 Aşağıda verilen formül her dönem sonu A miktarda yatırım yapıp, i faiz ortamında n dönem sonunda elde edilecek F değerinin tayininde kullanılır.
 
 $ F=A\ast\left[\frac{(1+i)^n-1}i\right] $

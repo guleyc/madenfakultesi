@@ -65,48 +65,46 @@ Birinci duruma örnek olarak; % 5 Pb içerikli kurşun cevheri verilebilir. Bu t
 
 
 ## Cevher Hazırlamada Kullanılan Terimler
-Mineral: Doğada bulunan ve belirli fiziksel, kimyasal yapıya sahip olan bileşiklere Mineral denilmektedir. Her mineralin belirli bir kristal yapısı bulunmaktadır.
+**Mineral:** Doğada bulunan ve belirli fiziksel, kimyasal yapıya sahip olan bileşiklere Mineral denilmektedir. Her mineralin belirli bir kristal yapısı bulunmaktadır.
 
-Kıymetli Mineral: Belirli bir mineral topluluğu içerisinde, ekonomik değer taşıyan mineral veya minerallere Kıymetli Mineral denilmektedir. örneğin: Krom cevheri içerisinde Kromit minerali (FeO Cr2O3) gibi...
+**Kıymetli Mineral:** Belirli bir mineral topluluğu içerisinde, ekonomik değer taşıyan mineral veya minerallere Kıymetli Mineral denilmektedir. örneğin: Krom cevheri içerisinde Kromit minerali (FeO Cr2O3) gibi...
 
-Kıymetsiz Mineral: Belirli bir mineral topluluğu içerisinde ekonomik değer taşımayan minerallere denilmektedir. Kıymetsiz minerallere Gang Mineralleri de denilmektedir. örneğin; krom cevheri içerisinde bulunan serpantin, olivin gibi, veya manyezit cevheri içerisinde bulunan kuvars gibi.
+**Kıymetsiz Mineral:** Belirli bir mineral topluluğu içerisinde ekonomik değer taşımayan minerallere denilmektedir. Kıymetsiz minerallere Gang Mineralleri de denilmektedir. örneğin; krom cevheri içerisinde bulunan serpantin, olivin gibi, veya manyezit cevheri içerisinde bulunan kuvars gibi.
 
-Cevher: Yerkabuğunda bulunan ve olduğu gibi veya bazı işlemler uygulanarak kullanılır hale getirilen kayaçlara cevher denilmektedir. Cevherler genellikle birden fazla mineral içermektedirler Yani aslında cevherler bir mineraller topluluğudur. Örneğin; bir kurşun cevherinde galen (PbS), sfalerit (ZnS), arjantit (Ag2S), pirit (FeS2), kuvars (SiO2), kalsit (CaCO3) vs. bulunabilir.
+**Cevher:** Yerkabuğunda bulunan ve olduğu gibi veya bazı işlemler uygulanarak kullanılır hale getirilen kayaçlara cevher denilmektedir. Cevherler genellikle birden fazla mineral içermektedirler Yani aslında cevherler bir mineraller topluluğudur. Örneğin; bir kurşun cevherinde galen (PbS), sfalerit (ZnS), arjantit (Ag2S), pirit (FeS2), kuvars (SiO2), kalsit (CaCO3) vs. bulunabilir.
 
-Tüvenan Cevher: Ocaktan çıkarılmış ancak üzerinde herhangi bir işlem yapılmamış cevhere Tüvenan Cevher denmektedir.
+**Tüvenan Cevher:** Ocaktan çıkarılmış ancak üzerinde herhangi bir işlem yapılmamış cevhere Tüvenan Cevher denmektedir.
 
-Konsantre: Bir zenginleştirme işlemi sonucu elde edilen kıymetli mineral veya element içeren ürüne Konsantre denilmektedir.
+**Konsantre:** Bir zenginleştirme işlemi sonucu elde edilen kıymetli mineral veya element içeren ürüne Konsantre denilmektedir.
 
-Artık (Gang): Bir zenginleştirme işlemi sonucunda elde edilen ve kıymetsiz ürünlerden oluşan ürüne Artık veya Gang denilmektedir.
+**Artık (Gang):** Bir zenginleştirme işlemi sonucunda elde edilen ve kıymetsiz ürünlerden oluşan ürüne Artık veya Gang denilmektedir.
 
-Tenör: Bir tüvenan cevher, bir konsantre veya artıkta bulunan kıymetli mineral veya bileşik yüzdesine tenör denmektedir. örneğin: Krom Konsantresi Tenörü: % 48 Cr2O3 Krom artık tenörü: % 10 Cr2O3 veya Florit Konsantresi Tenörü: % 85 CaF2 Bakır Konsantresi Tenörü: % 22 Cu gibi
+**Tenör:** Bir tüvenan cevher, bir konsantre veya artıkta bulunan kıymetli mineral veya bileşik yüzdesine tenör denmektedir. örneğin: Krom Konsantresi Tenörü: % 48 Cr2O3 Krom artık tenörü: % 10 Cr2O3 veya Florit Konsantresi Tenörü: % 85 CaF2 Bakır Konsantresi Tenörü: % 22 Cu gibi
 
-Serbest Tane: Tek bir mineral veya aynı mineralden oluşan bir grup halinde bulunan tanelere Serbest Tane denilmektedir.
+**Serbest Tane:** Tek bir mineral veya aynı mineralden oluşan bir grup halinde bulunan tanelere Serbest Tane denilmektedir.
 
-Bağlı Tane (Bileşik Tane): Birbirlerinden ayrılması gereken ancak bir arada bulunan tanelere Bağlı Taneler denilmektedir.
+**Bağlı Tane (Bileşik Tane):** Birbirlerinden ayrılması gereken ancak bir arada bulunan tanelere Bağlı Taneler denilmektedir.
 
-Serbestleşme (Liberasyon): Bağlı tanelerin bölünerek serbest tane haline gelmesi durumuna Serbestleşme denilmektedir.
+**Serbestleşme (Liberasyon):** Bağlı tanelerin bölünerek serbest tane haline gelmesi durumuna Serbestleşme denilmektedir.
 
-Kırma: Tane boyutunu küçültmek için, en az 10 mm boyutlu tane elde edilinceye kadar yapılan boyut küçültme işlemine Kırma denilmektedir. Kırma, iri ve ince kırma olmak üzere ikiye ayrılmaktadır.
+**Kırma:** Tane boyutunu küçültmek için, en az 10 mm boyutlu tane elde edilinceye kadar yapılan boyut küçültme işlemine Kırma denilmektedir. Kırma, iri ve ince kırma olmak üzere ikiye ayrılmaktadır.
 * İri kırma: 10 cm den iri parçaların kırılmasında 
 * İnce kırma: 10 ile 0.5 cm arasındaki parçaların kırılmasında kullanılmaktadır.
 
-Öğütme: 1 cm altında yapılan boyut küçültme işlemlerine, öğütme denilmektedir. öğütme iri, ince ve mikronize öğütme olmak üzere üçe ayrılmaktadır.
+**Öğütme:** 1 cm altında yapılan boyut küçültme işlemlerine, öğütme denilmektedir. öğütme iri, ince ve mikronize öğütme olmak üzere üçe ayrılmaktadır.
 * İri öğütme: 25 mm ile 1mm arasında yapılan öğütme 
 * İnce öğütme: 1 mm ile 25 mikron arasında yapılan öğütme 
 * Mikronize öğütme: 25 mikrondan daha küçük boyutlara yapılan öğütmedir.
 
-Eleme: Tüvenan veya kırılmış ürünlerin Elek kullanılarak boyuta göre ayırma işlemidir.
+**Eleme:** Tüvenan veya kırılmış ürünlerin elek kullanılarak boyuta göre ayırma işlemidir.
 
-Klasifikasyon: Şekil faktörü boyut ve özgül ağırlık farklarından yararlanılarak durgun veya hareketli akışkan ortam içinde tanelerin ayrılması işlemine klasifikasyon denilmektedir.
+**Klasifikasyon:** Şekil faktörü boyut ve özgül ağırlık farklarından yararlanılarak durgun veya hareketli akışkan ortam içinde tanelerin ayrılması işlemine klasifikasyon denilmektedir.
 
-Zenginleştirme: Kıymetli veya kıymetsiz minerallerin, belli fiziksel ve kimyasal özelliklerinden yararlanılarak ve belli aygıtlar kullanılarak ayrılması işlemine denilmektedir.
+**Zenginleştirme:** Kıymetli veya kıymetsiz minerallerin, belli fiziksel ve kimyasal özelliklerinden yararlanılarak ve belli aygıtlar kullanılarak ayrılması işlemine denilmektedir.
 
-Konsantre Verimi (Randıman): Bir ayırma işlemi sonucunda elde edilen kıymetli üründeki (konsantre) kıymetli element veya bileşik miktarının, zenginleştirme işlemine giren üründeki kıymetli element veya bileşik miktarına oranıdır.
+**Konsantre Verimi (Randıman):** Bir ayırma işlemi sonucunda elde edilen kıymetli üründeki (konsantre) kıymetli element veya bileşik miktarının, zenginleştirme işlemine giren üründeki kıymetli element veya bileşik miktarına oranıdır.
 
-Boyut Küçültme, Boyuta göre sınıflandırma enerji yoğun proses kademeleri olup, optimum hazırlama işlemleri için optimum enerji tüketiminin sağlanması gereklidir. Bu amaca yönelik optimum mühendislik çalışması için;
-
-Cevher karakteristiklerinin (mineralojik, fiziksel) belirlenmesi, En uygun makina teçhizatın seçilmesi, En uygun proses kademelerinin tasarımlandırılması gerekmektedir. Cevher hazırlama uygulanması ile bir takım ek giderler ve malzeme kayıpları oluşmaktadır. Buna karşılık bazı kazançlar ve tüketimde kolaylılıklar söz konusu olmaktadır. 
+Boyut Küçültme, Boyuta göre sınıflandırma enerji yoğun proses kademeleri olup, optimum hazırlama işlemleri için optimum enerji tüketiminin sağlanması gereklidir. Bu amaca yönelik optimum mühendislik çalışması için; cevher karakteristiklerinin (mineralojik, fiziksel) belirlenmesi, En uygun makina teçhizatın seçilmesi, En uygun proses kademelerinin tasarımlandırılması gerekmektedir. Cevher hazırlama uygulanması ile bir takım ek giderler ve malzeme kayıpları oluşmaktadır. Buna karşılık bazı kazançlar ve tüketimde kolaylılıklar söz konusu olmaktadır. 
 
 Örneğin; Bir yanda 
 1. Hazırlama ve Zenginleştirme Giderleri 

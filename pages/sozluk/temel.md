@@ -1,5 +1,5 @@
 ---
-title: Sözlük
+title: 'Maden Terimleri Sözlüğü'
 twitterenable: false
 twittercardoptions: summary
 articleenabled: false
@@ -9,8 +9,6 @@ orga:
 orgaratingenabled: false
 facebookenable: false
 ---
-
-# Maden Terimleri Sözlüğü
 
 [A harfi ile başlayanlar](/sozluk/a-harfi.html)
 

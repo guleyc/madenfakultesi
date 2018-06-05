@@ -1,4 +1,0 @@
----
-title: 'Mine System Analysis'
----
-

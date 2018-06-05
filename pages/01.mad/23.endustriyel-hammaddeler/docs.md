@@ -1,4 +1,0 @@
----
-title: 'Endüstriyel Hammaddeler'
----
-

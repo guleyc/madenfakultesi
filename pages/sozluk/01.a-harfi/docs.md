@@ -157,23 +157,15 @@ Sondajlarda kullanılmak üzere hazırlanmış bentonitli çamura ince öğütü
 ## AĞIRLIKLI ORTALAMA
 İşletmecilikle ilgili planlamada, fizibilite ( işletilebilirlik) hesaplamala-rında dikkate almak üzere; yapılan ölçüm, tenör veya ısıl değer gibi bulguları etkileyen yan faktörleri de dikkate alarak, bu bulguların farklı katsayılarla çarpımı sonunda elde edilen değerlerin ortalaması. Örneğin damar kalınlığı 1 m olan bir kesimdeki tenör ile damar kalınlığı 20 cm fakat farklı tenördeki bir kesimin müştereken değerlendirilmesinde ağırlıklı ortalamayı dikkate almak gerekir. Bir bakır yatağından 6 numune alınmışsa, farklı damar kalınlıkları dikkate alınarak aşağıdaki gibi hesap yapılır:
 
- Numune  Damar        Analiz sonuçları
-
-     no     kalınlığı cm        % Cu    % Cu. cm
-
-   1           110        5,5     605
-
-   2            85        3,2     272
-
-   3            60        2,8     168
-
-   4            90        4,8     432
-
-   5            95        5,1     484
-
-   6           160        3,6     576
-
-               600       25,0   2537
+| Numune No | Damar Kalınlığı (cm) | % Cu Analizi | cm Cu Analizi |
+| :----- | :----- | :----- | :----- |
+| 1 | 110 | 5,5 | 605 |
+| 2 | 85 | 3,2 | 272 |
+| 3 | 60 | 2,8 | 168 |
+| 4 | 90 | 4,8 | 432 |
+| 5 | 95 | 5,1 | 484 |
+| 6 | 95 | 3,6 | 576 |
+| Toplam | 600 | 25,0 | 2537 |
 
 Burada aritmetik ortalama 25:6=%4,16 iken; 1 m’lik bir damarın ağırlıklı ortalaması 2537:600=%4,23 Cu olarak bulunur. Ancak işletmecilikte uygulama kabiliyetini de düşünmek gerekir. Örneğin 3 üncü numunenin alındığı yerde 60 cm lik bir ayna teşkil edilmesi zorunluğu tenör değerini düşürecektir ve bunun da % 1,9 Cu olacağı kabul edilirse, fiili durumda tenörün takriben %4 olabileceği hesaplanabilir.
 

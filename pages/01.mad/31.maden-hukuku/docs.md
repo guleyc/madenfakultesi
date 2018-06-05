@@ -1,4 +1,0 @@
----
-title: 'Maden Hukuku'
----
-

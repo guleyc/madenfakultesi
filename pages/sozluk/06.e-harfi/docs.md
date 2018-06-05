@@ -17,7 +17,7 @@ Hava sıcaklığı, hava nemi ve hava akım hızının beraberce, kişi üzerind
 Isı ve-ren kimyasal olay.
 
 ## EĞİK KİLİT TAHKİMATLI AYAK İŞLETME METODU
-—> Küp veya —> Çapraz çerçeve tahkimatlı işletme metot-larının uygulanması müm-kün olmayan veya çerçeve yapılmasına vakit bırak-mayan, tavanı ve tabanı kabaran dar damarlarda uygulanan; tavanın göç-mesini, tabanın kabarmasını önleme esasına dayanan ağaç tahkimatlı (üretim) işletme metodu. 
+—> Küp veya —> Çapraz çerçeve tahkimatlı işletme metotlarının uygulanması müm-kün olmayan veya çerçeve yapılmasına vakit bırakmayan, tavanı ve tabanı kabaran dar damarlarda uygulanan; tavanın göçmesini, tabanın kabarmasını önleme esasına dayanan ağaç tahkimatlı (üretim) işletme metodu. 
 
 ## EĞİM
 1) Genel olarak bir yüzeyin yatay düzlemle düşey düzlem arasındaki bir konumda olması. 2) Bir yolun yatay düzlemle yaptığı eğim açısının tanjantı. 3) Fizikte, yerin mıknatıs alanında bulunan bağımsız mıknatıslı bir iğnenin doğrultusuyla yatay düzlem arasındaki açı. İnklinasyon. 4) Gök bilimi ve matematikte bir doğrunun bir düzlemle ya da başka bir doğruyla yaptığı açı. —> Eğim ve Zenit açısı, Azimut, Semt açısı.

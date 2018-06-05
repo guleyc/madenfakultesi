@@ -14,5 +14,3 @@ facebookenable: false
 creator: guleyc
 ---
 
-[chartjs type="line" datapoints="0,10,20,30,40" datalabels="0,10,20,30,40"
- backgroundcolor3="orange" bordercolor3="yellow" responsive="false" legend="false" style="margin:25px;"][/chartjs]

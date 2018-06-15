@@ -13,7 +13,8 @@ facebookenable: false
 ## GABARİ
 Taşıtlarda yükün yükseklik ve genişlik ölçüsü.
 
-## GAGAT—> Oltu taşı.
+## GAGAT
+—> Oltu taşı.
 
 ## GALEN (GALENİT)
 Ağır, çabuk kırılabilen, gümüşgrisi renginde, kübik sistemde kristallenen ve kusursuz kübik yüzeylerde dilinimi olan, sertlik derecesi 2,5 ve yoğunluğu 7,5 gr/cm3 kuvvetli metal cilalı, kurşun (gümüş) grisi renginde, çizgisi grimsi siyah, hamlaçta çatırdayarak eriyen kurşun tanesi veren, kömür üzerinde sarı iz bırakan, ekseriyetle bünyesinde gümüş izomorf mahlût halinde veya mekaniki karışmış olarak bulunan, hidrotermal olarak filonlarda çinko blend (ZnS), gümüş madenleri, pirit, barit, kalsit, kuars vb. minerallerle birlikte veya metazomat teşekkül olarak kalsit ve dolomit arasında bulunan " kurşun sülfür" (PbS). Eskiden galen kristalleri radyo imalinde de kullanılıyordu.

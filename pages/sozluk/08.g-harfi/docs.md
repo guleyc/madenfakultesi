@@ -180,7 +180,7 @@ Açık işletmede en alt basamak (graden) ile en üst basamağın kenarlarını 
 
 Genel meyil açısı aşağıdaki şekilde hesaplanır:
 
-$ cos(alfa)=[((N-1)*a)+(N*b)]/N*h $
+$ \cos\left(\alpha\right)=\frac{\left(N-1\right)\times a+(N\times b)}{N\times h} $
 
 N  : Basamak sayısı
 
